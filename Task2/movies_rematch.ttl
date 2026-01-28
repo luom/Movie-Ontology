@@ -1,0 +1,485 @@
+@prefix : <http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@base <http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/> .
+
+
+# ============ Directors ============
+:director_1 a :Director ;
+    :name "Christopher Nolan" .
+:director_2 a :Director ;
+    :name "David Fincher" .
+:director_3 a :Director ;
+    :name "Francis Ford Coppola" .
+:director_4 a :Director ;
+    :name "Frank Capra" .
+:director_5 a :Director ;
+    :name "Frank Darabont" .
+:director_6 a :Director ;
+    :name "Jonathan Demme" .
+:director_7 a :Director ;
+    :name "Lana and Lilly Wachowski" .
+:director_8 a :Director ;
+    :name "Martin Scorsese" .
+:director_9 a :Director ;
+    :name "Milo? Forman" .
+:director_10 a :Director ;
+    :name "Peter Jackson" .
+:director_11 a :Director ;
+    :name "Quentin Tarantino" .
+:director_12 a :Director ;
+    :name "Robert Zemeckis" .
+:director_13 a :Director ;
+    :name "Sidney Lumet" .
+:director_14 a :Director ;
+    :name "Steven Spielberg" .
+
+# ============ Actors ============
+:actor_1 a :Actor ;
+    :name "Aaron Eckhart" .
+:actor_2 a :Actor ;
+    :name "Al Pacino" .
+:actor_3 a :Actor ;
+    :name "Anthony Hopkins" .
+:actor_4 a :Actor ;
+    :name "Ben Kingsley" .
+:actor_5 a :Actor ;
+    :name "Bob Gunton" .
+:actor_6 a :Actor ;
+    :name "Brad Pitt" .
+:actor_7 a :Actor ;
+    :name "Carrie-Anne Moss" .
+:actor_8 a :Actor ;
+    :name "Christian Bale" .
+:actor_9 a :Actor ;
+    :name "Donna Reed" .
+:actor_10 a :Actor ;
+    :name "Edward Norton" .
+:actor_11 a :Actor ;
+    :name "Elijah Wood" .
+:actor_12 a :Actor ;
+    :name "Elliot Page" .
+:actor_13 a :Actor ;
+    :name "Gary Sinise" .
+:actor_14 a :Actor ;
+    :name "Heath Ledger" .
+:actor_15 a :Actor ;
+    :name "Helena Bonham Carter" .
+:actor_16 a :Actor ;
+    :name "Henry Fonda" .
+:actor_17 a :Actor ;
+    :name "Ian McKellen" .
+:actor_18 a :Actor ;
+    :name "Jack Nicholson" .
+:actor_19 a :Actor ;
+    :name "James Caan" .
+:actor_20 a :Actor ;
+    :name "James Stewart" .
+:actor_21 a :Actor ;
+    :name "Jodie Foster" .
+:actor_22 a :Actor ;
+    :name "Joe Pesci" .
+:actor_23 a :Actor ;
+    :name "John Travolta" .
+:actor_24 a :Actor ;
+    :name "Joseph Gordon-Levitt" .
+:actor_25 a :Actor ;
+    :name "Keanu Reeves" .
+:actor_26 a :Actor ;
+    :name "Laurence Fishburne" .
+:actor_27 a :Actor ;
+    :name "Lee J. Cobb" .
+:actor_28 a :Actor ;
+    :name "Leonardo DiCaprio" .
+:actor_29 a :Actor ;
+    :name "Liam Neeson" .
+:actor_30 a :Actor ;
+    :name "Lionel Barrymore" .
+:actor_31 a :Actor ;
+    :name "Louise Fletcher" .
+:actor_32 a :Actor ;
+    :name "Marlon Brando" .
+:actor_33 a :Actor ;
+    :name "Martin Balsam" .
+:actor_34 a :Actor ;
+    :name "Morgan Freeman" .
+:actor_35 a :Actor ;
+    :name "Ralph Fiennes" .
+:actor_36 a :Actor ;
+    :name "Ray Liotta" .
+:actor_37 a :Actor ;
+    :name "Robert De Niro" .
+:actor_38 a :Actor ;
+    :name "Robert Duvall" .
+:actor_39 a :Actor ;
+    :name "Robin Wright" .
+:actor_40 a :Actor ;
+    :name "Samuel L. Jackson" .
+:actor_41 a :Actor ;
+    :name "Scott Glenn" .
+:actor_42 a :Actor ;
+    :name "Tim Robbins" .
+:actor_43 a :Actor ;
+    :name "Tom Hanks" .
+:actor_44 a :Actor ;
+    :name "Uma Thurman" .
+:actor_45 a :Actor ;
+    :name "Viggo Mortensen" .
+:actor_46 a :Actor ;
+    :name "Will Sampson" .
+
+# ============ Genres ============
+:genre_1 a :Genre ;
+    :name "Action" .
+:genre_2 a :Genre ;
+    :name "Adventure" .
+:genre_3 a :Genre ;
+    :name "Biography" .
+:genre_4 a :Genre ;
+    :name "Crime" .
+:genre_5 a :Genre ;
+    :name "Drama" .
+:genre_6 a :Genre ;
+    :name "Family" .
+:genre_7 a :Genre ;
+    :name "Fantasy" .
+:genre_8 a :Genre ;
+    :name "History" .
+:genre_9 a :Genre ;
+    :name "Romance" .
+:genre_10 a :Genre ;
+    :name "Sci-Fi" .
+:genre_11 a :Genre ;
+    :name "Thriller" .
+
+# ============ Movies ============
+
+# Movie: The Shawshank Redemption
+:movie_1 a :Movie ;
+    :title "The Shawshank Redemption" ;
+    :releaseYear 1994 ;
+    :duration 133 ;
+    :rating 8.5 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope." ;
+    :budget 25000000 ;
+    :revenue 28341469 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_1 :directedBy :director_5 .
+:movie_1 :hasActor :actor_42 .
+:movie_1 :hasActor :actor_34 .
+:movie_1 :hasActor :actor_5 .
+:movie_1 :hasGenre :genre_5 .
+
+# Movie: The Godfather
+:movie_2 a :Movie ;
+    :title "The Godfather" ;
+    :releaseYear 1972 ;
+    :duration 173 ;
+    :rating 8.4 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge." ;
+    :budget 6000000 ;
+    :revenue 245066411 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_2 :directedBy :director_3 .
+:movie_2 :hasActor :actor_32 .
+:movie_2 :hasActor :actor_2 .
+:movie_2 :hasActor :actor_19 .
+:movie_2 :hasGenre :genre_4 .
+:movie_2 :hasGenre :genre_5 .
+
+# Movie: The Dark Knight
+:movie_3 a :Movie ;
+    :title "The Dark Knight" ;
+    :releaseYear 2008 ;
+    :duration 99 ;
+    :rating 8.2 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker." ;
+    :budget 185000000 ;
+    :revenue 1004558444 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_3 :directedBy :director_1 .
+:movie_3 :hasActor :actor_8 .
+:movie_3 :hasActor :actor_14 .
+:movie_3 :hasActor :actor_1 .
+:movie_3 :hasGenre :genre_1 .
+:movie_3 :hasGenre :genre_4 .
+:movie_3 :hasGenre :genre_5 .
+
+# Movie: The Godfather Part II
+:movie_4 a :Movie ;
+    :title "The Godfather Part II" ;
+    :releaseYear 1974 ;
+    :duration 169 ;
+    :rating 6.2 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "The Hangover crew heads to Thailand for Stu's wedding. After the disaster of a bachelor party in Las Vegas last year, Stu is playing it safe with a mellow pre-wedding brunch. However, nothing goes as planned and Bangkok is the perfect setting for another adventure with the rowdy group." ;
+    :budget 80000000 ;
+    :revenue 254455986 ;
+    :matchScore 0.75 ;
+    :matchStatus "Matched" .
+:movie_4 :directedBy :director_3 .
+:movie_4 :hasActor :actor_2 .
+:movie_4 :hasActor :actor_37 .
+:movie_4 :hasActor :actor_38 .
+:movie_4 :hasGenre :genre_4 .
+:movie_4 :hasGenre :genre_5 .
+
+# Movie: 12 Angry Men
+:movie_5 a :Movie ;
+    :title "12 Angry Men" ;
+    :releaseYear 1957 ;
+    :duration 95 ;
+    :rating 8.2 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other." ;
+    :budget 350000 ;
+    :revenue 1000000 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_5 :directedBy :director_13 .
+:movie_5 :hasActor :actor_16 .
+:movie_5 :hasActor :actor_27 .
+:movie_5 :hasActor :actor_33 .
+:movie_5 :hasGenre :genre_4 .
+:movie_5 :hasGenre :genre_5 .
+
+# Movie: Schindler's List
+:movie_6 a :Movie ;
+    :title "Schindler's List" ;
+    :releaseYear 1993 ;
+    :duration 90 ;
+    :rating 8.3 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II." ;
+    :budget 22000000 ;
+    :revenue 321365567 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_6 :directedBy :director_14 .
+:movie_6 :hasActor :actor_29 .
+:movie_6 :hasActor :actor_35 .
+:movie_6 :hasActor :actor_4 .
+:movie_6 :hasGenre :genre_3 .
+:movie_6 :hasGenre :genre_5 .
+:movie_6 :hasGenre :genre_8 .
+
+# Movie: The Lord of the Rings: The Return of the King
+:movie_7 a :Movie ;
+    :title "The Lord of the Rings: The Return of the King" ;
+    :releaseYear 2003 ;
+    :duration 166 ;
+    :rating 8.1 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam bring the ring closer to the heart of Mordor, the dark lord's realm." ;
+    :budget 94000000 ;
+    :revenue 1118888979 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_7 :directedBy :director_10 .
+:movie_7 :hasActor :actor_11 .
+:movie_7 :hasActor :actor_45 .
+:movie_7 :hasActor :actor_17 .
+:movie_7 :hasGenre :genre_1 .
+:movie_7 :hasGenre :genre_2 .
+:movie_7 :hasGenre :genre_5 .
+
+# Movie: Pulp Fiction
+:movie_8 a :Movie ;
+    :title "Pulp Fiction" ;
+    :releaseYear 1994 ;
+    :duration 141 ;
+    :rating 8.3 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time." ;
+    :budget 8000000 ;
+    :revenue 213928762 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_8 :directedBy :director_11 .
+:movie_8 :hasActor :actor_23 .
+:movie_8 :hasActor :actor_44 .
+:movie_8 :hasActor :actor_40 .
+:movie_8 :hasGenre :genre_4 .
+:movie_8 :hasGenre :genre_5 .
+
+# Movie: The Lord of the Rings: The Fellowship of the Ring
+:movie_9 a :Movie ;
+    :title "The Lord of the Rings: The Fellowship of the Ring" ;
+    :releaseYear 2001 ;
+    :duration 115 ;
+    :rating 8.0 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed." ;
+    :budget 93000000 ;
+    :revenue 871368364 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_9 :directedBy :director_10 .
+:movie_9 :hasActor :actor_11 .
+:movie_9 :hasActor :actor_17 .
+:movie_9 :hasActor :actor_45 .
+:movie_9 :hasGenre :genre_1 .
+:movie_9 :hasGenre :genre_2 .
+:movie_9 :hasGenre :genre_5 .
+
+# Movie: Fight Club
+:movie_10 a :Movie ;
+    :title "Fight Club" ;
+    :releaseYear 1999 ;
+    :duration 178 ;
+    :rating 8.3 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion." ;
+    :budget 63000000 ;
+    :revenue 100853753 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_10 :directedBy :director_2 .
+:movie_10 :hasActor :actor_6 .
+:movie_10 :hasActor :actor_10 .
+:movie_10 :hasActor :actor_15 .
+:movie_10 :hasGenre :genre_5 .
+
+# Movie: Forrest Gump
+:movie_11 a :Movie ;
+    :title "Forrest Gump" ;
+    :releaseYear 1994 ;
+    :duration 145 ;
+    :rating 8.2 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. Yet, despite all the things he has attained, his one true love eludes him. 'Forrest Gump' is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability." ;
+    :budget 55000000 ;
+    :revenue 677945399 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_11 :directedBy :director_12 .
+:movie_11 :hasActor :actor_43 .
+:movie_11 :hasActor :actor_39 .
+:movie_11 :hasActor :actor_13 .
+:movie_11 :hasGenre :genre_5 .
+:movie_11 :hasGenre :genre_9 .
+
+# Movie: Inception
+:movie_12 a :Movie ;
+    :title "Inception" ;
+    :releaseYear 2010 ;
+    :duration 100 ;
+    :rating 8.1 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious." ;
+    :budget 160000000 ;
+    :revenue 825532764 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_12 :directedBy :director_1 .
+:movie_12 :hasActor :actor_28 .
+:movie_12 :hasActor :actor_24 .
+:movie_12 :hasActor :actor_12 .
+:movie_12 :hasGenre :genre_1 .
+:movie_12 :hasGenre :genre_2 .
+:movie_12 :hasGenre :genre_10 .
+
+# Movie: The Matrix
+:movie_14 a :Movie ;
+    :title "The Matrix" ;
+    :releaseYear 1999 ;
+    :duration 161 ;
+    :rating 7.9 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth." ;
+    :budget 63000000 ;
+    :revenue 463517383 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_14 :directedBy :director_7 .
+:movie_14 :hasActor :actor_25 .
+:movie_14 :hasActor :actor_26 .
+:movie_14 :hasActor :actor_7 .
+:movie_14 :hasGenre :genre_1 .
+:movie_14 :hasGenre :genre_10 .
+
+# Movie: Goodfellas
+:movie_15 a :Movie ;
+    :title "Goodfellas" ;
+    :releaseYear 1990 ;
+    :duration 137 ;
+    :rating 8.2 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway." ;
+    :budget 25000000 ;
+    :revenue 46836394 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_15 :directedBy :director_8 .
+:movie_15 :hasActor :actor_37 .
+:movie_15 :hasActor :actor_36 .
+:movie_15 :hasActor :actor_22 .
+:movie_15 :hasGenre :genre_3 .
+:movie_15 :hasGenre :genre_4 .
+:movie_15 :hasGenre :genre_5 .
+
+# Movie: One Flew Over the Cuckoo's Nest
+:movie_16 a :Movie ;
+    :title "One Flew Over the Cuckoo's Nest" ;
+    :releaseYear 1975 ;
+    :duration 162 ;
+    :rating 8.2 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "While serving time for insanity at a state mental hospital, implacable rabble-rouser, Randle Patrick McMurphy inspires his fellow patients to rebel against the authoritarian rule of head nurse, Mildred Ratched." ;
+    :budget 3000000 ;
+    :revenue 108981275 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_16 :directedBy :director_9 .
+:movie_16 :hasActor :actor_18 .
+:movie_16 :hasActor :actor_31 .
+:movie_16 :hasActor :actor_46 .
+:movie_16 :hasGenre :genre_5 .
+
+# Movie: The Silence of the Lambs
+:movie_18 a :Movie ;
+    :title "The Silence of the Lambs" ;
+    :releaseYear 1991 ;
+    :duration 162 ;
+    :rating 8.1 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "FBI trainee, Clarice Starling ventures into a maximum-security asylum to pick the diseased brain of Hannibal Lecter, a psychiatrist turned homicidal cannibal. Starling needs clues to help her capture a serial killer. but her Faustian relationship with Lecter soon leads to his escape, and now two deranged killers are on the loose." ;
+    :budget 19000000 ;
+    :revenue 272742922 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_18 :directedBy :director_6 .
+:movie_18 :hasActor :actor_21 .
+:movie_18 :hasActor :actor_3 .
+:movie_18 :hasActor :actor_41 .
+:movie_18 :hasGenre :genre_4 .
+:movie_18 :hasGenre :genre_5 .
+:movie_18 :hasGenre :genre_11 .
+
+# Movie: It's a Wonderful Life
+:movie_19 a :Movie ;
+    :title "It's a Wonderful Life" ;
+    :releaseYear 1946 ;
+    :duration 158 ;
+    :rating 8.0 ;
+    :plot "A classic film with compelling storyline and memorable performances." ;
+    :plot "George Bailey has spent his entire life giving of himself to the people of Bedford Falls. He has always longed to travel but never had the opportunity in order to prevent rich skinflint Mr. Potter from taking over the entire town. All that prevents him from doing so is George's modest building and loan company, which was founded by his generous father. But on Christmas Eve, George's Uncle Billy loses the business's $8,000 while intending to deposit it in the bank. Potter finds the misplaced money, hides it from Billy, and George's troubles begin." ;
+    :budget 3180000 ;
+    :revenue 9644124 ;
+    :matchScore 1.0 ;
+    :matchStatus "Matched" .
+:movie_19 :directedBy :director_4 .
+:movie_19 :hasActor :actor_20 .
+:movie_19 :hasActor :actor_9 .
+:movie_19 :hasActor :actor_30 .
+:movie_19 :hasGenre :genre_5 .
+:movie_19 :hasGenre :genre_6 .
+:movie_19 :hasGenre :genre_7 .
