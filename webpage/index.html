@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        input {
+            flex: 1;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            padding: 12px 25px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        .results {
+            margin-top: 20px;
+        }
+        .movie {
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            background: #fafafa;
+        }
+        .movie h3 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+        .movie p {
+            margin: 5px 0;
+            color: #666;
+        }
+        .loading {
+            text-align: center;
+            color: #666;
+            padding: 20px;
+        }
+        .error {
+            color: red;
+            padding: 10px;
+            background: #ffe6e6;
+            border-radius: 5px;
+        }
+        .stats {
+            background: #e9ecef;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .links {
+            margin-bottom: 15px;
+            font-size: 14px;
+        }
+        .links a {
+            color: #007bff;
+            text-decoration: none;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Movie Search</h1>
+        
+        <!-- SEARCH-BOX -->
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Enter detail......^0^" value="">
+            <button onclick="search()">Search</button>
+        </div>
+
+        
+        <div class="links">
+            Examples: 
+            <a onclick="setSearch('inception')">Inception</a> |
+            <a onclick="setSearch('batman')">Batman</a> |
+            <a onclick="setSearch('avatar')">Avatar</a> |
+            <a onclick="setSearch('titanic')">Titanic</a> |
+            <a onclick="setSearch('Adventure')">Adventure</a> |
+            <a onclick="showStats()">Statistics</a>
+            
+        </div>
+
+        <!-- 结果区域 -->
+        <div id="results" class="results">
+            <div class="loading">Enter a movie title to search...</div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:5000';
+
+        // 设置搜索框的值并搜索
+        function setSearch(title) {
+            document.getElementById('searchInput').value = title;
+            search();
+        }
+
+        // 搜索函数
+        async function search() {
+            const query = document.getElementById('searchInput').value.trim();
+            if (!query) {
+                alert('Please enter a search term');
+                return;
+            }
+
+            // 显示加载状态
+            document.getElementById('results').innerHTML = '<div class="loading">Searching...</div>';
+
+            try {
+                // 调用API
+                const response = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`);
+                const data = await response.json();
+
+                if (data.error) {
+                    showError(data.error);
+                    return;
+                }
+
+                displayResults(data);
+            } catch (error) {
+                showError('Cannot connect to server. Make sure the API is running.');
+            }
+        }
+
+        // 显示统计信息
+        async function showStats() {
+            document.getElementById('results').innerHTML = '<div class="loading">Loading stats...</div>';
+
+            try {
+                const response = await fetch(`${API_BASE}/stats`);
+                const stats = await response.json();
+
+                let html = '<div class="stats">';
+                html += `<p><strong>Database Statistics</strong></p>`;
+                html += `<p>Movies: ${stats.movies || 0}</p>`;
+                html += `<p>Actors: ${stats.actors || 0}</p>`;
+                html += `<p>Directors: ${stats.directors || 0}</p>`;
+                html += `<p>Genres: ${stats.genres || 0}</p>`;
+                html += `<p>Studios: ${stats.companies || 0}</p>`;
+                html += `<p>Countries: ${stats.countries || 0}</p>`;
+                html += `<p>Total RDF Triples: ${stats.total_triples || 0}</p>`;
+                html += '</div>';
+
+                document.getElementById('results').innerHTML = html;
+            } catch (error) {
+                showError('Cannot load statistics');
+            }
+        }
+
+        // 显示搜索结果
+        function displayResults(data) {
+            if (!data.results || data.results.length === 0) {
+                document.getElementById('results').innerHTML = '<div class="loading">No movies found</div>';
+                return;
+            }
+
+            let html = `<p>Found ${data.total} movies:</p>`;
+
+            data.results.forEach(movie => {
+                html += `
+                    <div class="movie">
+                        <h3>${movie.title} ${movie.year ? '(' + movie.year + ')' : ''}</h3>
+                        ${movie.rating ? `<p>Rating: ${movie.rating}</p>` : ''}
+                        ${movie.matchField ? `<p><small>Matched in: ${movie.matchField}</small></p>` : ''}
+                    </div>
+                `;
+            });
+
+            document.getElementById('results').innerHTML = html;
+        }
+
+        // 显示错误
+        function showError(message) {
+            document.getElementById('results').innerHTML = `<div class="error">${message}</div>`;
+        }
+
+        // 页面加载时自动搜索
+        window.onload = function() {
+            search();
+        };
+    </script>
+</body>
+</html>

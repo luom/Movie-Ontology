@@ -1,0 +1,3400 @@
+ID: 19995
+Title: Avatar
+Year: 2009
+Rating: 7.2
+Genres: Action, Adventure, Fantasy, Science Fiction
+GenreURIs: Action, Adventure, Fantasy, Science_Fiction
+Director: James Cameron
+DirectorURIs: James_Cameron
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Michelle Rodriguez
+ActorURIs: Sam_Worthington, Zoe_Saldana, Sigourney_Weaver, Stephen_Lang, Michelle_Rodriguez
+Companies: Ingenious Film Partners, Twentieth Century Fox Film Corporation, Dune Entertainment
+CompanyURIs: Ingenious_Film_Partners, Twentieth_Century_Fox_Film_Corporation, Dune_Entertainment
+Countries: United States of America, United Kingdom
+CountryURIs: United_States_of_America, United_Kingdom
+Plot: In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
+----------------------------------------
+
+ID: 285
+Title: Pirates of the Caribbean: At World's End
+Year: 2007
+Rating: 6.9
+Genres: Adventure, Fantasy, Action
+GenreURIs: Adventure, Fantasy, Action
+Director: Gore Verbinski
+DirectorURIs: Gore_Verbinski
+Actors: Johnny Depp, Orlando Bloom, Keira Knightley, Stellan Skarsgård, Chow Yun-fat
+ActorURIs: Johnny_Depp, Orlando_Bloom, Keira_Knightley, Stellan_Skarsgrd, Chow_Yun_fat
+Companies: Walt Disney Pictures, Jerry Bruckheimer Films, Second Mate Productions
+CompanyURIs: Walt_Disney_Pictures, Jerry_Bruckheimer_Films, Second_Mate_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.
+----------------------------------------
+
+ID: 206647
+Title: Spectre
+Year: 2015
+Rating: 6.3
+Genres: Action, Adventure, Crime
+GenreURIs: Action, Adventure, Crime
+Director: Sam Mendes
+DirectorURIs: Sam_Mendes
+Actors: Daniel Craig, Christoph Waltz, Léa Seydoux, Ralph Fiennes, Monica Bellucci
+ActorURIs: Daniel_Craig, Christoph_Waltz, La_Seydoux, Ralph_Fiennes, Monica_Bellucci
+Companies: Columbia Pictures, Danjaq, B24
+CompanyURIs: Columbia_Pictures, Danjaq, B24
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: A cryptic message from Bonds past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.
+----------------------------------------
+
+ID: 49026
+Title: The Dark Knight Rises
+Year: 2012
+Rating: 7.6
+Genres: Action, Crime, Drama, Thriller
+GenreURIs: Action, Crime, Drama, Thriller
+Director: Christopher Nolan
+DirectorURIs: Christopher_Nolan
+Actors: Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Tom Hardy
+ActorURIs: Christian_Bale, Michael_Caine, Gary_Oldman, Anne_Hathaway, Tom_Hardy
+Companies: Legendary Pictures, Warner Bros., DC Entertainment
+CompanyURIs: Legendary_Pictures, Warner_Bros, DC_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.
+----------------------------------------
+
+ID: 49529
+Title: John Carter
+Year: 2012
+Rating: 6.1
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Andrew Stanton
+DirectorURIs: Andrew_Stanton
+Actors: Taylor Kitsch, Lynn Collins, Samantha Morton, Willem Dafoe, Thomas Haden Church
+ActorURIs: Taylor_Kitsch, Lynn_Collins, Samantha_Morton, Willem_Dafoe, Thomas_Haden_Church
+Companies: Walt Disney Pictures
+CompanyURIs: Walt_Disney_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: John Carter is a war-weary, former military captain who's inexplicably transported to the mysterious and exotic planet of Barsoom (Mars) and reluctantly becomes embroiled in an epic conflict. It's a world on the brink of collapse, and Carter rediscovers his humanity when he realizes the survival of Barsoom and its people rests in his hands.
+----------------------------------------
+
+ID: 559
+Title: Spider-Man 3
+Year: 2007
+Rating: 5.9
+Genres: Fantasy, Action, Adventure
+GenreURIs: Fantasy, Action, Adventure
+Director: Sam Raimi
+DirectorURIs: Sam_Raimi
+Actors: Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace
+ActorURIs: Tobey_Maguire, Kirsten_Dunst, James_Franco, Thomas_Haden_Church, Topher_Grace
+Companies: Columbia Pictures, Laura Ziskin Productions, Marvel Enterprises
+CompanyURIs: Columbia_Pictures, Laura_Ziskin_Productions, Marvel_Enterprises
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The seemingly invincible Spider-Man goes up against an all-new crop of villain including the shape-shifting Sandman. While Spider-Mans superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.
+----------------------------------------
+
+ID: 38757
+Title: Tangled
+Year: 2010
+Rating: 7.4
+Genres: Animation, Family
+GenreURIs: Animation, Family
+Director: Byron Howard, Nathan Greno
+DirectorURIs: Byron_Howard, Nathan_Greno
+Actors: Zachary Levi, Mandy Moore, Donna Murphy, Ron Perlman, M.C. Gainey
+ActorURIs: Zachary_Levi, Mandy_Moore, Donna_Murphy, Ron_Perlman, MC_Gainey
+Companies: Walt Disney Pictures, Walt Disney Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Walt_Disney_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When the kingdom's most wanted-and most charming-bandit Flynn Rider hides out in a mysterious tower, he's taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair. Flynn's curious captor, who's looking for her ticket out of the tower where she's been locked away for years, strikes a deal with the handsome thief and the unlikely duo sets off on an action-packed escapade, complete with a super-cop horse, an over-protective chameleon and a gruff gang of pub thugs.
+----------------------------------------
+
+ID: 99861
+Title: Avengers: Age of Ultron
+Year: 2015
+Rating: 7.3
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Joss Whedon
+DirectorURIs: Joss_Whedon
+Actors: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson
+ActorURIs: Robert_Downey_Jr, Chris_Hemsworth, Mark_Ruffalo, Chris_Evans, Scarlett_Johansson
+Companies: Marvel Studios, Prime Focus, Revolution Sun Studios
+CompanyURIs: Marvel_Studios, Prime_Focus, Revolution_Sun_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earths Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.
+----------------------------------------
+
+ID: 767
+Title: Harry Potter and the Half-Blood Prince
+Year: 2009
+Rating: 7.4
+Genres: Adventure, Fantasy, Family
+GenreURIs: Adventure, Fantasy, Family
+Director: David Yates
+DirectorURIs: David_Yates
+Actors: Daniel Radcliffe, Rupert Grint, Emma Watson, Tom Felton, Michael Gambon
+ActorURIs: Daniel_Radcliffe, Rupert_Grint, Emma_Watson, Tom_Felton, Michael_Gambon
+Companies: Warner Bros., Heyday Films
+CompanyURIs: Warner_Bros, Heyday_Films
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past.
+----------------------------------------
+
+ID: 209112
+Title: Batman v Superman: Dawn of Justice
+Year: 2016
+Rating: 5.7
+Genres: Action, Adventure, Fantasy
+GenreURIs: Action, Adventure, Fantasy
+Director: Zack Snyder
+DirectorURIs: Zack_Snyder
+Actors: Ben Affleck, Henry Cavill, Gal Gadot, Amy Adams, Jesse Eisenberg
+ActorURIs: Ben_Affleck, Henry_Cavill, Gal_Gadot, Amy_Adams, Jesse_Eisenberg
+Companies: DC Comics, Atlas Entertainment, Warner Bros.
+CompanyURIs: DC_Comics, Atlas_Entertainment, Warner_Bros
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Fearing the actions of a god-like Super Hero left unchecked, Gotham Citys own formidable, forceful vigilante takes on Metropoliss most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than its ever known before.
+----------------------------------------
+
+ID: 1452
+Title: Superman Returns
+Year: 2006
+Rating: 5.4
+Genres: Adventure, Fantasy, Action, Science Fiction
+GenreURIs: Adventure, Fantasy, Action, Science_Fiction
+Director: Bryan Singer
+DirectorURIs: Bryan_Singer
+Actors: Brandon Routh, Kevin Spacey, Kate Bosworth, James Marsden, Parker Posey
+ActorURIs: Brandon_Routh, Kevin_Spacey, Kate_Bosworth, James_Marsden, Parker_Posey
+Companies: DC Comics, Legendary Pictures, Warner Bros.
+CompanyURIs: DC_Comics, Legendary_Pictures, Warner_Bros
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest too felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.
+----------------------------------------
+
+ID: 10764
+Title: Quantum of Solace
+Year: 2008
+Rating: 6.1
+Genres: Adventure, Action, Thriller, Crime
+GenreURIs: Adventure, Action, Thriller, Crime
+Director: Marc Forster
+DirectorURIs: Marc_Forster
+Actors: Daniel Craig, Olga Kurylenko, Mathieu Amalric, Judi Dench, Giancarlo Giannini
+ActorURIs: Daniel_Craig, Olga_Kurylenko, Mathieu_Amalric, Judi_Dench, Giancarlo_Giannini
+Companies: Eon Productions
+CompanyURIs: Eon_Productions
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Quantum of Solace continues the adventures of James Bond after Casino Royale. Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.
+----------------------------------------
+
+ID: 58
+Title: Pirates of the Caribbean: Dead Man's Chest
+Year: 2006
+Rating: 7.0
+Genres: Adventure, Fantasy, Action
+GenreURIs: Adventure, Fantasy, Action
+Director: Gore Verbinski
+DirectorURIs: Gore_Verbinski
+Actors: Johnny Depp, Orlando Bloom, Keira Knightley, Stellan Skarsgård, Bill Nighy
+ActorURIs: Johnny_Depp, Orlando_Bloom, Keira_Knightley, Stellan_Skarsgrd, Bill_Nighy
+Companies: Walt Disney Pictures, Jerry Bruckheimer Films, Second Mate Productions
+CompanyURIs: Walt_Disney_Pictures, Jerry_Bruckheimer_Films, Second_Mate_Productions
+Countries: Jamaica, United States of America, Bahamas, Dominica
+CountryURIs: Jamaica, United_States_of_America, Bahamas, Dominica
+Plot: Captain Jack Sparrow works his way out of a blood debt with the ghostly Davey Jones, he also attempts to avoid eternal damnation.
+----------------------------------------
+
+ID: 57201
+Title: The Lone Ranger
+Year: 2013
+Rating: 5.9
+Genres: Action, Adventure, Western
+GenreURIs: Action, Adventure, Western
+Director: Gore Verbinski
+DirectorURIs: Gore_Verbinski
+Actors: Johnny Depp, Armie Hammer, William Fichtner, Helena Bonham Carter, James Badge Dale
+ActorURIs: Johnny_Depp, Armie_Hammer, William_Fichtner, Helena_Bonham_Carter, James_Badge_Dale
+Companies: Walt Disney Pictures, Jerry Bruckheimer Films, Infinitum Nihil
+CompanyURIs: Walt_Disney_Pictures, Jerry_Bruckheimer_Films, Infinitum_Nihil
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the gang ambushes the Rangers, seemingly killing them all. One survivor is found, however, by an American Indian named Tonto, who nurses him back to health. The Ranger, donning a mask and riding a white stallion named Silver, teams up with Tonto to bring the unscrupulous gang and others of that ilk to justice.
+----------------------------------------
+
+ID: 49521
+Title: Man of Steel
+Year: 2013
+Rating: 6.5
+Genres: Action, Adventure, Fantasy, Science Fiction
+GenreURIs: Action, Adventure, Fantasy, Science_Fiction
+Director: Zack Snyder
+DirectorURIs: Zack_Snyder
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Kevin Costner, Diane Lane
+ActorURIs: Henry_Cavill, Amy_Adams, Michael_Shannon, Kevin_Costner, Diane_Lane
+Companies: Legendary Pictures, Warner Bros., DC Entertainment
+CompanyURIs: Legendary_Pictures, Warner_Bros, DC_Entertainment
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.
+----------------------------------------
+
+ID: 2454
+Title: The Chronicles of Narnia: Prince Caspian
+Year: 2008
+Rating: 6.3
+Genres: Adventure, Family, Fantasy
+GenreURIs: Adventure, Family, Fantasy
+Director: Andrew Adamson
+DirectorURIs: Andrew_Adamson
+Actors: Ben Barnes, William Moseley, Anna Popplewell, Skandar Keynes, Georgie Henley
+ActorURIs: Ben_Barnes, William_Moseley, Anna_Popplewell, Skandar_Keynes, Georgie_Henley
+Companies: Walt Disney, Walden Media, Stillking Films
+CompanyURIs: Walt_Disney, Walden_Media, Stillking_Films
+Countries: Czech Republic, Poland, Slovenia, United States of America
+CountryURIs: Czech_Republic, Poland, Slovenia, United_States_of_America
+Plot: One year after their incredible adventures in the Lion, the Witch and the Wardrobe, Peter, Edmund, Lucy and Susan Pevensie return to Narnia to aid a young prince whose life has been threatened by the evil King Miraz. Now, with the help of a colorful cast of new characters, including Trufflehunter the badger and Nikabrik the dwarf, the Pevensie clan embarks on an incredible quest to ensure that Narnia is returned to its rightful heir.
+----------------------------------------
+
+ID: 24428
+Title: The Avengers
+Year: 2012
+Rating: 7.4
+Genres: Science Fiction, Action, Adventure
+GenreURIs: Science_Fiction, Action, Adventure
+Director: Joss Whedon
+DirectorURIs: Joss_Whedon
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson
+ActorURIs: Robert_Downey_Jr, Chris_Evans, Mark_Ruffalo, Chris_Hemsworth, Scarlett_Johansson
+Companies: Paramount Pictures, Marvel Studios
+CompanyURIs: Paramount_Pictures, Marvel_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!
+----------------------------------------
+
+ID: 1865
+Title: Pirates of the Caribbean: On Stranger Tides
+Year: 2011
+Rating: 6.4
+Genres: Adventure, Action, Fantasy
+GenreURIs: Adventure, Action, Fantasy
+Director: Rob Marshall
+DirectorURIs: Rob_Marshall
+Actors: Johnny Depp, Penélope Cruz, Ian McShane, Kevin McNally, Geoffrey Rush
+ActorURIs: Johnny_Depp, Penlope_Cruz, Ian_McShane, Kevin_McNally, Geoffrey_Rush
+Companies: Walt Disney Pictures, Jerry Bruckheimer Films, Moving Picture Company (MPC)
+CompanyURIs: Walt_Disney_Pictures, Jerry_Bruckheimer_Films, Moving_Picture_Company_MPC
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love -- or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.
+----------------------------------------
+
+ID: 41154
+Title: Men in Black 3
+Year: 2012
+Rating: 6.2
+Genres: Action, Comedy, Science Fiction
+GenreURIs: Action, Comedy, Science_Fiction
+Director: Barry Sonnenfeld
+DirectorURIs: Barry_Sonnenfeld
+Actors: Will Smith, Tommy Lee Jones, Josh Brolin, Michael Stuhlbarg, Emma Thompson
+ActorURIs: Will_Smith, Tommy_Lee_Jones, Josh_Brolin, Michael_Stuhlbarg, Emma_Thompson
+Companies: Amblin Entertainment, Media Magik Entertainment, Imagenation Abu Dhabi FZ
+CompanyURIs: Amblin_Entertainment, Media_Magik_Entertainment, Imagenation_Abu_Dhabi_FZ
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Agents J (Will Smith) and K (Tommy Lee Jones) are back...in time. J has seen some inexplicable things in his 15 years with the Men in Black, but nothing, not even aliens, perplexes him as much as his wry, reticent partner. But when K's life and the fate of the planet are put at stake, Agent J will have to travel back in time to put things right. J discovers that there are secrets to the universe that K never told him - secrets that will reveal themselves as he teams up with the young Agent K (Josh Brolin) to
+----------------------------------------
+
+ID: 122917
+Title: The Hobbit: The Battle of the Five Armies
+Year: 2014
+Rating: 7.1
+Genres: Action, Adventure, Fantasy
+GenreURIs: Action, Adventure, Fantasy
+Director: Peter Jackson
+DirectorURIs: Peter_Jackson
+Actors: Martin Freeman, Ian McKellen, Richard Armitage, Ken Stott, Graham McTavish
+ActorURIs: Martin_Freeman, Ian_McKellen, Richard_Armitage, Ken_Stott, Graham_McTavish
+Companies: WingNut Films, New Line Cinema, Warner Bros. Pictures
+CompanyURIs: WingNut_Films, New_Line_Cinema, Warner_Bros_Pictures
+Countries: New Zealand, United States of America
+CountryURIs: New_Zealand, United_States_of_America
+Plot: Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.
+----------------------------------------
+
+ID: 1930
+Title: The Amazing Spider-Man
+Year: 2012
+Rating: 6.5
+Genres: Action, Adventure, Fantasy
+GenreURIs: Action, Adventure, Fantasy
+Director: Marc Webb
+DirectorURIs: Marc_Webb
+Actors: Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott
+ActorURIs: Andrew_Garfield, Emma_Stone, Rhys_Ifans, Denis_Leary, Campbell_Scott
+Companies: Columbia Pictures, Laura Ziskin Productions, Marvel Entertainment
+CompanyURIs: Columbia_Pictures, Laura_Ziskin_Productions, Marvel_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter
+----------------------------------------
+
+ID: 20662
+Title: Robin Hood
+Year: 2010
+Rating: 6.2
+Genres: Action, Adventure
+GenreURIs: Action, Adventure
+Director: Ridley Scott
+DirectorURIs: Ridley_Scott
+Actors: Russell Crowe, Cate Blanchett, Max von Sydow, William Hurt, Mark Strong
+ActorURIs: Russell_Crowe, Cate_Blanchett, Max_von_Sydow, William_Hurt, Mark_Strong
+Companies: Imagine Entertainment, Universal Pictures, Scott Free Productions
+CompanyURIs: Imagine_Entertainment, Universal_Pictures, Scott_Free_Productions
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man's sword to his family in Nottingham. There, he assumes Robert's identity; romances his widow, Marion; and draws the ire of the town's sheriff and King John's henchman, Godfrey.
+----------------------------------------
+
+ID: 57158
+Title: The Hobbit: The Desolation of Smaug
+Year: 2013
+Rating: 7.6
+Genres: Adventure, Fantasy
+GenreURIs: Adventure, Fantasy
+Director: Peter Jackson
+DirectorURIs: Peter_Jackson
+Actors: Martin Freeman, Ian McKellen, Richard Armitage, Ken Stott, Graham McTavish
+ActorURIs: Martin_Freeman, Ian_McKellen, Richard_Armitage, Ken_Stott, Graham_McTavish
+Companies: WingNut Films, New Line Cinema, Warner Bros. Pictures
+CompanyURIs: WingNut_Films, New_Line_Cinema, Warner_Bros_Pictures
+Countries: New Zealand, United States of America
+CountryURIs: New_Zealand, United_States_of_America
+Plot: The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.
+----------------------------------------
+
+ID: 2268
+Title: The Golden Compass
+Year: 2007
+Rating: 5.8
+Genres: Adventure, Fantasy
+GenreURIs: Adventure, Fantasy
+Director: Chris Weitz
+DirectorURIs: Chris_Weitz
+Actors: Dakota Blue Richards, Nicole Kidman, Daniel Craig, Sam Elliott, Eva Green
+ActorURIs: Dakota_Blue_Richards, Nicole_Kidman, Daniel_Craig, Sam_Elliott, Eva_Green
+Companies: New Line Cinema, Ingenious Film Partners, Depth of Field
+CompanyURIs: New_Line_Cinema, Ingenious_Film_Partners, Depth_of_Field
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: After overhearing a shocking secret, precocious orphan Lyra Belacqua trades her carefree existence roaming the halls of Jordan College for an otherworldly adventure in the far North, unaware that it's part of her destiny.
+----------------------------------------
+
+ID: 254
+Title: King Kong
+Year: 2005
+Rating: 6.6
+Genres: Adventure, Drama, Action
+GenreURIs: Adventure, Drama, Action
+Director: Peter Jackson
+DirectorURIs: Peter_Jackson
+Actors: Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann, Colin Hanks
+ActorURIs: Naomi_Watts, Jack_Black, Adrien_Brody, Thomas_Kretschmann, Colin_Hanks
+Companies: WingNut Films, Universal Pictures, Big Primate Pictures
+CompanyURIs: WingNut_Films, Universal_Pictures, Big_Primate_Pictures
+Countries: New Zealand, United States of America, Germany
+CountryURIs: New_Zealand, United_States_of_America, Germany
+Plot: In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.
+----------------------------------------
+
+ID: 597
+Title: Titanic
+Year: 1997
+Rating: 7.5
+Genres: Drama, Romance, Thriller
+GenreURIs: Drama, Romance, Thriller
+Director: James Cameron
+DirectorURIs: James_Cameron
+Actors: Kate Winslet, Leonardo DiCaprio, Frances Fisher, Billy Zane, Kathy Bates
+ActorURIs: Kate_Winslet, Leonardo_DiCaprio, Frances_Fisher, Billy_Zane, Kathy_Bates
+Companies: Paramount Pictures, Twentieth Century Fox Film Corporation, Lightstorm Entertainment
+CompanyURIs: Paramount_Pictures, Twentieth_Century_Fox_Film_Corporation, Lightstorm_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: 84 years later, a 101-year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fianc, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death
+----------------------------------------
+
+ID: 271110
+Title: Captain America: Civil War
+Year: 2016
+Rating: 7.1
+Genres: Adventure, Action, Science Fiction
+GenreURIs: Adventure, Action, Science_Fiction
+Director: Anthony Russo, Joe Russo
+DirectorURIs: Anthony_Russo, Joe_Russo
+Actors: Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie
+ActorURIs: Chris_Evans, Robert_Downey_Jr, Scarlett_Johansson, Sebastian_Stan, Anthony_Mackie
+Companies: Studio Babelsberg, Marvel Studios, Walt Disney Studios Motion Pictures
+CompanyURIs: Studio_Babelsberg, Marvel_Studios, Walt_Disney_Studios_Motion_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.
+----------------------------------------
+
+ID: 44833
+Title: Battleship
+Year: 2012
+Rating: 5.5
+Genres: Thriller, Action, Adventure, Science Fiction
+GenreURIs: Thriller, Action, Adventure, Science_Fiction
+Director: Peter Berg
+DirectorURIs: Peter_Berg
+Actors: Taylor Kitsch, Alexander Skarsgård, Rihanna, Brooklyn Decker, Tadanobu Asano
+ActorURIs: Taylor_Kitsch, Alexander_Skarsgrd, Rihanna, Brooklyn_Decker, Tadanobu_Asano
+Companies: Universal Pictures, Hasbro, Bluegrass Films
+CompanyURIs: Universal_Pictures, Hasbro, Bluegrass_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When mankind beams a radio signal into space, a reply comes from Planet G, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential his brother, and his fiance's father, Admiral Shane, expect of him.
+----------------------------------------
+
+ID: 135397
+Title: Jurassic World
+Year: 2015
+Rating: 6.5
+Genres: Action, Adventure, Science Fiction, Thriller
+GenreURIs: Action, Adventure, Science_Fiction, Thriller
+Director: Colin Trevorrow
+DirectorURIs: Colin_Trevorrow
+Actors: Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio, Nick Robinson
+ActorURIs: Chris_Pratt, Bryce_Dallas_Howard, Irrfan_Khan, Vincent_DOnofrio, Nick_Robinson
+Companies: Universal Studios, Amblin Entertainment, Legendary Pictures
+CompanyURIs: Universal_Studios, Amblin_Entertainment, Legendary_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.
+----------------------------------------
+
+ID: 37724
+Title: Skyfall
+Year: 2012
+Rating: 6.9
+Genres: Action, Adventure, Thriller
+GenreURIs: Action, Adventure, Thriller
+Director: Sam Mendes
+DirectorURIs: Sam_Mendes
+Actors: Daniel Craig, Judi Dench, Javier Bardem, Ralph Fiennes, Naomie Harris
+ActorURIs: Daniel_Craig, Judi_Dench, Javier_Bardem, Ralph_Fiennes, Naomie_Harris
+Companies: Columbia Pictures
+CompanyURIs: Columbia_Pictures
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: When Bond's latest assignment goes gravely wrong and agents around the world are exposed, MI6 is attacked forcing M to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory, the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows - aided only by field agent, Eve - following a trail to the mysterious Silva, whose lethal and hidden motives have yet to reveal themselves.
+----------------------------------------
+
+ID: 558
+Title: Spider-Man 2
+Year: 2004
+Rating: 6.7
+Genres: Action, Adventure, Fantasy
+GenreURIs: Action, Adventure, Fantasy
+Director: Sam Raimi
+DirectorURIs: Sam_Raimi
+Actors: Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina, Rosemary Harris
+ActorURIs: Tobey_Maguire, Kirsten_Dunst, James_Franco, Alfred_Molina, Rosemary_Harris
+Companies: Columbia Pictures, Laura Ziskin Productions, Marvel Enterprises
+CompanyURIs: Columbia_Pictures, Laura_Ziskin_Productions, Marvel_Enterprises
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood.
+----------------------------------------
+
+ID: 68721
+Title: Iron Man 3
+Year: 2013
+Rating: 6.8
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Shane Black
+DirectorURIs: Shane_Black
+Actors: Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall
+ActorURIs: Robert_Downey_Jr, Gwyneth_Paltrow, Don_Cheadle, Guy_Pearce, Rebecca_Hall
+Companies: Marvel Studios
+CompanyURIs: Marvel_Studios
+Countries: China, United States of America
+CountryURIs: China, United_States_of_America
+Plot: When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.
+----------------------------------------
+
+ID: 12155
+Title: Alice in Wonderland
+Year: 2010
+Rating: 6.4
+Genres: Family, Fantasy, Adventure
+GenreURIs: Family, Fantasy, Adventure
+Director: Tim Burton
+DirectorURIs: Tim_Burton
+Actors: Mia Wasikowska, Johnny Depp, Anne Hathaway, Helena Bonham Carter, Crispin Glover
+ActorURIs: Mia_Wasikowska, Johnny_Depp, Anne_Hathaway, Helena_Bonham_Carter, Crispin_Glover
+Companies: Walt Disney Pictures, Team Todd, Tim Burton Productions
+CompanyURIs: Walt_Disney_Pictures, Team_Todd, Tim_Burton_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Alice, an unpretentious and individual 19-year-old, is betrothed to a dunce of an English nobleman. At her engagement party, she escapes the crowd to consider whether to go through with the marriage and falls down a hole in the garden after spotting an unusual rabbit. Arriving in a strange and surreal place called 'Underland,' she finds herself in a world that resembles the nightmares she had as a child, filled with talking animals, villainous queens and knights, and frumious bandersnatches. Alice realizes that she is there for a reason to conquer the horrific Jabberwocky and restore the rightful queen to
+----------------------------------------
+
+ID: 36668
+Title: X-Men: The Last Stand
+Year: 2006
+Rating: 6.3
+Genres: Adventure, Action, Science Fiction, Thriller
+GenreURIs: Adventure, Action, Science_Fiction, Thriller
+Director: Brett Ratner
+DirectorURIs: Brett_Ratner
+Actors: Hugh Jackman, Halle Berry, Ian McKellen, Patrick Stewart, Famke Janssen
+ActorURIs: Hugh_Jackman, Halle_Berry, Ian_McKellen, Patrick_Stewart, Famke_Janssen
+Companies: Ingenious Film Partners, Twentieth Century Fox Film Corporation, Donners' Company
+CompanyURIs: Ingenious_Film_Partners, Twentieth_Century_Fox_Film_Corporation, Donners_Company
+Countries: Canada, United Kingdom, United States of America
+CountryURIs: Canada, United_Kingdom, United_States_of_America
+Plot: When a cure is found to treat mutations, lines are drawn amongst the X-Men and The Brotherhood, a band of powerful mutants organized under Xavier's former ally, Magneto.
+----------------------------------------
+
+ID: 62211
+Title: Monsters University
+Year: 2013
+Rating: 7.0
+Genres: Animation, Family
+GenreURIs: Animation, Family
+Director: Dan Scanlon
+DirectorURIs: Dan_Scanlon
+Actors: Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren, Noah Johnston
+ActorURIs: Billy_Crystal, John_Goodman, Steve_Buscemi, Helen_Mirren, Noah_Johnston
+Companies: Walt Disney Pictures, Pixar Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Pixar_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A look at the relationship between Mike and Sulley during their days at Monsters University when they weren't necessarily the best of friends.
+----------------------------------------
+
+ID: 8373
+Title: Transformers: Revenge of the Fallen
+Year: 2009
+Rating: 6.0
+Genres: Science Fiction, Action, Adventure
+GenreURIs: Science_Fiction, Action, Adventure
+Director: Michael Bay
+DirectorURIs: Michael_Bay
+Actors: Shia LaBeouf, Megan Fox, Josh Duhamel, Rainn Wilson, Tyrese Gibson
+ActorURIs: Shia_LaBeouf, Megan_Fox, Josh_Duhamel, Rainn_Wilson, Tyrese_Gibson
+Companies: Paramount Pictures, DreamWorks SKG, Amblin Entertainment
+CompanyURIs: Paramount_Pictures, DreamWorks_SKG, Amblin_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.
+----------------------------------------
+
+ID: 91314
+Title: Transformers: Age of Extinction
+Year: 2014
+Rating: 5.8
+Genres: Science Fiction, Action, Adventure
+GenreURIs: Science_Fiction, Action, Adventure
+Director: Michael Bay
+DirectorURIs: Michael_Bay
+Actors: Mark Wahlberg, Stanley Tucci, Kelsey Grammer, Nicola Peltz, Jack Reynor
+ActorURIs: Mark_Wahlberg, Stanley_Tucci, Kelsey_Grammer, Nicola_Peltz, Jack_Reynor
+Companies: Paramount Pictures, Amblin Entertainment, Di Bonaventura Pictures
+CompanyURIs: Paramount_Pictures, Amblin_Entertainment, Di_Bonaventura_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: As humanity picks up the pieces, following the conclusion of "Transformers: Dark of the Moon," Autobots and Decepticons have all but vanished from the face of the planet. However, a group of powerful, ingenious businessman and scientists attempt to learn from past Transformer incursions and push the boundaries of technology beyond what they can control - all while an ancient, powerful Transformer menace sets Earth in his cross-hairs.
+----------------------------------------
+
+ID: 68728
+Title: Oz: The Great and Powerful
+Year: 2013
+Rating: 5.7
+Genres: Fantasy, Adventure, Family
+GenreURIs: Fantasy, Adventure, Family
+Director: Sam Raimi
+DirectorURIs: Sam_Raimi
+Actors: James Franco, Mila Kunis, Rachel Weisz, Michelle Williams, Zach Braff
+ActorURIs: James_Franco, Mila_Kunis, Rachel_Weisz, Michelle_Williams, Zach_Braff
+Companies: Walt Disney Pictures, Roth Films
+CompanyURIs: Walt_Disney_Pictures, Roth_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil.
+----------------------------------------
+
+ID: 102382
+Title: The Amazing Spider-Man 2
+Year: 2014
+Rating: 6.5
+Genres: Action, Adventure, Fantasy
+GenreURIs: Action, Adventure, Fantasy
+Director: Marc Webb
+DirectorURIs: Marc_Webb
+Actors: Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Campbell Scott
+ActorURIs: Andrew_Garfield, Emma_Stone, Jamie_Foxx, Dane_DeHaan, Campbell_Scott
+Companies: Columbia Pictures, Marvel Enterprises, Avi Arad Productions
+CompanyURIs: Columbia_Pictures, Marvel_Enterprises, Avi_Arad_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwens father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.
+----------------------------------------
+
+ID: 20526
+Title: TRON: Legacy
+Year: 2010
+Rating: 6.3
+Genres: Adventure, Action, Science Fiction
+GenreURIs: Adventure, Action, Science_Fiction
+Director: Joseph Kosinski
+DirectorURIs: Joseph_Kosinski
+Actors: Garrett Hedlund, Jeff Bridges, Olivia Wilde, Bruce Boxleitner, Yaya DaCosta
+ActorURIs: Garrett_Hedlund, Jeff_Bridges, Olivia_Wilde, Bruce_Boxleitner, Yaya_DaCosta
+Companies: Walt Disney Pictures, LivePlanet, Prana Studios
+CompanyURIs: Walt_Disney_Pictures, LivePlanet, Prana_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.
+----------------------------------------
+
+ID: 49013
+Title: Cars 2
+Year: 2011
+Rating: 5.8
+Genres: Animation, Family, Adventure, Comedy
+GenreURIs: Animation, Family, Adventure, Comedy
+Director: John Lasseter, Brad Lewis
+DirectorURIs: John_Lasseter, Brad_Lewis
+Actors: Owen Wilson, Larry the Cable Guy, Michael Caine, Emily Mortimer, John Turturro
+ActorURIs: Owen_Wilson, Larry_the_Cable_Guy, Michael_Caine, Emily_Mortimer, John_Turturro
+Companies: Walt Disney Pictures, Pixar Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Pixar_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.
+----------------------------------------
+
+ID: 44912
+Title: Green Lantern
+Year: 2011
+Rating: 5.1
+Genres: Adventure, Action, Thriller, Science Fiction
+GenreURIs: Adventure, Action, Thriller, Science_Fiction
+Director: Martin Campbell
+DirectorURIs: Martin_Campbell
+Actors: Ryan Reynolds, Blake Lively, Peter Sarsgaard, Tim Robbins, Mark Strong
+ActorURIs: Ryan_Reynolds, Blake_Lively, Peter_Sarsgaard, Tim_Robbins, Mark_Strong
+Companies: De Line Pictures, Warner Bros., DC Entertainment
+CompanyURIs: De_Line_Pictures, Warner_Bros, DC_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.
+----------------------------------------
+
+ID: 10193
+Title: Toy Story 3
+Year: 2010
+Rating: 7.6
+Genres: Animation, Family, Comedy
+GenreURIs: Animation, Family, Comedy
+Director: Lee Unkrich
+DirectorURIs: Lee_Unkrich
+Actors: Tom Hanks, Tim Allen, Ned Beatty, Joan Cusack, Michael Keaton
+ActorURIs: Tom_Hanks, Tim_Allen, Ned_Beatty, Joan_Cusack, Michael_Keaton
+Companies: Walt Disney Pictures, Pixar Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Pixar_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.
+----------------------------------------
+
+ID: 534
+Title: Terminator Salvation
+Year: 2009
+Rating: 5.9
+Genres: Action, Science Fiction, Thriller
+GenreURIs: Action, Science_Fiction, Thriller
+Director: McG
+DirectorURIs: McG
+Actors: Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood, Bryce Dallas Howard
+ActorURIs: Christian_Bale, Sam_Worthington, Anton_Yelchin, Moon_Bloodgood, Bryce_Dallas_Howard
+Companies: Columbia Pictures, The Halcyon Company, Wonderland Sound and Vision
+CompanyURIs: Columbia_Pictures, The_Halcyon_Company, Wonderland_Sound_and_Vision
+Countries: Germany, Italy, United Kingdom, United States of America
+CountryURIs: Germany, Italy, United_Kingdom, United_States_of_America
+Plot: All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe.
+----------------------------------------
+
+ID: 168259
+Title: Furious 7
+Year: 2015
+Rating: 7.3
+Genres: Action
+GenreURIs: Action
+Director: James Wan
+DirectorURIs: James_Wan
+Actors: Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez, Tyrese Gibson
+ActorURIs: Vin_Diesel, Paul_Walker, Dwayne_Johnson, Michelle_Rodriguez, Tyrese_Gibson
+Companies: Universal Pictures, Original Film, Fuji Television Network
+CompanyURIs: Universal_Pictures, Original_Film, Fuji_Television_Network
+Countries: Japan, United States of America
+CountryURIs: Japan, United_States_of_America
+Plot: Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.
+----------------------------------------
+
+ID: 72190
+Title: World War Z
+Year: 2013
+Rating: 6.7
+Genres: Action, Drama, Horror, Science Fiction, Thriller
+GenreURIs: Action, Drama, Horror, Science_Fiction, Thriller
+Director: Marc Forster
+DirectorURIs: Marc_Forster
+Actors: Brad Pitt, Mireille Enos, Abigail Hargrove, Sterling Jerins, James Badge Dale
+ActorURIs: Brad_Pitt, Mireille_Enos, Abigail_Hargrove, Sterling_Jerins, James_Badge_Dale
+Companies: Paramount Pictures, GK Films, Skydance Productions
+CompanyURIs: Paramount_Pictures, GK_Films, Skydance_Productions
+Countries: United States of America, Malta
+CountryURIs: United_States_of_America, Malta
+Plot: Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.
+----------------------------------------
+
+ID: 127585
+Title: X-Men: Days of Future Past
+Year: 2014
+Rating: 7.5
+Genres: Action, Adventure, Fantasy, Science Fiction
+GenreURIs: Action, Adventure, Fantasy, Science_Fiction
+Director: Bryan Singer
+DirectorURIs: Bryan_Singer
+Actors: Hugh Jackman, James McAvoy, Michael Fassbender, Jennifer Lawrence, Halle Berry
+ActorURIs: Hugh_Jackman, James_McAvoy, Michael_Fassbender, Jennifer_Lawrence, Halle_Berry
+Companies: Twentieth Century Fox Film Corporation, Donners' Company, Marvel Entertainment
+CompanyURIs: Twentieth_Century_Fox_Film_Corporation, Donners_Company, Marvel_Entertainment
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past to save our future.
+----------------------------------------
+
+ID: 54138
+Title: Star Trek Into Darkness
+Year: 2013
+Rating: 7.4
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: J.J. Abrams
+DirectorURIs: JJ_Abrams
+Actors: Chris Pine, Zachary Quinto, Zoe Saldana, Karl Urban, Simon Pegg
+ActorURIs: Chris_Pine, Zachary_Quinto, Zoe_Saldana, Karl_Urban, Simon_Pegg
+Companies: Paramount Pictures, Skydance Productions, Bad Robot
+CompanyURIs: Paramount_Pictures, Skydance_Productions, Bad_Robot
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis. With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.
+----------------------------------------
+
+ID: 81005
+Title: Jack the Giant Slayer
+Year: 2013
+Rating: 5.5
+Genres: Action, Family, Fantasy
+GenreURIs: Action, Family, Fantasy
+Director: Bryan Singer
+DirectorURIs: Bryan_Singer
+Actors: Nicholas Hoult, Eleanor Tomlinson, Ewan McGregor, Stanley Tucci, Ian McShane
+ActorURIs: Nicholas_Hoult, Eleanor_Tomlinson, Ewan_McGregor, Stanley_Tucci, Ian_McShane
+Companies: New Line Cinema, Original Film, Legendary Pictures
+CompanyURIs: New_Line_Cinema, Original_Film, Legendary_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The story of an ancient war that is reignited when a young farmhand unwittingly opens a gateway between our world and a fearsome race of giants. Unleashed on the Earth for the first time in centuries, the giants strive to reclaim the land they once lost, forcing the young man, Jack into the battle of his life to stop them. Fighting for a kingdom, its people, and the love of a brave princess, he comes face to face with the unstoppable warriors he thought only existed in legendand gets the chance to become a legend himself.
+----------------------------------------
+
+ID: 64682
+Title: The Great Gatsby
+Year: 2013
+Rating: 7.3
+Genres: Drama, Romance
+GenreURIs: Drama, Romance
+Director: Baz Luhrmann
+DirectorURIs: Baz_Luhrmann
+Actors: Leonardo DiCaprio, Tobey Maguire, Carey Mulligan, Joel Edgerton, Elizabeth Debicki
+ActorURIs: Leonardo_DiCaprio, Tobey_Maguire, Carey_Mulligan, Joel_Edgerton, Elizabeth_Debicki
+Companies: Village Roadshow Pictures, Bazmark Films, Warner Bros.
+CompanyURIs: Village_Roadshow_Pictures, Bazmark_Films, Warner_Bros
+Countries: United States of America, Australia
+CountryURIs: United_States_of_America, Australia
+Plot: An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.
+----------------------------------------
+
+ID: 9543
+Title: Prince of Persia: The Sands of Time
+Year: 2010
+Rating: 6.2
+Genres: Adventure, Fantasy, Action, Romance
+GenreURIs: Adventure, Fantasy, Action, Romance
+Director: Mike Newell
+DirectorURIs: Mike_Newell
+Actors: Jake Gyllenhaal, Gemma Arterton, Ben Kingsley, Alfred Molina, Steve Toussaint
+ActorURIs: Jake_Gyllenhaal, Gemma_Arterton, Ben_Kingsley, Alfred_Molina, Steve_Toussaint
+Companies: Walt Disney Pictures, Jerry Bruckheimer Films
+CompanyURIs: Walt_Disney_Pictures, Jerry_Bruckheimer_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time gift from the gods that can reverse time and allow its possessor to rule the world.
+----------------------------------------
+
+ID: 68726
+Title: Pacific Rim
+Year: 2013
+Rating: 6.7
+Genres: Action, Science Fiction, Adventure
+GenreURIs: Action, Science_Fiction, Adventure
+Director: Guillermo del Toro
+DirectorURIs: Guillermo_del_Toro
+Actors: Idris Elba, Charlie Hunnam, Charlie Day, Ron Perlman, Burn Gorman
+ActorURIs: Idris_Elba, Charlie_Hunnam, Charlie_Day, Ron_Perlman, Burn_Gorman
+Companies: Legendary Pictures, Warner Bros., Disney Double Dare You (DDY)
+CompanyURIs: Legendary_Pictures, Warner_Bros, Disney_Double_Dare_You_DDY
+Countries: United States of America, Canada
+CountryURIs: United_States_of_America, Canada
+Plot: When legions of monstrous creatures, known as Kaiju, started rising from the sea, a war began that would take millions of lives and consume humanity's resources for years on end. To combat the giant Kaiju, a special type of weapon was devised: massive robots, called Jaegers, which are controlled simultaneously by two pilots whose minds are locked in a neural bridge. But even the Jaegers are proving nearly defenseless in the face of the relentless Kaiju. On the verge of defeat, the forces defending mankind have no choice but to turn to two unlikely heroesa washed-up former pilot (Charlie Hunnam)
+----------------------------------------
+
+ID: 38356
+Title: Transformers: Dark of the Moon
+Year: 2011
+Rating: 6.1
+Genres: Action, Science Fiction, Adventure
+GenreURIs: Action, Science_Fiction, Adventure
+Director: Michael Bay
+DirectorURIs: Michael_Bay
+Actors: Shia LaBeouf, John Malkovich, Ken Jeong, Frances McDormand, Josh Duhamel
+ActorURIs: Shia_LaBeouf, John_Malkovich, Ken_Jeong, Frances_McDormand, Josh_Duhamel
+Companies: Paramount Pictures, Di Bonaventura Pictures, Indochina Productions
+CompanyURIs: Paramount_Pictures, Di_Bonaventura_Pictures, Indochina_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Sam Witwicky takes his first tenuous steps into adulthood while remaining a reluctant human ally of Autobot-leader Optimus Prime. The film centers around the space race between the USSR and the USA, suggesting there was a hidden Transformers role in it all that remains one of the planet's most dangerous secrets.
+----------------------------------------
+
+ID: 217
+Title: Indiana Jones and the Kingdom of the Crystal Skull
+Year: 2008
+Rating: 5.7
+Genres: Adventure, Action
+GenreURIs: Adventure, Action
+Director: Steven Spielberg
+DirectorURIs: Steven_Spielberg
+Actors: Harrison Ford, Cate Blanchett, Shia LaBeouf, Ray Winstone, Karen Allen
+ActorURIs: Harrison_Ford, Cate_Blanchett, Shia_LaBeouf, Ray_Winstone, Karen_Allen
+Companies: Lucasfilm, Paramount Pictures
+CompanyURIs: Lucasfilm, Paramount_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Set during the Cold War, the Soviets led by sword-wielding Irina Spalko are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. After being captured and then escaping from them, Indy is coerced to head to Peru at the behest of a young man whose friend and Indy's colleague Professor Oxley has been captured for his knowledge of the skull's whereabouts.
+----------------------------------------
+
+ID: 105864
+Title: The Good Dinosaur
+Year: 2015
+Rating: 6.6
+Genres: Adventure, Animation, Family
+GenreURIs: Adventure, Animation, Family
+Director: Peter Sohn
+DirectorURIs: Peter_Sohn
+Actors: Raymond Ochoa, Jack Bright, Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla
+ActorURIs: Raymond_Ochoa, Jack_Bright, Jeffrey_Wright, Frances_McDormand, Maleah_Nipay_Padilla
+Companies: Walt Disney Pictures, Pixar Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Pixar_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.
+----------------------------------------
+
+ID: 62177
+Title: Brave
+Year: 2012
+Rating: 6.7
+Genres: Animation, Adventure, Comedy, Family, Action, Fantasy
+GenreURIs: Animation, Adventure, Comedy, Family, Action, Fantasy
+Director: Brenda Chapman, Mark Andrews, Steve Purcell
+DirectorURIs: Brenda_Chapman, Mark_Andrews, Steve_Purcell
+Actors: Kelly Macdonald, Julie Walters, Billy Connolly, Emma Thompson, Kevin McKidd
+ActorURIs: Kelly_Macdonald, Julie_Walters, Billy_Connolly, Emma_Thompson, Kevin_McKidd
+Companies: Walt Disney Pictures, Pixar Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Pixar_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Brave is set in the mystical Scottish Highlands, where Mrida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mrida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mrida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mridas quest and serving as comic relief are the kingdoms three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.
+----------------------------------------
+
+ID: 188927
+Title: Star Trek Beyond
+Year: 2016
+Rating: 6.6
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Justin Lin
+DirectorURIs: Justin_Lin
+Actors: Chris Pine, Zachary Quinto, Karl Urban, Simon Pegg, Zoe Saldana
+ActorURIs: Chris_Pine, Zachary_Quinto, Karl_Urban, Simon_Pegg, Zoe_Saldana
+Companies: Paramount Pictures, Bad Robot, Perfect Storm Entertainment
+CompanyURIs: Paramount_Pictures, Bad_Robot, Perfect_Storm_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test.
+----------------------------------------
+
+ID: 10681
+Title: WALLE
+Year: 2008
+Rating: 7.8
+Genres: Animation, Family
+GenreURIs: Animation, Family
+Director: Andrew Stanton
+DirectorURIs: Andrew_Stanton
+Actors: Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard, John Ratzenberger
+ActorURIs: Ben_Burtt, Elissa_Knight, Jeff_Garlin, Fred_Willard, John_Ratzenberger
+Companies: Walt Disney Pictures, Pixar Animation Studios, FortyFour Studios
+CompanyURIs: Walt_Disney_Pictures, Pixar_Animation_Studios, FortyFour_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: WALLE is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALLE thinks he's finally found a friend and stows away on the ship when it leaves.
+----------------------------------------
+
+ID: 5174
+Title: Rush Hour 3
+Year: 2007
+Rating: 6.1
+Genres: Action, Comedy, Crime, Thriller
+GenreURIs: Action, Comedy, Crime, Thriller
+Director: Brett Ratner
+DirectorURIs: Brett_Ratner
+Actors: Chris Tucker, Jackie Chan, Hiroyuki Sanada, Max von Sydow, Yvan Attal
+ActorURIs: Chris_Tucker, Jackie_Chan, Hiroyuki_Sanada, Max_von_Sydow, Yvan_Attal
+Companies: New Line Cinema
+CompanyURIs: New_Line_Cinema
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After an attempted assassination on Ambassador Han, Inspector Lee and Detective Carter are back in action as they head to Paris to protect a French woman with knowledge of the Triads' secret leaders. Lee also holds secret meetings with a United Nations authority, but his personal struggles with a Chinese criminal mastermind named Kenji, which reveals that it's Lee's long-lost...brother.
+----------------------------------------
+
+ID: 14161
+Title: 2012
+Year: 2009
+Rating: 5.6
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Roland Emmerich
+DirectorURIs: Roland_Emmerich
+Actors: John Cusack, Amanda Peet, Chiwetel Ejiofor, Thandie Newton, Oliver Platt
+ActorURIs: John_Cusack, Amanda_Peet, Chiwetel_Ejiofor, Thandie_Newton, Oliver_Platt
+Companies: Columbia Pictures, Centropolis Entertainment, The Mark Gordon Company
+CompanyURIs: Columbia_Pictures, Centropolis_Entertainment, The_Mark_Gordon_Company
+Countries: Canada, United States of America
+CountryURIs: Canada, United_States_of_America
+Plot: Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build "arks" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of
+----------------------------------------
+
+ID: 17979
+Title: A Christmas Carol
+Year: 2009
+Rating: 6.6
+Genres: Animation, Drama
+GenreURIs: Animation, Drama
+Director: Robert Zemeckis
+DirectorURIs: Robert_Zemeckis
+Actors: Gary Oldman, Jim Carrey, Steve Valentine, Daryl Sabara, Sage Ryan
+ActorURIs: Gary_Oldman, Jim_Carrey, Steve_Valentine, Daryl_Sabara, Sage_Ryan
+Companies: Walt Disney, ImageMovers
+CompanyURIs: Walt_Disney, ImageMovers
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.
+----------------------------------------
+
+ID: 76757
+Title: Jupiter Ascending
+Year: 2015
+Rating: 5.2
+Genres: Science Fiction, Fantasy, Action, Adventure
+GenreURIs: Science_Fiction, Fantasy, Action, Adventure
+Director: Lilly Wachowski, Lana Wachowski
+DirectorURIs: Lilly_Wachowski, Lana_Wachowski
+Actors: Mila Kunis, Channing Tatum, Sean Bean, Eddie Redmayne, Douglas Booth
+ActorURIs: Mila_Kunis, Channing_Tatum, Sean_Bean, Eddie_Redmayne, Douglas_Booth
+Companies: Village Roadshow Pictures, Dune Entertainment, Anarchos Productions
+CompanyURIs: Village_Roadshow_Pictures, Dune_Entertainment, Anarchos_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: In a universe where human genetic material is the most precious commodity, an impoverished young Earth woman becomes the key to strategic maneuvers and internal strife within a powerful dynasty
+----------------------------------------
+
+ID: 258489
+Title: The Legend of Tarzan
+Year: 2016
+Rating: 5.5
+Genres: Action, Adventure
+GenreURIs: Action, Adventure
+Director: David Yates
+DirectorURIs: David_Yates
+Actors: Alexander Skarsgård, Margot Robbie, Christoph Waltz, Samuel L. Jackson, Djimon Hounsou
+ActorURIs: Alexander_Skarsgrd, Margot_Robbie, Christoph_Waltz, Samuel_L_Jackson, Djimon_Hounsou
+Companies: Village Roadshow Pictures, Dark Horse Entertainment, Jerry Weintraub Productions
+CompanyURIs: Village_Roadshow_Pictures, Dark_Horse_Entertainment, Jerry_Weintraub_Productions
+Countries: Canada, United Kingdom, United States of America
+CountryURIs: Canada, United_Kingdom, United_States_of_America
+Plot: Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.
+----------------------------------------
+
+ID: 411
+Title: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+Year: 2005
+Rating: 6.7
+Genres: Adventure, Family, Fantasy
+GenreURIs: Adventure, Family, Fantasy
+Director: Andrew Adamson
+DirectorURIs: Andrew_Adamson
+Actors: William Moseley, Anna Popplewell, Skandar Keynes, Georgie Henley, Liam Neeson
+ActorURIs: William_Moseley, Anna_Popplewell, Skandar_Keynes, Georgie_Henley, Liam_Neeson
+Companies: Walt Disney, Walden Media
+CompanyURIs: Walt_Disney, Walden_Media
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, the they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.
+----------------------------------------
+
+ID: 246655
+Title: X-Men: Apocalypse
+Year: 2016
+Rating: 6.4
+Genres: Science Fiction
+GenreURIs: Science_Fiction
+Director: Bryan Singer
+DirectorURIs: Bryan_Singer
+Actors: James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult, Oscar Isaac
+ActorURIs: James_McAvoy, Michael_Fassbender, Jennifer_Lawrence, Nicholas_Hoult, Oscar_Isaac
+Companies: Twentieth Century Fox Film Corporation, Donners' Company, Marvel Entertainment
+CompanyURIs: Twentieth_Century_Fox_Film_Corporation, Donners_Company, Marvel_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.
+----------------------------------------
+
+ID: 155
+Title: The Dark Knight
+Year: 2008
+Rating: 8.2
+Genres: Drama, Action, Crime, Thriller
+GenreURIs: Drama, Action, Crime, Thriller
+Director: Christopher Nolan
+DirectorURIs: Christopher_Nolan
+Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Maggie Gyllenhaal
+ActorURIs: Christian_Bale, Heath_Ledger, Aaron_Eckhart, Michael_Caine, Maggie_Gyllenhaal
+Companies: DC Comics, Legendary Pictures, Warner Bros.
+CompanyURIs: DC_Comics, Legendary_Pictures, Warner_Bros
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.
+----------------------------------------
+
+ID: 14160
+Title: Up
+Year: 2009
+Rating: 7.7
+Genres: Animation, Comedy, Family, Adventure
+GenreURIs: Animation, Comedy, Family, Adventure
+Director: Pete Docter
+DirectorURIs: Pete_Docter
+Actors: Ed Asner, Christopher Plummer, Jordan Nagai, Bob Peterson, Delroy Lindo
+ActorURIs: Ed_Asner, Christopher_Plummer, Jordan_Nagai, Bob_Peterson, Delroy_Lindo
+Companies: Pixar Animation Studios
+CompanyURIs: Pixar_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.
+----------------------------------------
+
+ID: 15512
+Title: Monsters vs Aliens
+Year: 2009
+Rating: 6.0
+Genres: Animation, Family, Adventure, Science Fiction
+GenreURIs: Animation, Family, Adventure, Science_Fiction
+Director: Conrad Vernon, Rob Letterman
+DirectorURIs: Conrad_Vernon, Rob_Letterman
+Actors: Seth Rogen, Reese Witherspoon, Hugh Laurie, Paul Rudd, Kiefer Sutherland
+ActorURIs: Seth_Rogen, Reese_Witherspoon, Hugh_Laurie, Paul_Rudd, Kiefer_Sutherland
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...
+----------------------------------------
+
+ID: 1726
+Title: Iron Man
+Year: 2008
+Rating: 7.4
+Genres: Action, Science Fiction, Adventure
+GenreURIs: Action, Science_Fiction, Adventure
+Director: Jon Favreau
+DirectorURIs: Jon_Favreau
+Actors: Robert Downey Jr., Terrence Howard, Jeff Bridges, Shaun Toub, Gwyneth Paltrow
+ActorURIs: Robert_Downey_Jr, Terrence_Howard, Jeff_Bridges, Shaun_Toub, Gwyneth_Paltrow
+Companies: Marvel Studios
+CompanyURIs: Marvel_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+----------------------------------------
+
+ID: 44826
+Title: Hugo
+Year: 2011
+Rating: 7.0
+Genres: Adventure, Drama, Family
+GenreURIs: Adventure, Drama, Family
+Director: Martin Scorsese
+DirectorURIs: Martin_Scorsese
+Actors: Ben Kingsley, Sacha Baron Cohen, Asa Butterfield, Chloë Grace Moretz, Ray Winstone
+ActorURIs: Ben_Kingsley, Sacha_Baron_Cohen, Asa_Butterfield, Chlo_Grace_Moretz, Ray_Winstone
+Companies: Paramount Pictures, Infinitum Nihil, GK Films
+CompanyURIs: Paramount_Pictures, Infinitum_Nihil, GK_Films
+Countries: France, United States of America, United Kingdom
+CountryURIs: France, United_States_of_America, United_Kingdom
+Plot: Hugo is an orphan boy living in the walls of a train station in 1930s Paris. He learned to fix clocks and other gadgets from his father and uncle which he puts to use keeping the train station clocks running. The only thing that he has left that connects him to his dead father is an automaton (mechanical man) that doesn't work without a special key which Hugo needs to find to unlock the secret he believes it contains. On his adventures, he meets with a shopkeeper, George Melies, who works in the train station and his adventure-seeking god-daughter. Hugo
+----------------------------------------
+
+ID: 8487
+Title: Wild Wild West
+Year: 1999
+Rating: 5.1
+Genres: Action, Adventure, Comedy, Science Fiction, Western
+GenreURIs: Action, Adventure, Comedy, Science_Fiction, Western
+Director: Barry Sonnenfeld
+DirectorURIs: Barry_Sonnenfeld
+Actors: Will Smith, Kevin Kline, Kenneth Branagh, Salma Hayek, M. Emmet Walsh
+ActorURIs: Will_Smith, Kevin_Kline, Kenneth_Branagh, Salma_Hayek, M_Emmet_Walsh
+Companies: Todman, Simon, LeMasters Productions, Warner Bros., Peters Entertainment
+CompanyURIs: Todman_Simon_LeMasters_Productions, Warner_Bros, Peters_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Legless Southern inventor Dr. Arliss Loveless plans to rekindle the Civil War by assassinating President U.S. Grant. Only two men can stop him: gunfighter James West and master-of-disguise and inventor Artemus Gordon. The two must team up to thwart Loveless' plans.
+----------------------------------------
+
+ID: 1735
+Title: The Mummy: Tomb of the Dragon Emperor
+Year: 2008
+Rating: 5.2
+Genres: Adventure, Action, Fantasy
+GenreURIs: Adventure, Action, Fantasy
+Director: Rob Cohen
+DirectorURIs: Rob_Cohen
+Actors: Brendan Fraser, Jet Li, John Hannah, Maria Bello, Luke Ford
+ActorURIs: Brendan_Fraser, Jet_Li, John_Hannah, Maria_Bello, Luke_Ford
+Companies: Universal Pictures, China Film Co-Production Corporation, Relativity Media
+CompanyURIs: Universal_Pictures, China_Film_Co_Production_Corporation, Relativity_Media
+Countries: Germany, United States of America
+CountryURIs: Germany, United_States_of_America
+Plot: Archaeologist Rick O'Connell travels to China, pitting him against an emperor from the 2,000-year-old Han dynasty who's returned from the dead to pursue a quest for world domination. This time, O'Connell enlists the help of his wife and son to quash the so-called 'Dragon Emperor' and his abuse of supernatural power.
+----------------------------------------
+
+ID: 297761
+Title: Suicide Squad
+Year: 2016
+Rating: 5.9
+Genres: Action, Adventure, Crime, Fantasy, Science Fiction
+GenreURIs: Action, Adventure, Crime, Fantasy, Science_Fiction
+Director: David Ayer
+DirectorURIs: David_Ayer
+Actors: Will Smith, Margot Robbie, Joel Kinnaman, Viola Davis, Jared Leto
+ActorURIs: Will_Smith, Margot_Robbie, Joel_Kinnaman, Viola_Davis, Jared_Leto
+Companies: DC Comics, Dune Entertainment, Atlas Entertainment
+CompanyURIs: DC_Comics, Dune_Entertainment, Atlas_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.
+----------------------------------------
+
+ID: 2698
+Title: Evan Almighty
+Year: 2007
+Rating: 5.3
+Genres: Fantasy, Comedy, Family
+GenreURIs: Fantasy, Comedy, Family
+Director: Tom Shadyac
+DirectorURIs: Tom_Shadyac
+Actors: Steve Carell, Lauren Graham, John Goodman, Jimmy Bennett, John Michael Higgins
+ActorURIs: Steve_Carell, Lauren_Graham, John_Goodman, Jimmy_Bennett, John_Michael_Higgins
+Companies: Columbia Pictures, Universal Pictures, Spyglass Entertainment
+CompanyURIs: Columbia_Pictures, Universal_Pictures, Spyglass_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: God contacts Congressman Evan Baxter and tells him to build an ark in preparation for a great flood.
+----------------------------------------
+
+ID: 137113
+Title: Edge of Tomorrow
+Year: 2014
+Rating: 7.6
+Genres: Action, Science Fiction
+GenreURIs: Action, Science_Fiction
+Director: Doug Liman
+DirectorURIs: Doug_Liman
+Actors: Tom Cruise, Emily Blunt, Brendan Gleeson, Bill Paxton, Jonas Armstrong
+ActorURIs: Tom_Cruise, Emily_Blunt, Brendan_Gleeson, Bill_Paxton, Jonas_Armstrong
+Companies: Village Roadshow Pictures, Warner Bros., Viz Media
+CompanyURIs: Village_Roadshow_Pictures, Warner_Bros, Viz_Media
+Countries: Australia, United States of America
+CountryURIs: Australia, United_States_of_America
+Plot: Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.
+----------------------------------------
+
+ID: 9804
+Title: Waterworld
+Year: 1995
+Rating: 5.9
+Genres: Adventure, Action
+GenreURIs: Adventure, Action
+Director: Kevin Reynolds
+DirectorURIs: Kevin_Reynolds
+Actors: Kevin Costner, Chaim Girafi, Rick Aviles, R. D. Call, Zitto Kazann
+ActorURIs: Kevin_Costner, Chaim_Girafi, Rick_Aviles, R_D_Call, Zitto_Kazann
+Companies: Universal Pictures, Gordon Company, Davis Entertainment
+CompanyURIs: Universal_Pictures, Gordon_Company, Davis_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: In a futuristic world where the polar ice caps have melted and made Earth a liquid planet, a beautiful barmaid rescues a mutant seafarer from a floating island prison. They escape, along with her young charge, Enola, and sail off aboard his ship. But the trio soon becomes the target of a menacing pirate who covets the map to 'Dryland' which is tattooed on Enola's back.
+----------------------------------------
+
+ID: 14869
+Title: G.I. Joe: The Rise of Cobra
+Year: 2009
+Rating: 5.6
+Genres: Adventure, Action, Thriller, Science Fiction
+GenreURIs: Adventure, Action, Thriller, Science_Fiction
+Director: Stephen Sommers
+DirectorURIs: Stephen_Sommers
+Actors: Dennis Quaid, Channing Tatum, Marlon Wayans, Sienna Miller, Joseph Gordon-Levitt
+ActorURIs: Dennis_Quaid, Channing_Tatum, Marlon_Wayans, Sienna_Miller, Joseph_Gordon_Levitt
+Companies: Paramount Pictures, Spyglass Entertainment, Di Bonaventura Pictures
+CompanyURIs: Paramount_Pictures, Spyglass_Entertainment, Di_Bonaventura_Pictures
+Countries: Czech Republic, United States of America
+CountryURIs: Czech_Republic, United_States_of_America
+Plot: From the Egyptian desert to deep below the polar ice caps, the elite G.I. JOE team uses the latest in next-generation spy and military equipment to fight the corrupt arms dealer Destro and the growing threat of the mysterious Cobra organization to prevent them from plunging the world into chaos.
+----------------------------------------
+
+ID: 150540
+Title: Inside Out
+Year: 2015
+Rating: 8.0
+Genres: Drama, Comedy, Animation, Family
+GenreURIs: Drama, Comedy, Animation, Family
+Director: Pete Docter
+DirectorURIs: Pete_Docter
+Actors: Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black
+ActorURIs: Amy_Poehler, Phyllis_Smith, Richard_Kind, Bill_Hader, Lewis_Black
+Companies: Walt Disney Pictures, Pixar Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Pixar_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions
+----------------------------------------
+
+ID: 278927
+Title: The Jungle Book
+Year: 2016
+Rating: 6.7
+Genres: Family, Adventure, Drama, Fantasy
+GenreURIs: Family, Adventure, Drama, Fantasy
+Director: Jon Favreau
+DirectorURIs: Jon_Favreau
+Actors: Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba, Scarlett Johansson
+ActorURIs: Neel_Sethi, Bill_Murray, Ben_Kingsley, Idris_Elba, Scarlett_Johansson
+Companies: Walt Disney Pictures, Walt Disney Studios Motion Pictures, Fairview Entertainment
+CompanyURIs: Walt_Disney_Pictures, Walt_Disney_Studios_Motion_Pictures, Fairview_Entertainment
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther, Bagheera, and free spirited bear, Baloo.
+----------------------------------------
+
+ID: 10138
+Title: Iron Man 2
+Year: 2010
+Rating: 6.6
+Genres: Adventure, Action, Science Fiction
+GenreURIs: Adventure, Action, Science_Fiction
+Director: Jon Favreau
+DirectorURIs: Jon_Favreau
+Actors: Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Mickey Rourke
+ActorURIs: Robert_Downey_Jr, Gwyneth_Paltrow, Don_Cheadle, Scarlett_Johansson, Mickey_Rourke
+Companies: Marvel Studios
+CompanyURIs: Marvel_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances and confront powerful enemies.
+----------------------------------------
+
+ID: 58595
+Title: Snow White and the Huntsman
+Year: 2012
+Rating: 5.8
+Genres: Adventure, Fantasy, Drama
+GenreURIs: Adventure, Fantasy, Drama
+Director: Rupert Sanders
+DirectorURIs: Rupert_Sanders
+Actors: Kristen Stewart, Charlize Theron, Chris Hemsworth, Sam Claflin, Ian McShane
+ActorURIs: Kristen_Stewart, Charlize_Theron, Chris_Hemsworth, Sam_Claflin, Ian_McShane
+Companies: Universal Pictures, Roth Films
+CompanyURIs: Universal_Pictures, Roth_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After the Evil Queen marries the King, she performs a violent coup in which the King is murdered and his daughter, Snow White, is taken captive. Almost a decade later, a grown Snow White is still in the clutches of the Queen. In order to obtain immortality, The Evil Queen needs the heart of Snow White. After Snow escapes the castle, the Queen sends the Huntsman to find her in the Dark Forest.
+----------------------------------------
+
+ID: 102651
+Title: Maleficent
+Year: 2014
+Rating: 7.0
+Genres: Fantasy, Adventure, Action, Family, Romance
+GenreURIs: Fantasy, Adventure, Action, Family, Romance
+Director: Robert Stromberg
+DirectorURIs: Robert_Stromberg
+Actors: Angelina Jolie, Elle Fanning, Sharlto Copley, Sam Riley, Juno Temple
+ActorURIs: Angelina_Jolie, Elle_Fanning, Sharlto_Copley, Sam_Riley, Juno_Temple
+Companies: Walt Disney Pictures, Walt Disney Studios Motion Pictures, Roth Films
+CompanyURIs: Walt_Disney_Pictures, Walt_Disney_Studios_Motion_Pictures, Roth_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The untold story of Disney's most iconic villain from the 1959 classic 'Sleeping Beauty'. A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land. Maleficent rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes
+----------------------------------------
+
+ID: 119450
+Title: Dawn of the Planet of the Apes
+Year: 2014
+Rating: 7.3
+Genres: Science Fiction, Action, Drama, Thriller
+GenreURIs: Science_Fiction, Action, Drama, Thriller
+Director: Matt Reeves
+DirectorURIs: Matt_Reeves
+Actors: Andy Serkis, Jason Clarke, Gary Oldman, Keri Russell, Toby Kebbell
+ActorURIs: Andy_Serkis, Jason_Clarke, Gary_Oldman, Keri_Russell, Toby_Kebbell
+Companies: Ingenious Media, Chernin Entertainment, TSG Entertainment
+CompanyURIs: Ingenious_Media, Chernin_Entertainment, TSG_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.
+----------------------------------------
+
+ID: 79698
+Title: The Lovers
+Year: 2015
+Rating: 4.8
+Genres: Action, Adventure, Science Fiction, Romance
+GenreURIs: Action, Adventure, Science_Fiction, Romance
+Director: Roland Joffé
+DirectorURIs: Roland_Joff
+Actors: Josh Hartnett, Simone Kessell, Tamsin Egerton, Alice Englert, Bipasha Basu
+ActorURIs: Josh_Hartnett, Simone_Kessell, Tamsin_Egerton, Alice_Englert, Bipasha_Basu
+Companies: Corsan, Bliss Media, Limelight International Media Entertainment
+CompanyURIs: Corsan, Bliss_Media, Limelight_International_Media_Entertainment
+Countries: Australia, Belgium, India
+CountryURIs: Australia, Belgium, India
+Plot: The Lovers is an epic romance time travel adventure film. Helmed by Roland Joff from a story by Ajey Jhankar, the film is a sweeping tale of an impossible love set against the backdrop of the first Anglo-Maratha war across two time periods and continents and centred around four characters a British officer in 18th century colonial India, the Indian woman he falls deeply in love with, an American present-day marine biologist and his wife.
+----------------------------------------
+
+ID: 64686
+Title: 47 Ronin
+Year: 2013
+Rating: 5.9
+Genres: Drama, Action, Adventure, Fantasy
+GenreURIs: Drama, Action, Adventure, Fantasy
+Director: Carl Rinsch
+DirectorURIs: Carl_Rinsch
+Actors: Keanu Reeves, Hiroyuki Sanada, Kou Shibasaki, Tadanobu Asano, Min Tanaka
+ActorURIs: Keanu_Reeves, Hiroyuki_Sanada, Kou_Shibasaki, Tadanobu_Asano, Min_Tanaka
+Companies: Mid Atlantic Films, Stuber Productions, Universal
+CompanyURIs: Mid_Atlantic_Films, Stuber_Productions, Universal
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Based on the original 1941 movie from Japan, and from ancient Japans most enduring tale, the epic 3D fantasy-adventure 47 Ronin is born. Keanu Reeves leads the cast as Kai, an outcast who joins Oishi (Hiroyuki Sanada), the leader of the 47 outcast samurai. Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind. To restore honor to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.
+----------------------------------------
+
+ID: 100402
+Title: Captain America: The Winter Soldier
+Year: 2014
+Rating: 7.6
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Anthony Russo, Joe Russo
+DirectorURIs: Anthony_Russo, Joe_Russo
+Actors: Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford, Sebastian Stan
+ActorURIs: Chris_Evans, Samuel_L_Jackson, Scarlett_Johansson, Robert_Redford, Sebastian_Stan
+Companies: Marvel Studios
+CompanyURIs: Marvel_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a
+----------------------------------------
+
+ID: 10192
+Title: Shrek Forever After
+Year: 2010
+Rating: 6.0
+Genres: Comedy, Adventure, Fantasy, Animation, Family
+GenreURIs: Comedy, Adventure, Fantasy, Animation, Family
+Director: Mike Mitchell
+DirectorURIs: Mike_Mitchell
+Actors: Mike Myers, Eddie Murphy, Cameron Diaz, Antonio Banderas, Julie Andrews
+ActorURIs: Mike_Myers, Eddie_Murphy, Cameron_Diaz, Antonio_Banderas, Julie_Andrews
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Awaywhere Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never methe sets out to restore his world and reclaim his true love.
+----------------------------------------
+
+ID: 158852
+Title: Tomorrowland
+Year: 2015
+Rating: 6.2
+Genres: Adventure, Family, Mystery, Science Fiction
+GenreURIs: Adventure, Family, Mystery, Science_Fiction
+Director: Brad Bird
+DirectorURIs: Brad_Bird
+Actors: Britt Robertson, George Clooney, Raffey Cassidy, Thomas Robinson, Hugh Laurie
+ActorURIs: Britt_Robertson, George_Clooney, Raffey_Cassidy, Thomas_Robinson, Hugh_Laurie
+Companies: Walt Disney Pictures, Babieka, A113
+CompanyURIs: Walt_Disney_Pictures, Babieka, A113
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as "Tomorrowland."
+----------------------------------------
+
+ID: 177572
+Title: Big Hero 6
+Year: 2014
+Rating: 7.8
+Genres: Adventure, Family, Animation, Action, Comedy
+GenreURIs: Adventure, Family, Animation, Action, Comedy
+Director: Chris Williams, Don Hall
+DirectorURIs: Chris_Williams, Don_Hall
+Actors: Scott Adsit, Ryan Potter, Daniel Henney, T.J. Miller, Jamie Chung
+ActorURIs: Scott_Adsit, Ryan_Potter, Daniel_Henney, TJ_Miller, Jamie_Chung
+Companies: Walt Disney Pictures, Walt Disney Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Walt_Disney_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
+----------------------------------------
+
+ID: 82690
+Title: Wreck-It Ralph
+Year: 2012
+Rating: 7.1
+Genres: Family, Animation, Comedy, Adventure
+GenreURIs: Family, Animation, Comedy, Adventure
+Director: Rich Moore
+DirectorURIs: Rich_Moore
+Actors: John C. Reilly, Sarah Silverman, Jack McBrayer, Jane Lynch, Alan Tudyk
+ActorURIs: John_C_Reilly, Sarah_Silverman, Jack_McBrayer, Jane_Lynch, Alan_Tudyk
+Companies: Walt Disney Animation Studios
+CompanyURIs: Walt_Disney_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat
+----------------------------------------
+
+ID: 5255
+Title: The Polar Express
+Year: 2004
+Rating: 6.4
+Genres: Adventure, Animation, Family, Fantasy
+GenreURIs: Adventure, Animation, Family, Fantasy
+Director: Robert Zemeckis
+DirectorURIs: Robert_Zemeckis
+Actors: Tom Hanks, Michael Jeter, Nona Gaye, Peter Scolari, Eddie Deezen
+ActorURIs: Tom_Hanks, Michael_Jeter, Nona_Gaye, Peter_Scolari, Eddie_Deezen
+Companies: Golden Mean, Playtone, ImageMovers
+CompanyURIs: Golden_Mean, Playtone, ImageMovers
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.
+----------------------------------------
+
+ID: 47933
+Title: Independence Day: Resurgence
+Year: 2016
+Rating: 4.9
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Roland Emmerich
+DirectorURIs: Roland_Emmerich
+Actors: Liam Hemsworth, Jeff Goldblum, Bill Pullman, Maika Monroe, Sela Ward
+ActorURIs: Liam_Hemsworth, Jeff_Goldblum, Bill_Pullman, Maika_Monroe, Sela_Ward
+Companies: Twentieth Century Fox Film Corporation, Centropolis Entertainment, TSG Entertainment
+CompanyURIs: Twentieth_Century_Fox_Film_Corporation, Centropolis_Entertainment, TSG_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: We always knew they were coming back. Using recovered alien technology, the nations of Earth have collaborated on an immense defense program to protect the planet. But nothing can prepare us for the aliens advanced and unprecedented force. Only the ingenuity of a few brave men and women can bring our world back from the brink of extinction.
+----------------------------------------
+
+ID: 10191
+Title: How to Train Your Dragon
+Year: 2010
+Rating: 7.5
+Genres: Fantasy, Adventure, Animation, Family
+GenreURIs: Fantasy, Adventure, Animation, Family
+Director: Chris Sanders, Dean DeBlois
+DirectorURIs: Chris_Sanders, Dean_DeBlois
+Actors: Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill
+ActorURIs: Jay_Baruchel, Gerard_Butler, Craig_Ferguson, America_Ferrera, Jonah_Hill
+Companies: DreamWorks Animation, Vertigo Entertainment, Mad Hatter Entertainment
+CompanyURIs: DreamWorks_Animation, Vertigo_Entertainment, Mad_Hatter_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast which he names Toothless much to the chagrin of his warrior father
+----------------------------------------
+
+ID: 296
+Title: Terminator 3: Rise of the Machines
+Year: 2003
+Rating: 5.9
+Genres: Action, Thriller, Science Fiction
+GenreURIs: Action, Thriller, Science_Fiction
+Director: Jonathan Mostow
+DirectorURIs: Jonathan_Mostow
+Actors: Arnold Schwarzenegger, Nick Stahl, Claire Danes, Kristanna Loken, David Andrews
+ActorURIs: Arnold_Schwarzenegger, Nick_Stahl, Claire_Danes, Kristanna_Loken, David_Andrews
+Companies: Columbia Pictures, Intermedia Films, Warner Bros.
+CompanyURIs: Columbia_Pictures, Intermedia_Films, Warner_Bros
+Countries: Germany, United Kingdom, United States of America
+CountryURIs: Germany, United_Kingdom, United_States_of_America
+Plot: It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor just like he promised.
+----------------------------------------
+
+ID: 118340
+Title: Guardians of the Galaxy
+Year: 2014
+Rating: 7.9
+Genres: Action, Science Fiction, Adventure
+GenreURIs: Action, Science_Fiction, Adventure
+Director: James Gunn
+DirectorURIs: James_Gunn
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper
+ActorURIs: Chris_Pratt, Zoe_Saldana, Dave_Bautista, Vin_Diesel, Bradley_Cooper
+Companies: Marvel Studios, Moving Picture Company (MPC), Bulletproof Cupid
+CompanyURIs: Marvel_Studios, Moving_Picture_Company_MPC, Bulletproof_Cupid
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.
+----------------------------------------
+
+ID: 157336
+Title: Interstellar
+Year: 2014
+Rating: 8.1
+Genres: Adventure, Drama, Science Fiction
+GenreURIs: Adventure, Drama, Science_Fiction
+Director: Christopher Nolan
+DirectorURIs: Christopher_Nolan
+Actors: Matthew McConaughey, Jessica Chastain, Anne Hathaway, Michael Caine, Casey Affleck
+ActorURIs: Matthew_McConaughey, Jessica_Chastain, Anne_Hathaway, Michael_Caine, Casey_Affleck
+Companies: Paramount Pictures, Legendary Pictures, Warner Bros.
+CompanyURIs: Paramount_Pictures, Legendary_Pictures, Warner_Bros
+Countries: Canada, United States of America, United Kingdom
+CountryURIs: Canada, United_States_of_America, United_Kingdom
+Plot: Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.
+----------------------------------------
+
+ID: 27205
+Title: Inception
+Year: 2010
+Rating: 8.1
+Genres: Action, Thriller, Science Fiction, Mystery, Adventure
+GenreURIs: Action, Thriller, Science_Fiction, Mystery, Adventure
+Director: Christopher Nolan
+DirectorURIs: Christopher_Nolan
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy, Ken Watanabe
+ActorURIs: Leonardo_DiCaprio, Joseph_Gordon_Levitt, Ellen_Page, Tom_Hardy, Ken_Watanabe
+Companies: Legendary Pictures, Warner Bros., Syncopy
+CompanyURIs: Legendary_Pictures, Warner_Bros, Syncopy
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: "inception", the implantation of another person's idea into a target's subconscious.
+----------------------------------------
+
+ID: 315011
+Title: Shin Godzilla
+Year: 2016
+Rating: 6.5
+Genres: Action, Adventure, Drama, Horror, Science Fiction
+GenreURIs: Action, Adventure, Drama, Horror, Science_Fiction
+Director: Hideaki Anno, Shinji Higuchi
+DirectorURIs: Hideaki_Anno, Shinji_Higuchi
+Actors: Hiroki Hasegawa, Yutaka Takenouchi, Satomi Ishihara, Kengo Kora, Matsuo Satoru
+ActorURIs: Hiroki_Hasegawa, Yutaka_Takenouchi, Satomi_Ishihara, Kengo_Kora, Matsuo_Satoru
+Companies: Cine Bazar, Toho Pictures
+CompanyURIs: Cine_Bazar, Toho_Pictures
+Countries: Japan
+CountryURIs: Japan
+Plot: From the mind behind Evangelion comes a hit larger than life. When a massive, gilled monster emerges from the deep and tears through the city, the government scrambles to save its citizens. A rag-tag team of volunteers cuts through a web of red tape to uncover the monster's weakness and its mysterious ties to a foreign superpower. But time is not on their side - the greatest catastrophe to ever befall the world is about to evolve right before their very eyes.
+----------------------------------------
+
+ID: 49051
+Title: The Hobbit: An Unexpected Journey
+Year: 2012
+Rating: 7.0
+Genres: Adventure, Fantasy, Action
+GenreURIs: Adventure, Fantasy, Action
+Director: Peter Jackson
+DirectorURIs: Peter_Jackson
+Actors: Ian McKellen, Martin Freeman, Richard Armitage, Andy Serkis, Cate Blanchett
+ActorURIs: Ian_McKellen, Martin_Freeman, Richard_Armitage, Andy_Serkis, Cate_Blanchett
+Companies: WingNut Films, New Line Cinema, Warner Bros. Pictures
+CompanyURIs: WingNut_Films, New_Line_Cinema, Warner_Bros_Pictures
+Countries: New Zealand, United States of America
+CountryURIs: New_Zealand, United_States_of_America
+Plot: Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.
+----------------------------------------
+
+ID: 9799
+Title: The Fast and the Furious
+Year: 2001
+Rating: 6.6
+Genres: Action, Crime, Thriller
+GenreURIs: Action, Crime, Thriller
+Director: Rob Cohen
+DirectorURIs: Rob_Cohen
+Actors: Paul Walker, Vin Diesel, Michelle Rodriguez, Jordana Brewster, Rick Yune
+ActorURIs: Paul_Walker, Vin_Diesel, Michelle_Rodriguez, Jordana_Brewster, Rick_Yune
+Companies: Universal Pictures, Original Film, Ardustry Entertainment
+CompanyURIs: Universal_Pictures, Original_Film, Ardustry_Entertainment
+Countries: Germany, United States of America
+CountryURIs: Germany, United_States_of_America
+Plot: Domenic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD.
+----------------------------------------
+
+ID: 4922
+Title: The Curious Case of Benjamin Button
+Year: 2008
+Rating: 7.3
+Genres: Fantasy, Drama, Thriller, Mystery, Romance
+GenreURIs: Fantasy, Drama, Thriller, Mystery, Romance
+Director: David Fincher
+DirectorURIs: David_Fincher
+Actors: Cate Blanchett, Brad Pitt, Tilda Swinton, Julia Ormond, Elle Fanning
+ActorURIs: Cate_Blanchett, Brad_Pitt, Tilda_Swinton, Julia_Ormond, Elle_Fanning
+Companies: Paramount Pictures, Warner Bros., Kennedy/Marshall Company, The
+CompanyURIs: Paramount_Pictures, Warner_Bros, KennedyMarshall_Company_The
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.
+----------------------------------------
+
+ID: 49538
+Title: X-Men: First Class
+Year: 2011
+Rating: 7.1
+Genres: Action, Science Fiction, Adventure
+GenreURIs: Action, Science_Fiction, Adventure
+Director: Matthew Vaughn
+DirectorURIs: Matthew_Vaughn
+Actors: James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon, Rose Byrne
+ActorURIs: James_McAvoy, Michael_Fassbender, Jennifer_Lawrence, Kevin_Bacon, Rose_Byrne
+Companies: Ingenious Film Partners, Ingenious Media, Twentieth Century Fox Film Corporation
+CompanyURIs: Ingenious_Film_Partners, Ingenious_Media, Twentieth_Century_Fox_Film_Corporation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.
+----------------------------------------
+
+ID: 131634
+Title: The Hunger Games: Mockingjay - Part 2
+Year: 2015
+Rating: 6.6
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Francis Lawrence
+DirectorURIs: Francis_Lawrence
+Actors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks
+ActorURIs: Jennifer_Lawrence, Josh_Hutcherson, Liam_Hemsworth, Woody_Harrelson, Elizabeth_Banks
+Companies: Studio Babelsberg, Lionsgate, Color Force
+CompanyURIs: Studio_Babelsberg, Lionsgate, Color_Force
+Countries: Germany, United States of America
+CountryURIs: Germany, United_States_of_America
+Plot: With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends including Gale, Finnick, and Peeta Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.
+----------------------------------------
+
+ID: 27022
+Title: The Sorcerer's Apprentice
+Year: 2010
+Rating: 5.8
+Genres: Fantasy, Adventure, Action, Comedy, Drama
+GenreURIs: Fantasy, Adventure, Action, Comedy, Drama
+Director: Jon Turteltaub
+DirectorURIs: Jon_Turteltaub
+Actors: Nicolas Cage, Jay Baruchel, Monica Bellucci, Alfred Molina, Teresa Palmer
+ActorURIs: Nicolas_Cage, Jay_Baruchel, Monica_Bellucci, Alfred_Molina, Teresa_Palmer
+Companies: Walt Disney Pictures, Jerry Bruckheimer Films, Saturn Films
+CompanyURIs: Walt_Disney_Pictures, Jerry_Bruckheimer_Films, Saturn_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Balthazar Blake is a master sorcerer in modern-day Manhattan trying to defend the city from his arch-nemesis, Maxim Horvath. Balthazar can't do it alone, so he recruits Dave Stutler, a seemingly average guy who demonstrates hidden potential, as his reluctant protg. The sorcerer gives his unwilling accomplice a crash course in the art and science of magic, and together, these unlikely partners work to stop the forces of darkness.
+----------------------------------------
+
+ID: 503
+Title: Poseidon
+Year: 2006
+Rating: 5.5
+Genres: Adventure, Action, Drama, Thriller
+GenreURIs: Adventure, Action, Drama, Thriller
+Director: Wolfgang Petersen
+DirectorURIs: Wolfgang_Petersen
+Actors: Kurt Russell, Richard Dreyfuss, Josh Lucas, Jacinda Barrett, Emmy Rossum
+ActorURIs: Kurt_Russell, Richard_Dreyfuss, Josh_Lucas, Jacinda_Barrett, Emmy_Rossum
+Companies: Virtual Studios, Next Entertainment, Warner Bros.
+CompanyURIs: Virtual_Studios, Next_Entertainment, Warner_Bros
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A packed cruise ship traveling the Atlantic is hit and overturned by a massive wave, compelling the passengers to begin a dramatic fight for their lives.
+----------------------------------------
+
+ID: 241259
+Title: Alice Through the Looking Glass
+Year: 2016
+Rating: 6.5
+Genres: Fantasy
+GenreURIs: Fantasy
+Director: James Bobin
+DirectorURIs: James_Bobin
+Actors: Johnny Depp, Mia Wasikowska, Anne Hathaway, Helena Bonham Carter, Alan Rickman
+ActorURIs: Johnny_Depp, Mia_Wasikowska, Anne_Hathaway, Helena_Bonham_Carter, Alan_Rickman
+Companies: Walt Disney Pictures, Team Todd, Tim Burton Productions
+CompanyURIs: Walt_Disney_Pictures, Team_Todd, Tim_Burton_Productions
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: In the sequel to Tim Burton's "Alice in Wonderland", Alice Kingsleigh returns to Underland and faces a new adventure in saving the Mad Hatter.
+----------------------------------------
+
+ID: 810
+Title: Shrek the Third
+Year: 2007
+Rating: 6.0
+Genres: Fantasy, Adventure, Animation, Comedy, Family
+GenreURIs: Fantasy, Adventure, Animation, Comedy, Family
+Director: Chris Miller, Raman Hui
+DirectorURIs: Chris_Miller, Raman_Hui
+Actors: Mike Myers, Eddie Murphy, Cameron Diaz, Julie Andrews, Antonio Banderas
+ActorURIs: Mike_Myers, Eddie_Murphy, Cameron_Diaz, Julie_Andrews, Antonio_Banderas
+Companies: DreamWorks SKG, DreamWorks Animation
+CompanyURIs: DreamWorks_SKG, DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The King of Far Far Away has died and Shrek and Fiona are to become King &amp; Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.
+----------------------------------------
+
+ID: 68735
+Title: Warcraft
+Year: 2016
+Rating: 6.3
+Genres: Action, Adventure, Fantasy
+GenreURIs: Action, Adventure, Fantasy
+Director: Duncan Jones
+DirectorURIs: Duncan_Jones
+Actors: Paula Patton, Travis Fimmel, Ben Foster, Robert Kazinsky, Dominic Cooper
+ActorURIs: Paula_Patton, Travis_Fimmel, Ben_Foster, Robert_Kazinsky, Dominic_Cooper
+Companies: Universal Pictures, Atlas Entertainment, Legendary Pictures
+CompanyURIs: Universal_Pictures, Atlas_Entertainment, Legendary_Pictures
+Countries: Canada, China, Japan, United States of America
+CountryURIs: Canada, China, Japan, United_States_of_America
+Plot: The peaceful realm of Azeroth stands on the brink of war as its civilization faces a fearsome race of invaders: orc warriors fleeing their dying home to colonize another. As a portal opens to connect the two worlds, one army faces destruction and the other faces extinction. From opposing sides, two heroes are set on a collision course that will decide the fate of their family, their people, and their home.
+----------------------------------------
+
+ID: 87101
+Title: Terminator Genisys
+Year: 2015
+Rating: 5.8
+Genres: Science Fiction, Action, Thriller, Adventure
+GenreURIs: Science_Fiction, Action, Thriller, Adventure
+Director: Alan Taylor
+DirectorURIs: Alan_Taylor
+Actors: Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney, J.K. Simmons
+ActorURIs: Arnold_Schwarzenegger, Jason_Clarke, Emilia_Clarke, Jai_Courtney, JK_Simmons
+Companies: Paramount Pictures, Annapurna Pictures, Skydance Media
+CompanyURIs: Paramount_Pictures, Annapurna_Pictures, Skydance_Media
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.
+----------------------------------------
+
+ID: 10140
+Title: The Chronicles of Narnia: The Voyage of the Dawn Treader
+Year: 2010
+Rating: 6.2
+Genres: Adventure, Family, Fantasy
+GenreURIs: Adventure, Family, Fantasy
+Director: Michael Apted
+DirectorURIs: Michael_Apted
+Actors: Skandar Keynes, Georgie Henley, Simon Pegg, Gary Sweet, Arthur Angel
+ActorURIs: Skandar_Keynes, Georgie_Henley, Simon_Pegg, Gary_Sweet, Arthur_Angel
+Companies: Dune Entertainment, Fox 2000 Pictures, Walden Media
+CompanyURIs: Dune_Entertainment, Fox_2000_Pictures, Walden_Media
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.
+----------------------------------------
+
+ID: 676
+Title: Pearl Harbor
+Year: 2001
+Rating: 6.6
+Genres: History, Romance, War
+GenreURIs: History, Romance, War
+Director: Michael Bay
+DirectorURIs: Michael_Bay
+Actors: Ben Affleck, Josh Hartnett, Kate Beckinsale, Cuba Gooding Jr., Jon Voight
+ActorURIs: Ben_Affleck, Josh_Hartnett, Kate_Beckinsale, Cuba_Gooding_Jr, Jon_Voight
+Companies: Jerry Bruckheimer Films, Touchstone Pictures
+CompanyURIs: Jerry_Bruckheimer_Films, Touchstone_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.
+----------------------------------------
+
+ID: 1858
+Title: Transformers
+Year: 2007
+Rating: 6.6
+Genres: Adventure, Science Fiction, Action
+GenreURIs: Adventure, Science_Fiction, Action
+Director: Michael Bay
+DirectorURIs: Michael_Bay
+Actors: Shia LaBeouf, Josh Duhamel, Megan Fox, Rachael Taylor, Tyrese Gibson
+ActorURIs: Shia_LaBeouf, Josh_Duhamel, Megan_Fox, Rachael_Taylor, Tyrese_Gibson
+Companies: Paramount Pictures, DreamWorks SKG, Amblin Entertainment
+CompanyURIs: Paramount_Pictures, DreamWorks_SKG, Amblin_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Young teenager, Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.
+----------------------------------------
+
+ID: 1966
+Title: Alexander
+Year: 2004
+Rating: 5.6
+Genres: War, History, Action, Adventure, Drama, Romance
+GenreURIs: War, History, Action, Adventure, Drama, Romance
+Director: Oliver Stone
+DirectorURIs: Oliver_Stone
+Actors: Colin Farrell, Angelina Jolie, Val Kilmer, Jared Leto, Jonathan Rhys Meyers
+ActorURIs: Colin_Farrell, Angelina_Jolie, Val_Kilmer, Jared_Leto, Jonathan_Rhys_Meyers
+Companies: France 3 Cinéma, Intermedia Films, Pathé Renn Productions
+CompanyURIs: France_3_Cinma, Intermedia_Films, Path_Renn_Productions
+Countries: France, Germany, Italy, Netherlands, United Kingdom, United States of America
+CountryURIs: France, Germany, Italy, Netherlands, United_Kingdom, United_States_of_America
+Plot: Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.
+----------------------------------------
+
+ID: 675
+Title: Harry Potter and the Order of the Phoenix
+Year: 2007
+Rating: 7.4
+Genres: Adventure, Fantasy, Family, Mystery
+GenreURIs: Adventure, Fantasy, Family, Mystery
+Director: David Yates
+DirectorURIs: David_Yates
+Actors: Daniel Radcliffe, Rupert Grint, Emma Watson, Michael Gambon, Ralph Fiennes
+ActorURIs: Daniel_Radcliffe, Rupert_Grint, Emma_Watson, Michael_Gambon, Ralph_Fiennes
+Companies: Warner Bros., Heyday Films
+CompanyURIs: Warner_Bros, Heyday_Films
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students dubbed 'Dumbledore's Army' to defend themselves against the dark arts.
+----------------------------------------
+
+ID: 674
+Title: Harry Potter and the Goblet of Fire
+Year: 2005
+Rating: 7.5
+Genres: Adventure, Fantasy, Family
+GenreURIs: Adventure, Fantasy, Family
+Director: Mike Newell
+DirectorURIs: Mike_Newell
+Actors: Daniel Radcliffe, Rupert Grint, Emma Watson, Ralph Fiennes, Michael Gambon
+ActorURIs: Daniel_Radcliffe, Rupert_Grint, Emma_Watson, Ralph_Fiennes, Michael_Gambon
+Companies: Patalex IV Productions Limited, Warner Bros., Heyday Films
+CompanyURIs: Patalex_IV_Productions_Limited, Warner_Bros, Heyday_Films
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.
+----------------------------------------
+
+ID: 8960
+Title: Hancock
+Year: 2008
+Rating: 6.2
+Genres: Fantasy, Action
+GenreURIs: Fantasy, Action
+Director: Peter Berg
+DirectorURIs: Peter_Berg
+Actors: Will Smith, Charlize Theron, Jason Bateman, Jae Head, Eddie Marsan
+ActorURIs: Will_Smith, Charlize_Theron, Jason_Bateman, Jae_Head, Eddie_Marsan
+Companies: Columbia Pictures, Weed Road Pictures, Forward Pass
+CompanyURIs: Columbia_Pictures, Weed_Road_Pictures, Forward_Pass
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?
+----------------------------------------
+
+ID: 6479
+Title: I Am Legend
+Year: 2007
+Rating: 6.9
+Genres: Drama, Horror, Action, Thriller, Science Fiction
+GenreURIs: Drama, Horror, Action, Thriller, Science_Fiction
+Director: Francis Lawrence
+DirectorURIs: Francis_Lawrence
+Actors: Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield, Willow Smith
+ActorURIs: Will_Smith, Alice_Braga, Charlie_Tahan, Salli_Richardson_Whitfield, Willow_Smith
+Companies: Village Roadshow Pictures, Original Film, Weed Road Pictures
+CompanyURIs: Village_Roadshow_Pictures, Original_Film, Weed_Road_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.
+----------------------------------------
+
+ID: 118
+Title: Charlie and the Chocolate Factory
+Year: 2005
+Rating: 6.7
+Genres: Adventure, Comedy, Family, Fantasy
+GenreURIs: Adventure, Comedy, Family, Fantasy
+Director: Tim Burton
+DirectorURIs: Tim_Burton
+Actors: Johnny Depp, Freddie Highmore, David Kelly, AnnaSophia Robb, Julia Winter
+ActorURIs: Johnny_Depp, Freddie_Highmore, David_Kelly, AnnaSophia_Robb, Julia_Winter
+Companies: Village Roadshow Pictures, The Zanuck Company, Warner Bros.
+CompanyURIs: Village_Roadshow_Pictures, The_Zanuck_Company, Warner_Bros
+Countries: Australia, United Kingdom, United States of America
+CountryURIs: Australia, United_Kingdom, United_States_of_America
+Plot: A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.
+----------------------------------------
+
+ID: 2062
+Title: Ratatouille
+Year: 2007
+Rating: 7.5
+Genres: Animation, Comedy, Family, Fantasy
+GenreURIs: Animation, Comedy, Family, Fantasy
+Director: Jan Pinkava, Brad Bird
+DirectorURIs: Jan_Pinkava, Brad_Bird
+Actors: Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy, Peter Sohn
+ActorURIs: Patton_Oswalt, Ian_Holm, Lou_Romano, Brian_Dennehy, Peter_Sohn
+Companies: Walt Disney Pictures, Pixar Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Pixar_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.
+----------------------------------------
+
+ID: 272
+Title: Batman Begins
+Year: 2005
+Rating: 7.5
+Genres: Action, Crime, Drama
+GenreURIs: Action, Crime, Drama
+Director: Christopher Nolan
+DirectorURIs: Christopher_Nolan
+Actors: Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman
+ActorURIs: Christian_Bale, Michael_Caine, Liam_Neeson, Katie_Holmes, Gary_Oldman
+Companies: DC Comics, Legendary Pictures, Warner Bros.
+CompanyURIs: DC_Comics, Legendary_Pictures, Warner_Bros
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City. Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.
+----------------------------------------
+
+ID: 10527
+Title: Madagascar: Escape 2 Africa
+Year: 2008
+Rating: 6.2
+Genres: Family, Animation
+GenreURIs: Family, Animation
+Director: Eric Darnell, Tom McGrath
+DirectorURIs: Eric_Darnell, Tom_McGrath
+Actors: Ben Stiller, Jada Pinkett Smith, David Schwimmer, Chris Rock, Cedric the Entertainer
+ActorURIs: Ben_Stiller, Jada_Pinkett_Smith, David_Schwimmer, Chris_Rock, Cedric_the_Entertainer
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Alex, Marty, Melman, Gloria, King Julien, Maurice, the penguins and the chimps are back and still marooned on Madagascar. In the face of this obstacle, the New Yorkers have hatched a plan so crazy it just might work. With military precision, the penguins have repaired an old crashed plane... sort of.
+----------------------------------------
+
+ID: 18360
+Title: Night at the Museum: Battle of the Smithsonian
+Year: 2009
+Rating: 5.9
+Genres: Adventure, Fantasy, Action, Comedy, Family
+GenreURIs: Adventure, Fantasy, Action, Comedy, Family
+Director: Shawn Levy
+DirectorURIs: Shawn_Levy
+Actors: Ben Stiller, Amy Adams, Owen Wilson, Hank Azaria, Robin Williams
+ActorURIs: Ben_Stiller, Amy_Adams, Owen_Wilson, Hank_Azaria, Robin_Williams
+Companies: Twentieth Century Fox Film Corporation, 1492 Pictures, Dune Entertainment
+CompanyURIs: Twentieth_Century_Fox_Film_Corporation, 1492_Pictures, Dune_Entertainment
+Countries: United States of America, Canada
+CountryURIs: United_States_of_America, Canada
+Plot: Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they've been transferred to the archives at the Smithsonian Institution. Larry's (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible.
+----------------------------------------
+
+ID: 2080
+Title: X-Men Origins: Wolverine
+Year: 2009
+Rating: 6.2
+Genres: Adventure, Action, Thriller, Science Fiction
+GenreURIs: Adventure, Action, Thriller, Science_Fiction
+Director: Gavin Hood
+DirectorURIs: Gavin_Hood
+Actors: Hugh Jackman, Liev Schreiber, Danny Huston, Lynn Collins, Ryan Reynolds
+ActorURIs: Hugh_Jackman, Liev_Schreiber, Danny_Huston, Lynn_Collins, Ryan_Reynolds
+Companies: Ingenious Film Partners, Twentieth Century Fox Film Corporation, Donners' Company
+CompanyURIs: Ingenious_Film_Partners, Twentieth_Century_Fox_Film_Corporation, Donners_Company
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.
+----------------------------------------
+
+ID: 605
+Title: The Matrix Revolutions
+Year: 2003
+Rating: 6.4
+Genres: Adventure, Action, Thriller, Science Fiction
+GenreURIs: Adventure, Action, Thriller, Science_Fiction
+Director: Lilly Wachowski, Lana Wachowski
+DirectorURIs: Lilly_Wachowski, Lana_Wachowski
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Mary Alice
+ActorURIs: Keanu_Reeves, Laurence_Fishburne, Carrie_Anne_Moss, Hugo_Weaving, Mary_Alice
+Companies: Village Roadshow Pictures, NPV Entertainment, Silver Pictures
+CompanyURIs: Village_Roadshow_Pictures, NPV_Entertainment, Silver_Pictures
+Countries: United States of America, Australia
+CountryURIs: United_States_of_America, Australia
+Plot: The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
+----------------------------------------
+
+ID: 109445
+Title: Frozen
+Year: 2013
+Rating: 7.3
+Genres: Animation, Adventure, Family
+GenreURIs: Animation, Adventure, Family
+Director: Chris Buck, Jennifer Lee
+DirectorURIs: Chris_Buck, Jennifer_Lee
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, Santino Fontana
+ActorURIs: Kristen_Bell, Idina_Menzel, Jonathan_Groff, Josh_Gad, Santino_Fontana
+Companies: Walt Disney Pictures, Walt Disney Animation Studios
+CompanyURIs: Walt_Disney_Pictures, Walt_Disney_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Young princess Anna of Arendelle dreams about finding true love at her sister Elsas coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.
+----------------------------------------
+
+ID: 604
+Title: The Matrix Reloaded
+Year: 2003
+Rating: 6.7
+Genres: Adventure, Action, Thriller, Science Fiction
+GenreURIs: Adventure, Action, Thriller, Science_Fiction
+Director: Lilly Wachowski, Lana Wachowski
+DirectorURIs: Lilly_Wachowski, Lana_Wachowski
+Actors: Keanu Reeves, Carrie-Anne Moss, Laurence Fishburne, Hugo Weaving, Helmut Bakaitis
+ActorURIs: Keanu_Reeves, Carrie_Anne_Moss, Laurence_Fishburne, Hugo_Weaving, Helmut_Bakaitis
+Companies: Village Roadshow Pictures, NPV Entertainment, Heineken Branded Entertainment
+CompanyURIs: Village_Roadshow_Pictures, NPV_Entertainment, Heineken_Branded_Entertainment
+Countries: Australia, United States of America
+CountryURIs: Australia, United_States_of_America
+Plot: Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate
+----------------------------------------
+
+ID: 76338
+Title: Thor: The Dark World
+Year: 2013
+Rating: 6.8
+Genres: Action, Adventure, Fantasy
+GenreURIs: Action, Adventure, Fantasy
+Director: Alan Taylor
+DirectorURIs: Alan_Taylor
+Actors: Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Christopher Eccleston
+ActorURIs: Chris_Hemsworth, Natalie_Portman, Tom_Hiddleston, Anthony_Hopkins, Christopher_Eccleston
+Companies: Marvel Studios
+CompanyURIs: Marvel_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Thor fights to restore order across the cosmos but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.
+----------------------------------------
+
+ID: 76341
+Title: Mad Max: Fury Road
+Year: 2015
+Rating: 7.2
+Genres: Action, Adventure, Science Fiction, Thriller
+GenreURIs: Action, Adventure, Science_Fiction, Thriller
+Director: George Miller
+DirectorURIs: George_Miller
+Actors: Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman
+ActorURIs: Tom_Hardy, Charlize_Theron, Nicholas_Hoult, Hugh_Keays_Byrne, Josh_Helman
+Companies: Village Roadshow Pictures, Kennedy Miller Productions, Warner Bros.
+CompanyURIs: Village_Roadshow_Pictures, Kennedy_Miller_Productions, Warner_Bros
+Countries: Australia, United States of America
+CountryURIs: Australia, United_States_of_America
+Plot: An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can
+----------------------------------------
+
+ID: 13448
+Title: Angels & Demons
+Year: 2009
+Rating: 6.5
+Genres: Thriller, Mystery
+GenreURIs: Thriller, Mystery
+Director: Ron Howard
+DirectorURIs: Ron_Howard
+Actors: Tom Hanks, Ewan McGregor, Ayelet Zurer, Stellan Skarsgård, Pierfrancesco Favino
+ActorURIs: Tom_Hanks, Ewan_McGregor, Ayelet_Zurer, Stellan_Skarsgrd, Pierfrancesco_Favino
+Companies: Columbia Pictures, Imagine Entertainment, Panorama Films
+CompanyURIs: Columbia_Pictures, Imagine_Entertainment, Panorama_Films
+Countries: Italy, United States of America
+CountryURIs: Italy, United_States_of_America
+Plot: Harvard symbologist Robert Langdon investigates a mysterious symbol seared into the chest of a murdered physicist. He discovers evidence of the unimaginable, the rebirth of an ancient secret brotherhood known as the Illuminati, the most powerful underground organization ever to walk the earth.
+----------------------------------------
+
+ID: 10195
+Title: Thor
+Year: 2011
+Rating: 6.6
+Genres: Adventure, Fantasy, Action
+GenreURIs: Adventure, Fantasy, Action
+Director: Kenneth Branagh
+DirectorURIs: Kenneth_Branagh
+Actors: Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård
+ActorURIs: Chris_Hemsworth, Natalie_Portman, Tom_Hiddleston, Anthony_Hopkins, Stellan_Skarsgrd
+Companies: Marvel Studios
+CompanyURIs: Marvel_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.
+----------------------------------------
+
+ID: 13053
+Title: Bolt
+Year: 2008
+Rating: 6.3
+Genres: Animation, Family, Adventure, Comedy
+GenreURIs: Animation, Family, Adventure, Comedy
+Director: Chris Williams, Byron Howard
+DirectorURIs: Chris_Williams, Byron_Howard
+Actors: John Travolta, Miley Cyrus, Susie Essman, Mark Walton, Malcolm McDowell
+ActorURIs: John_Travolta, Miley_Cyrus, Susie_Essman, Mark_Walton, Malcolm_McDowell
+Companies: Walt Disney Animation Studios
+CompanyURIs: Walt_Disney_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Bolt is the star of the biggest show in Hollywood. The only problem is, he thinks it's real. After he's accidentally shipped to New York City and separated from Penny, his beloved co-star and owner, Bolt must harness all his "super powers" to find a way home.
+----------------------------------------
+
+ID: 19585
+Title: G-Force
+Year: 2009
+Rating: 5.1
+Genres: Fantasy, Action, Adventure, Family, Comedy
+GenreURIs: Fantasy, Action, Adventure, Family, Comedy
+Director: Hoyt Yeatman
+DirectorURIs: Hoyt_Yeatman
+Actors: Sam Rockwell, Penélope Cruz, Tracy Morgan, Jon Favreau, Steve Buscemi
+ActorURIs: Sam_Rockwell, Penlope_Cruz, Tracy_Morgan, Jon_Favreau, Steve_Buscemi
+Companies: Walt Disney Pictures, Jerry Bruckheimer Films, Whamaphram Productions
+CompanyURIs: Walt_Disney_Pictures, Jerry_Bruckheimer_Films, Whamaphram_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A team of trained secret agent animals, guinea pigs Darwin, Juarez, Blaster, mole Speckles, and fly Mooch takes on a mission for the US government to stop evil Leonard Saber, who plans to destroy the world with household appliances. But the government shuts them down and they are sentenced to a pet shop. Can they escape to defeat the villain and save the world?
+----------------------------------------
+
+ID: 57165
+Title: Wrath of the Titans
+Year: 2012
+Rating: 5.5
+Genres: Adventure
+GenreURIs: Adventure
+Director: Jonathan Liebesman
+DirectorURIs: Jonathan_Liebesman
+Actors: Sam Worthington, Liam Neeson, Ralph Fiennes, Edgar Ramírez, Toby Kebbell
+ActorURIs: Sam_Worthington, Liam_Neeson, Ralph_Fiennes, Edgar_Ramrez, Toby_Kebbell
+Companies: Legendary Pictures, Thunder Road Pictures, Warner Bros.
+CompanyURIs: Legendary_Pictures, Thunder_Road_Pictures, Warner_Bros
+Countries: Spain, United States of America
+CountryURIs: Spain, United_States_of_America
+Plot: A decade after his heroic defeat of the monstrous Kraken, Perseus-the demigod son of Zeus-is attempting to live a quieter life as a village fisherman and the sole parent to his 10-year old son, Helius. Meanwhile, a struggle for supremacy rages between the gods and the Titans. Dangerously weakened by humanity's lack of devotion, the gods are losing control of the imprisoned Titans and their ferocious leader, Kronos, father of the long-ruling brothers Zeus, Hades and Poseidon.
+----------------------------------------
+
+ID: 62213
+Title: Dark Shadows
+Year: 2012
+Rating: 5.7
+Genres: Comedy, Fantasy
+GenreURIs: Comedy, Fantasy
+Director: Tim Burton
+DirectorURIs: Tim_Burton
+Actors: Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Jackie Earle Haley, Jonny Lee Miller
+ActorURIs: Johnny_Depp, Michelle_Pfeiffer, Helena_Bonham_Carter, Jackie_Earle_Haley, Jonny_Lee_Miller
+Companies: Village Roadshow Pictures, Infinitum Nihil, GK Films
+CompanyURIs: Village_Roadshow_Pictures, Infinitum_Nihil, GK_Films
+Countries: Australia, United States of America
+CountryURIs: Australia, United_States_of_America
+Plot: Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin.
+----------------------------------------
+
+ID: 177677
+Title: Mission: Impossible - Rogue Nation
+Year: 2015
+Rating: 7.1
+Genres: Action, Adventure, Thriller
+GenreURIs: Action, Adventure, Thriller
+Director: Christopher McQuarrie
+DirectorURIs: Christopher_McQuarrie
+Actors: Tom Cruise, Rebecca Ferguson, Simon Pegg, Jeremy Renner, Ving Rhames
+ActorURIs: Tom_Cruise, Rebecca_Ferguson, Simon_Pegg, Jeremy_Renner, Ving_Rhames
+Companies: Paramount Pictures, Skydance Productions, China Movie Channel
+CompanyURIs: Paramount_Pictures, Skydance_Productions, China_Movie_Channel
+Countries: China, United States of America
+CountryURIs: China, United_States_of_America
+Plot: Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF.
+----------------------------------------
+
+ID: 7978
+Title: The Wolfman
+Year: 2010
+Rating: 5.5
+Genres: Drama, Horror, Thriller
+GenreURIs: Drama, Horror, Thriller
+Director: Joe Johnston
+DirectorURIs: Joe_Johnston
+Actors: Benicio del Toro, Anthony Hopkins, Emily Blunt, Hugo Weaving, Cristina Contes
+ActorURIs: Benicio_del_Toro, Anthony_Hopkins, Emily_Blunt, Hugo_Weaving, Cristina_Contes
+Companies: Universal Pictures, Stuber Productions, Relativity Media
+CompanyURIs: Universal_Pictures, Stuber_Productions, Relativity_Media
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh.
+----------------------------------------
+
+ID: 5559
+Title: Bee Movie
+Year: 2007
+Rating: 5.7
+Genres: Family, Animation, Adventure, Comedy
+GenreURIs: Family, Animation, Adventure, Comedy
+Director: Steve Hickner, Simon J. Smith
+DirectorURIs: Steve_Hickner, Simon_J_Smith
+Actors: Jerry Seinfeld, Renée Zellweger, Jim Cummings, Matthew Broderick, Patrick Warburton
+ActorURIs: Jerry_Seinfeld, Rene_Zellweger, Jim_Cummings, Matthew_Broderick, Patrick_Warburton
+Companies: Pacific Data Images (PDI), DreamWorks Animation, Columbus 81 Productions
+CompanyURIs: Pacific_Data_Images_PDI, DreamWorks_Animation, Columbus_81_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Barry B. Benson, a bee who has just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey, and subsequently decides to sue us.
+----------------------------------------
+
+ID: 49444
+Title: Kung Fu Panda 2
+Year: 2011
+Rating: 6.7
+Genres: Animation, Family
+GenreURIs: Animation, Family
+Director: Jennifer Yuh Nelson
+DirectorURIs: Jennifer_Yuh_Nelson
+Actors: Jack Black, Angelina Jolie, Dustin Hoffman, Gary Oldman, Jackie Chan
+ActorURIs: Jack_Black, Angelina_Jolie, Dustin_Hoffman, Gary_Oldman, Jackie_Chan
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Po is now living his dream as The Dragon Warrior, protecting the Valley of Peace alongside his friends and fellow kung fu masters, The Furious Five - Tigress, Crane, Mantis, Viper and Monkey. But Pos new life of awesomeness is threatened by the emergence of a formidable villain, who plans to use a secret, unstoppable weapon to conquer China and destroy kung fu. It is up to Po and The Furious Five to journey across China to face this threat and vanquish it. But how can Po stop a weapon that can stop kung fu? He must look to his
+----------------------------------------
+
+ID: 10196
+Title: The Last Airbender
+Year: 2010
+Rating: 4.7
+Genres: Action, Adventure, Family, Fantasy
+GenreURIs: Action, Adventure, Family, Fantasy
+Director: M. Night Shyamalan
+DirectorURIs: M_Night_Shyamalan
+Actors: Noah Ringer, Nicola Peltz, Jackson Rathbone, Dev Patel, Shaun Toub
+ActorURIs: Noah_Ringer, Nicola_Peltz, Jackson_Rathbone, Dev_Patel, Shaun_Toub
+Companies: Paramount Pictures, Nickelodeon Movies, Kennedy/Marshall Company, The
+CompanyURIs: Paramount_Pictures, Nickelodeon_Movies, KennedyMarshall_Company_The
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The story follows the adventures of Aang, a young successor to a long line of Avatars, who must put his childhood ways aside and stop the Fire Nation from enslaving the Water, Earth and Air nations.
+----------------------------------------
+
+ID: 956
+Title: Mission: Impossible III
+Year: 2006
+Rating: 6.5
+Genres: Adventure, Action, Thriller
+GenreURIs: Adventure, Action, Thriller
+Director: J.J. Abrams
+DirectorURIs: JJ_Abrams
+Actors: Tom Cruise, Philip Seymour Hoffman, Ving Rhames, Billy Crudup, Jonathan Rhys Meyers
+ActorURIs: Tom_Cruise, Philip_Seymour_Hoffman, Ving_Rhames, Billy_Crudup, Jonathan_Rhys_Meyers
+Companies: Paramount Pictures, Cruise/Wagner Productions, Studio Babelsberg
+CompanyURIs: Paramount_Pictures, CruiseWagner_Productions, Studio_Babelsberg
+Countries: China, Germany, United States of America
+CountryURIs: China, Germany, United_States_of_America
+Plot: Retired from active duty to train new IMF agents, Ethan Hunt is called back into action to confront sadistic arms dealer, Owen Davian. Hunt must try to protect his girlfriend while working with his new team to complete the mission.
+----------------------------------------
+
+ID: 117251
+Title: White House Down
+Year: 2013
+Rating: 6.4
+Genres: Action, Drama, Thriller
+GenreURIs: Action, Drama, Thriller
+Director: Roland Emmerich
+DirectorURIs: Roland_Emmerich
+Actors: Channing Tatum, Jamie Foxx, Joey King, Maggie Gyllenhaal, Richard Jenkins
+ActorURIs: Channing_Tatum, Jamie_Foxx, Joey_King, Maggie_Gyllenhaal, Richard_Jenkins
+Companies: Columbia Pictures, Centropolis Entertainment, Iron Horse Entertainment (II)
+CompanyURIs: Columbia_Pictures, Centropolis_Entertainment, Iron_Horse_Entertainment_II
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Capitol Policeman John Cale has just been denied his dream job with the Secret Service of protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, when the complex is overtaken by a heavily armed paramilitary group. Now, with the nation's government falling into chaos and time running out, it's up to Cale to save the president, his daughter, and the country.
+----------------------------------------
+
+ID: 50321
+Title: Mars Needs Moms
+Year: 2011
+Rating: 5.5
+Genres: Adventure, Animation, Family
+GenreURIs: Adventure, Animation, Family
+Director: Simon Wells
+DirectorURIs: Simon_Wells
+Actors: Seth Green, Joan Cusack, Dan Fogler, Breckin Meyer, Elisabeth Harnois
+ActorURIs: Seth_Green, Joan_Cusack, Dan_Fogler, Breckin_Meyer, Elisabeth_Harnois
+Companies: Walt Disney Animation Studios
+CompanyURIs: Walt_Disney_Animation_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When Martians suddenly abduct his mom, mischievous Milo rushes to the rescue and discovers why all moms are so special.
+----------------------------------------
+
+ID: 11619
+Title: Flushed Away
+Year: 2006
+Rating: 6.0
+Genres: Adventure, Animation, Comedy, Family
+GenreURIs: Adventure, Animation, Comedy, Family
+Director: David Bowers, Sam Fell
+DirectorURIs: David_Bowers, Sam_Fell
+Actors: Hugh Jackman, Kate Winslet, Ian McKellen, Jean Reno, Bill Nighy
+ActorURIs: Hugh_Jackman, Kate_Winslet, Ian_McKellen, Jean_Reno, Bill_Nighy
+Companies: Aardman Animations, DreamWorks Animation
+CompanyURIs: Aardman_Animations, DreamWorks_Animation
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: London high-society mouse, Roddy is flushed down the toilet by Sid, a common sewer rat. Hang on for a madcap adventure deep in the sewer bowels of Ratropolis, where Roddy meets the resourceful Rita, the rodent-hating Toad and his faithful thugs, Spike and Whitey.
+----------------------------------------
+
+ID: 266647
+Title: Pan
+Year: 2015
+Rating: 5.9
+Genres: Adventure, Family, Fantasy
+GenreURIs: Adventure, Family, Fantasy
+Director: Joe Wright
+DirectorURIs: Joe_Wright
+Actors: Levi Miller, Garrett Hedlund, Hugh Jackman, Rooney Mara, Amanda Seyfried
+ActorURIs: Levi_Miller, Garrett_Hedlund, Hugh_Jackman, Rooney_Mara, Amanda_Seyfried
+Companies: Warner Bros., Moving Picture Company (MPC), Berlanti Productions
+CompanyURIs: Warner_Bros, Moving_Picture_Company_MPC, Berlanti_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Living a bleak existence at a London orphanage, 12-year-old Peter finds himself whisked away to the fantastical world of Neverland. Adventure awaits as he meets new friend James Hook and the warrior Tiger Lily. They must band together to save Neverland from the ruthless pirate Blackbeard. Along the way, the rebellious and mischievous boy discovers his true destiny, becoming the hero forever known as Peter Pan.
+----------------------------------------
+
+ID: 82703
+Title: Mr. Peabody & Sherman
+Year: 2014
+Rating: 6.7
+Genres: Animation, Adventure, Family
+GenreURIs: Animation, Adventure, Family
+Director: Rob Minkoff
+DirectorURIs: Rob_Minkoff
+Actors: Ty Burrell, Max Charles, Ariel Winter, Allison Janney, Ellie Kemper
+ActorURIs: Ty_Burrell, Max_Charles, Ariel_Winter, Allison_Janney, Ellie_Kemper
+Companies: Pacific Data Images (PDI), DreamWorks Animation, Classic Media Productions
+CompanyURIs: Pacific_Data_Images_PDI, DreamWorks_Animation, Classic_Media_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A young boy and his dog, who happens to have a genius-level IQ, spring into action when their time-travel machine is stolen and moments in history begin to be changed.
+----------------------------------------
+
+ID: 652
+Title: Troy
+Year: 2004
+Rating: 6.9
+Genres: Adventure, Drama, War
+GenreURIs: Adventure, Drama, War
+Director: Wolfgang Petersen
+DirectorURIs: Wolfgang_Petersen
+Actors: Brad Pitt, Orlando Bloom, Eric Bana, Brian Cox, Sean Bean
+ActorURIs: Brad_Pitt, Orlando_Bloom, Eric_Bana, Brian_Cox, Sean_Bean
+Companies: Plan B Entertainment, Warner Bros., Nimar Studios
+CompanyURIs: Plan_B_Entertainment, Warner_Bros, Nimar_Studios
+Countries: United States of America, Malta, United Kingdom
+CountryURIs: United_States_of_America, Malta, United_Kingdom
+Plot: In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnom to help him get her back. Agamemnon sees this as an opportunity for power. So they set off with 1,000 ships holding 50,000 Greeks to Troy. With the help of Achilles, the Greeks are able to fight the never before defeated Trojans.
+----------------------------------------
+
+ID: 80321
+Title: Madagascar 3: Europe's Most Wanted
+Year: 2012
+Rating: 6.4
+Genres: Animation, Family
+GenreURIs: Animation, Family
+Director: Conrad Vernon, Eric Darnell, Tom McGrath
+DirectorURIs: Conrad_Vernon, Eric_Darnell, Tom_McGrath
+Actors: Ben Stiller, Sacha Baron Cohen, David Schwimmer, Frances McDormand, Chris Rock
+ActorURIs: Ben_Stiller, Sacha_Baron_Cohen, David_Schwimmer, Frances_McDormand, Chris_Rock
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Alex, Marty, Gloria and Melman are still trying to get back to the Big Apple and their beloved Central Park zoo, but first they need to find the penguins. When they travel to Monte Carlo, they attract the attention of Animal Control after gate crashing a party and are joined by the penguins, King Julian and Co., and the monkeys. How do a lion, zebra, hippo, giraffe, four penguins, two monkeys, three lemurs travel through Europe without attracting attention and get back to New York? They join a traveling circus. Their attempts to get back to New York are consistently
+----------------------------------------
+
+ID: 36669
+Title: Die Another Day
+Year: 2002
+Rating: 5.8
+Genres: Adventure, Action, Thriller
+GenreURIs: Adventure, Action, Thriller
+Director: Lee Tamahori
+DirectorURIs: Lee_Tamahori
+Actors: Pierce Brosnan, Halle Berry, Rosamund Pike, Rick Yune, Toby Stephens
+ActorURIs: Pierce_Brosnan, Halle_Berry, Rosamund_Pike, Rick_Yune, Toby_Stephens
+Companies: Eon Productions
+CompanyURIs: Eon_Productions
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Bond takes on a North Korean leader who undergoes DNA replacement procedures that allow him to assume different identities. American agent, Jinx Johnson assists Bond in his attempt to thwart the villain's plans to exploit a satellite that is powered by solar energy.
+----------------------------------------
+
+ID: 43074
+Title: Ghostbusters
+Year: 2016
+Rating: 5.3
+Genres: Action, Fantasy, Comedy
+GenreURIs: Action, Fantasy, Comedy
+Director: Paul Feig
+DirectorURIs: Paul_Feig
+Actors: Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones, Chris Hemsworth
+ActorURIs: Melissa_McCarthy, Kristen_Wiig, Kate_McKinnon, Leslie_Jones, Chris_Hemsworth
+Companies: Columbia Pictures, Village Roadshow Pictures, Montecito Picture Company, The
+CompanyURIs: Columbia_Pictures, Village_Roadshow_Pictures, Montecito_Picture_Company_The
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.
+----------------------------------------
+
+ID: 95
+Title: Armageddon
+Year: 1998
+Rating: 6.4
+Genres: Action, Thriller, Science Fiction, Adventure
+GenreURIs: Action, Thriller, Science_Fiction, Adventure
+Director: Michael Bay
+DirectorURIs: Michael_Bay
+Actors: Bruce Willis, Billy Bob Thornton, Ben Affleck, Liv Tyler, Will Patton
+ActorURIs: Bruce_Willis, Billy_Bob_Thornton, Ben_Affleck, Liv_Tyler, Will_Patton
+Companies: Jerry Bruckheimer Films, Touchstone Pictures, Valhalla Motion Pictures
+CompanyURIs: Jerry_Bruckheimer_Films, Touchstone_Pictures, Valhalla_Motion_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.
+----------------------------------------
+
+ID: 608
+Title: Men in Black II
+Year: 2002
+Rating: 6.0
+Genres: Action, Adventure, Comedy, Science Fiction
+GenreURIs: Action, Adventure, Comedy, Science_Fiction
+Director: Barry Sonnenfeld
+DirectorURIs: Barry_Sonnenfeld
+Actors: Tommy Lee Jones, Will Smith, Rip Torn, Lara Flynn Boyle, Johnny Knoxville
+ActorURIs: Tommy_Lee_Jones, Will_Smith, Rip_Torn, Lara_Flynn_Boyle, Johnny_Knoxville
+Companies: Columbia Pictures, Amblin Entertainment, Columbia Pictures Corporation
+CompanyURIs: Columbia_Pictures, Amblin_Entertainment, Columbia_Pictures_Corporation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Kay and Jay reunite to provide our best, last and only line of defense against a sinister seductress who levels the toughest challenge yet to the MIB's untarnished mission statement protecting Earth from the scum of the universe. It's been four years since the alien-seeking agents averted an intergalactic disaster of epic proportions. Now it's a race against the clock as Jay must convince Kay who not only has absolutely no memory of his time spent with the MIB, but is also the only living person left with the expertise to save the galaxy to reunite with the MIB before
+----------------------------------------
+
+ID: 2310
+Title: Beowulf
+Year: 2007
+Rating: 5.5
+Genres: Adventure, Action, Animation
+GenreURIs: Adventure, Action, Animation
+Director: Robert Zemeckis
+DirectorURIs: Robert_Zemeckis
+Actors: Ray Winstone, Angelina Jolie, Anthony Hopkins, Robin Wright, John Malkovich
+ActorURIs: Ray_Winstone, Angelina_Jolie, Anthony_Hopkins, Robin_Wright, John_Malkovich
+Companies: Paramount Pictures, Shangri-La Entertainment, ImageMovers
+CompanyURIs: Paramount_Pictures, Shangri_La_Entertainment, ImageMovers
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: 6th-century Scandinavian warrior, Beowulf embarks on a mission to slay the manlike ogre Grendel, a descendant of Cain.
+----------------------------------------
+
+ID: 140300
+Title: Kung Fu Panda 3
+Year: 2016
+Rating: 6.7
+Genres: Action, Adventure, Animation, Comedy, Family
+GenreURIs: Action, Adventure, Animation, Comedy, Family
+Director: Jennifer Yuh Nelson, Alessandro Carloni
+DirectorURIs: Jennifer_Yuh_Nelson, Alessandro_Carloni
+Actors: Jack Black, Bryan Cranston, Dustin Hoffman, Angelina Jolie, J.K. Simmons
+ActorURIs: Jack_Black, Bryan_Cranston, Dustin_Hoffman, Angelina_Jolie, JK_Simmons
+Companies: Twentieth Century Fox Film Corporation, DreamWorks Animation, China Film Co.
+CompanyURIs: Twentieth_Century_Fox_Film_Corporation, DreamWorks_Animation, China_Film_Co
+Countries: China, United States of America
+CountryURIs: China, United_States_of_America
+Plot: Continuing his "legendary adventures of awesomeness", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.
+----------------------------------------
+
+ID: 56292
+Title: Mission: Impossible - Ghost Protocol
+Year: 2011
+Rating: 6.8
+Genres: Action, Thriller, Adventure
+GenreURIs: Action, Thriller, Adventure
+Director: Brad Bird
+DirectorURIs: Brad_Bird
+Actors: Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton, Anil Kapoor
+ActorURIs: Tom_Cruise, Jeremy_Renner, Simon_Pegg, Paula_Patton, Anil_Kapoor
+Companies: Paramount Pictures, Skydance Productions, Bad Robot
+CompanyURIs: Paramount_Pictures, Skydance_Productions, Bad_Robot
+Countries: Czech Republic, United States of America, United Arab Emirates
+CountryURIs: Czech_Republic, United_States_of_America, United_Arab_Emirates
+Plot: In the 4th installment of the Mission Impossible series, Ethan Hunt (Cruise) and his team are racing against time to track down a dangerous terrorist named Hendricks (Nyqvist), who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to
+----------------------------------------
+
+ID: 81188
+Title: Rise of the Guardians
+Year: 2012
+Rating: 7.1
+Genres: Fantasy, Animation, Family
+GenreURIs: Fantasy, Animation, Family
+Director: Peter Ramsey
+DirectorURIs: Peter_Ramsey
+Actors: Chris Pine, Alec Baldwin, Jude Law, Isla Fisher, Hugh Jackman
+ActorURIs: Chris_Pine, Alec_Baldwin, Jude_Law, Isla_Fisher, Hugh_Jackman
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world.
+----------------------------------------
+
+ID: 7552
+Title: Fun with Dick and Jane
+Year: 2005
+Rating: 5.9
+Genres: Comedy
+GenreURIs: Comedy
+Director: Dean Parisot
+DirectorURIs: Dean_Parisot
+Actors: Jim Carrey, Téa Leoni, Alec Baldwin, Richard Jenkins, Angie Harmon
+ActorURIs: Jim_Carrey, Ta_Leoni, Alec_Baldwin, Richard_Jenkins, Angie_Harmon
+Companies: Imagine Entertainment, Columbia Pictures Corporation, JC 23 Entertainment
+CompanyURIs: Imagine_Entertainment, Columbia_Pictures_Corporation, JC_23_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After Dick Harper loses his job at Globodyne in an Enron-esque collapse, he and his wife, Jane, turn to crime in order to handle the massive debt they now face. Two intelligent people, Dick and Jane actually get pretty good at robbing people and even enjoy it -- but they have second thoughts when they're reminded that crime can hurt innocent people. When the couple hears that Globodyne boss Jack McCallister actually swindled the company, they plot revenge.
+----------------------------------------
+
+ID: 616
+Title: The Last Samurai
+Year: 2003
+Rating: 7.3
+Genres: Drama, Action, War, History
+GenreURIs: Drama, Action, War, History
+Director: Edward Zwick
+DirectorURIs: Edward_Zwick
+Actors: Tom Cruise, Ken Watanabe, William Atherton, Chad Lindberg, Billy Connolly
+ActorURIs: Tom_Cruise, Ken_Watanabe, William_Atherton, Chad_Lindberg, Billy_Connolly
+Companies: Cruise/Wagner Productions, Warner Bros., Radar Pictures
+CompanyURIs: CruiseWagner_Productions, Warner_Bros, Radar_Pictures
+Countries: Japan, United States of America, New Zealand
+CountryURIs: Japan, United_States_of_America, New_Zealand
+Plot: Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.
+----------------------------------------
+
+ID: 147441
+Title: Exodus: Gods and Kings
+Year: 2014
+Rating: 5.6
+Genres: Adventure, Drama, Action
+GenreURIs: Adventure, Drama, Action
+Director: Ridley Scott
+DirectorURIs: Ridley_Scott
+Actors: Christian Bale, Joel Edgerton, John Turturro, Aaron Paul, Ben Mendelsohn
+ActorURIs: Christian_Bale, Joel_Edgerton, John_Turturro, Aaron_Paul, Ben_Mendelsohn
+Companies: Scott Free Productions, Chernin Entertainment, Babieka
+CompanyURIs: Scott_Free_Productions, Chernin_Entertainment, Babieka
+Countries: Spain, United Kingdom, United States of America
+CountryURIs: Spain, United_Kingdom, United_States_of_America
+Plot: The defiant leader Moses rises up against the Egyptian Pharaoh Ramses, setting 400,000 slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.
+----------------------------------------
+
+ID: 13475
+Title: Star Trek
+Year: 2009
+Rating: 7.4
+Genres: Science Fiction, Action, Adventure
+GenreURIs: Science_Fiction, Action, Adventure
+Director: J.J. Abrams
+DirectorURIs: JJ_Abrams
+Actors: Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana, Bruce Greenwood
+ActorURIs: Chris_Pine, Zachary_Quinto, Leonard_Nimoy, Eric_Bana, Bruce_Greenwood
+Companies: Paramount Pictures, Spyglass Entertainment, Bad Robot
+CompanyURIs: Paramount_Pictures, Spyglass_Entertainment, Bad_Robot
+Countries: Germany, United States of America
+CountryURIs: Germany, United_States_of_America
+Plot: The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.
+----------------------------------------
+
+ID: 557
+Title: Spider-Man
+Year: 2002
+Rating: 6.8
+Genres: Fantasy, Action
+GenreURIs: Fantasy, Action
+Director: Sam Raimi
+DirectorURIs: Sam_Raimi
+Actors: Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson
+ActorURIs: Tobey_Maguire, Willem_Dafoe, Kirsten_Dunst, James_Franco, Cliff_Robertson
+Companies: Columbia Pictures, Marvel Enterprises
+CompanyURIs: Columbia_Pictures, Marvel_Enterprises
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers.
+----------------------------------------
+
+ID: 82702
+Title: How to Train Your Dragon 2
+Year: 2014
+Rating: 7.6
+Genres: Fantasy, Action, Adventure, Animation, Comedy, Family
+GenreURIs: Fantasy, Action, Adventure, Animation, Comedy, Family
+Director: Dean DeBlois
+DirectorURIs: Dean_DeBlois
+Actors: Jay Baruchel, Gerard Butler, Kristen Wiig, Jonah Hill, Cate Blanchett
+ActorURIs: Jay_Baruchel, Gerard_Butler, Kristen_Wiig, Jonah_Hill, Cate_Blanchett
+Companies: DreamWorks Animation, Mad Hatter Entertainment
+CompanyURIs: DreamWorks_Animation, Mad_Hatter_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The thrilling second chapter of the epic How To Train Your Dragon trilogy brings back the fantastical world of Hiccup and Toothless five years later. While Astrid, Snotlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a
+----------------------------------------
+
+ID: 205584
+Title: Gods of Egypt
+Year: 2016
+Rating: 5.3
+Genres: Fantasy
+GenreURIs: Fantasy
+Director: Alex Proyas
+DirectorURIs: Alex_Proyas
+Actors: Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler, Courtney Eaton, Elodie Yung
+ActorURIs: Brenton_Thwaites, Nikolaj_Coster_Waldau, Gerard_Butler, Courtney_Eaton, Elodie_Yung
+Companies: Summit Entertainment, Mystery Clock Cinema, Thunder Road Pictures
+CompanyURIs: Summit_Entertainment, Mystery_Clock_Cinema, Thunder_Road_Pictures
+Countries: Australia, United States of America
+CountryURIs: Australia, United_States_of_America
+Plot: A common thief joins a mythical god on a quest through Egypt.
+----------------------------------------
+
+ID: 10048
+Title: Stealth
+Year: 2005
+Rating: 4.9
+Genres: Action
+GenreURIs: Action
+Director: Rob Cohen
+DirectorURIs: Rob_Cohen
+Actors: Josh Lucas, Jessica Biel, Jamie Foxx, Sam Shepard, Richard Roxburgh
+ActorURIs: Josh_Lucas, Jessica_Biel, Jamie_Foxx, Sam_Shepard, Richard_Roxburgh
+Companies: Laura Ziskin Productions, Original Film, Columbia Pictures Corporation
+CompanyURIs: Laura_Ziskin_Productions, Original_Film, Columbia_Pictures_Corporation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Deeply ensconced in a top-secret military program, three pilots struggle to bring an artificial intelligence program under control ... before it initiates the next world war.
+----------------------------------------
+
+ID: 13183
+Title: Watchmen
+Year: 2009
+Rating: 7.0
+Genres: Action, Mystery, Science Fiction
+GenreURIs: Action, Mystery, Science_Fiction
+Director: Zack Snyder
+DirectorURIs: Zack_Snyder
+Actors: Malin Åkerman, Billy Crudup, Carla Gugino, Jeffrey Dean Morgan, Patrick Wilson
+ActorURIs: Malin_kerman, Billy_Crudup, Carla_Gugino, Jeffrey_Dean_Morgan, Patrick_Wilson
+Companies: Paramount Pictures, DC Comics, Lawrence Gordon Productions
+CompanyURIs: Paramount_Pictures, DC_Comics, Lawrence_Gordon_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: In a gritty and alternate 1985 the glory days of costumed vigilantes have been brought to a close by a government crackdown, but after one of the masked veterans is brutally murdered an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so uncover a sinister plot that puts all of humanity in grave danger.
+----------------------------------------
+
+ID: 944
+Title: Lethal Weapon 4
+Year: 1998
+Rating: 6.3
+Genres: Action, Adventure, Comedy, Crime, Thriller
+GenreURIs: Action, Adventure, Comedy, Crime, Thriller
+Director: Richard Donner
+DirectorURIs: Richard_Donner
+Actors: Mel Gibson, Danny Glover, Joe Pesci, Rene Russo, Jet Li
+ActorURIs: Mel_Gibson, Danny_Glover, Joe_Pesci, Rene_Russo, Jet_Li
+Companies: Silver Pictures, Donner/Shuler-Donner Productions, Warner Bros.
+CompanyURIs: Silver_Pictures, DonnerShuler_Donner_Productions, Warner_Bros
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: In the combustible action franchise's final installment, maverick detectives Martin Riggs and Roger Murtaugh square off against Asian mobster Wah Sing Ku, who's up to his neck in slave trading and counterfeit currency. With help from gumshoe Leo Getz and smart-aleck rookie cop Lee Butters, Riggs and Murtaugh aim to take down Ku and his gang.
+----------------------------------------
+
+ID: 1927
+Title: Hulk
+Year: 2003
+Rating: 5.3
+Genres: Drama, Action, Science Fiction
+GenreURIs: Drama, Action, Science_Fiction
+Director: Ang Lee
+DirectorURIs: Ang_Lee
+Actors: Eric Bana, Jennifer Connelly, Sam Elliott, Josh Lucas, Nick Nolte
+ActorURIs: Eric_Bana, Jennifer_Connelly, Sam_Elliott, Josh_Lucas, Nick_Nolte
+Companies: Universal Pictures, Good Machine, Valhalla Motion Pictures
+CompanyURIs: Universal_Pictures, Good_Machine, Valhalla_Motion_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.
+----------------------------------------
+
+ID: 72559
+Title: G.I. Joe: Retaliation
+Year: 2013
+Rating: 5.4
+Genres: Adventure, Action, Science Fiction, Thriller
+GenreURIs: Adventure, Action, Science_Fiction, Thriller
+Director: Jon M. Chu
+DirectorURIs: Jon_M_Chu
+Actors: Dwayne Johnson, D.J. Cotrona, Adrianne Palicki, Bruce Willis, Ray Park
+ActorURIs: Dwayne_Johnson, DJ_Cotrona, Adrianne_Palicki, Bruce_Willis, Ray_Park
+Companies: Paramount Pictures, Di Bonaventura Pictures, Hasbro
+CompanyURIs: Paramount_Pictures, Di_Bonaventura_Pictures, Hasbro
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Framed for crimes against the country, the G.I. Joe team is terminated by Presidential order. This forces the G.I. Joes into not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their very existence.
+----------------------------------------
+
+ID: 7364
+Title: Sahara
+Year: 2005
+Rating: 5.7
+Genres: Action, Adventure, Comedy, Drama, Mystery
+GenreURIs: Action, Adventure, Comedy, Drama, Mystery
+Director: Breck Eisner
+DirectorURIs: Breck_Eisner
+Actors: Matthew McConaughey, Penélope Cruz, Steve Zahn, William H. Macy, Lennie James
+ActorURIs: Matthew_McConaughey, Penlope_Cruz, Steve_Zahn, William_H_Macy, Lennie_James
+Companies: Paramount Pictures, Bristol Bay Productions, Baldwin Entertainment Group
+CompanyURIs: Paramount_Pictures, Bristol_Bay_Productions, Baldwin_Entertainment_Group
+Countries: Germany, Spain, United Kingdom, United States of America
+CountryURIs: Germany, Spain, United_Kingdom, United_States_of_America
+Plot: Scouring the ocean depths for treasure-laden shipwrecks is business as usual for a thrill-seeking underwater adventurer and his wisecracking buddy. But when these two cross paths with a beautiful doctor, they find themselves on the ultimate treasure hunt.
+----------------------------------------
+
+ID: 2114
+Title: Final Fantasy: The Spirits Within
+Year: 2001
+Rating: 5.9
+Genres: Adventure, Action, Animation, Fantasy, Science Fiction, Thriller
+GenreURIs: Adventure, Action, Animation, Fantasy, Science_Fiction, Thriller
+Director: Hironobu Sakaguchi, Motonori Sakakibara
+DirectorURIs: Hironobu_Sakaguchi, Motonori_Sakakibara
+Actors: Donald Sutherland, Ming-Na Wen, Alec Baldwin, Ving Rhames, Steve Buscemi
+ActorURIs: Donald_Sutherland, Ming_Na_Wen, Alec_Baldwin, Ving_Rhames, Steve_Buscemi
+Companies: Columbia Pictures, Square USA, Chris Lee Productions
+CompanyURIs: Columbia_Pictures, Square_USA, Chris_Lee_Productions
+Countries: Japan, United States of America
+CountryURIs: Japan, United_States_of_America
+Plot: Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within.
+----------------------------------------
+
+ID: 1771
+Title: Captain America: The First Avenger
+Year: 2011
+Rating: 6.6
+Genres: Action, Adventure, Science Fiction
+GenreURIs: Action, Adventure, Science_Fiction
+Director: Joe Johnston
+DirectorURIs: Joe_Johnston
+Actors: Chris Evans, Hugo Weaving, Tommy Lee Jones, Hayley Atwell, Sebastian Stan
+ActorURIs: Chris_Evans, Hugo_Weaving, Tommy_Lee_Jones, Hayley_Atwell, Sebastian_Stan
+Companies: Marvel Studios
+CompanyURIs: Marvel_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Predominantly set during World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.
+----------------------------------------
+
+ID: 36643
+Title: The World Is Not Enough
+Year: 1999
+Rating: 6.0
+Genres: Adventure, Action, Thriller
+GenreURIs: Adventure, Action, Thriller
+Director: Michael Apted
+DirectorURIs: Michael_Apted
+Actors: Pierce Brosnan, Sophie Marceau, Robert Carlyle, Denise Richards, Robbie Coltrane
+ActorURIs: Pierce_Brosnan, Sophie_Marceau, Robert_Carlyle, Denise_Richards, Robbie_Coltrane
+Companies: Eon Productions, Metro-Goldwyn-Mayer (MGM)
+CompanyURIs: Eon_Productions, Metro_Goldwyn_Mayer_MGM
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Greed, revenge, world dominance and high-tech terrorism it's all in a day's work for Bond, who's on a mission to a protect beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance.
+----------------------------------------
+
+ID: 8619
+Title: Master and Commander: The Far Side of the World
+Year: 2003
+Rating: 6.9
+Genres: Adventure
+GenreURIs: Adventure
+Director: Peter Weir
+DirectorURIs: Peter_Weir
+Actors: Russell Crowe, Paul Bettany, James D'Arcy, Billy Boyd, Joseph Morgan
+ActorURIs: Russell_Crowe, Paul_Bettany, James_DArcy, Billy_Boyd, Joseph_Morgan
+Companies: Universal Pictures, Twentieth Century Fox Film Corporation, Samuel Goldwyn Films
+CompanyURIs: Universal_Pictures, Twentieth_Century_Fox_Film_Corporation, Samuel_Goldwyn_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend.
+----------------------------------------
+
+ID: 50620
+Title: The Twilight Saga: Breaking Dawn - Part 2
+Year: 2012
+Rating: 6.1
+Genres: Adventure, Fantasy, Drama, Romance
+GenreURIs: Adventure, Fantasy, Drama, Romance
+Director: Bill Condon
+DirectorURIs: Bill_Condon
+Actors: Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli, Elizabeth Reaser
+ActorURIs: Kristen_Stewart, Robert_Pattinson, Taylor_Lautner, Peter_Facinelli, Elizabeth_Reaser
+Companies: Summit Entertainment, Sunswept Entertainment, Temple Hill Entertainment
+CompanyURIs: Summit_Entertainment, Sunswept_Entertainment, Temple_Hill_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.
+----------------------------------------
+
+ID: 65759
+Title: Happy Feet Two
+Year: 2011
+Rating: 5.8
+Genres: Animation, Comedy, Family
+GenreURIs: Animation, Comedy, Family
+Director: George Miller
+DirectorURIs: George_Miller
+Actors: Elijah Wood, Robin Williams, Pink, E.G. Daily, Johnny A. Sanchez
+ActorURIs: Elijah_Wood, Robin_Williams, Pink, EG_Daily, Johnny_A_Sanchez
+Companies: Village Roadshow Pictures, Warner Bros., Dr D Studios
+CompanyURIs: Village_Roadshow_Pictures, Warner_Bros, Dr_D_Studios
+Countries: Australia
+CountryURIs: Australia
+Plot: Mumble the penguin has a problem: his son Erik, who is reluctant to dance, encounters The Mighty Sven, a penguin who can fly! Things get worse for Mumble when the world is shaken by powerful forces, causing him to brings together the penguin nations and their allies to set things right.
+----------------------------------------
+
+ID: 1724
+Title: The Incredible Hulk
+Year: 2008
+Rating: 6.1
+Genres: Science Fiction, Action, Adventure
+GenreURIs: Science_Fiction, Action, Adventure
+Director: Louis Leterrier
+DirectorURIs: Louis_Leterrier
+Actors: Edward Norton, Liv Tyler, Tim Roth, William Hurt, Tim Blake Nelson
+ActorURIs: Edward_Norton, Liv_Tyler, Tim_Roth, William_Hurt, Tim_Blake_Nelson
+Companies: Universal Pictures, Marvel Studios, Valhalla Motion Pictures
+CompanyURIs: Universal_Pictures, Marvel_Studios, Valhalla_Motion_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.
+----------------------------------------
+
+ID: 267935
+Title: The BFG
+Year: 2016
+Rating: 6.0
+Genres: Adventure, Family, Fantasy
+GenreURIs: Adventure, Family, Fantasy
+Director: Steven Spielberg
+DirectorURIs: Steven_Spielberg
+Actors: Ruby Barnhill, Mark Rylance, Rebecca Hall, Jemaine Clement, Bill Hader
+ActorURIs: Ruby_Barnhill, Mark_Rylance, Rebecca_Hall, Jemaine_Clement, Bill_Hader
+Companies: Walt Disney Pictures, Amblin Entertainment, Reliance Entertainment
+CompanyURIs: Walt_Disney_Pictures, Amblin_Entertainment, Reliance_Entertainment
+Countries: India, United States of America
+CountryURIs: India, United_States_of_America
+Plot: The BFG is no ordinary bone-crunching giant. He is far too nice and jumbly. It's lucky for Sophie that he is. Had she been carried off in the middle of the night by the Bloodbottler, or any of the other giantsrather than the BFGshe would have soon become breakfast. When Sophie hears that the giants are flush-bunking off to England to swollomp a few nice little chiddlers, she decides she must stop them once and for all. And the BFG is going to help her!
+----------------------------------------
+
+ID: 281957
+Title: The Revenant
+Year: 2015
+Rating: 7.3
+Genres: Western, Drama, Adventure, Thriller
+GenreURIs: Western, Drama, Adventure, Thriller
+Director: Alejandro González Iñárritu
+DirectorURIs: Alejandro_Gonzlez_Irritu
+Actors: Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson, Paul Anderson
+ActorURIs: Leonardo_DiCaprio, Tom_Hardy, Will_Poulter, Domhnall_Gleeson, Paul_Anderson
+Companies: Regency Enterprises, Appian Way, CatchPlay
+CompanyURIs: Regency_Enterprises, Appian_Way, CatchPlay
+Countries: Canada, Hong Kong, Taiwan, United States of America
+CountryURIs: Canada, Hong_Kong, Taiwan, United_States_of_America
+Plot: In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.
+----------------------------------------
+
+ID: 77950
+Title: Turbo
+Year: 2013
+Rating: 6.1
+Genres: Animation, Family
+GenreURIs: Animation, Family
+Director: David Soren
+DirectorURIs: David_Soren
+Actors: Ryan Reynolds, Paul Giamatti, Michael Peña, Samuel L. Jackson, Luis Guzmán
+ActorURIs: Ryan_Reynolds, Paul_Giamatti, Michael_Pea, Samuel_L_Jackson, Luis_Guzmn
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: The tale of an ordinary garden snail who dreams of winning the Indy 500.
+----------------------------------------
+
+ID: 44896
+Title: Rango
+Year: 2011
+Rating: 6.6
+Genres: Animation, Comedy, Family, Western, Adventure
+GenreURIs: Animation, Comedy, Family, Western, Adventure
+Director: Gore Verbinski
+DirectorURIs: Gore_Verbinski
+Actors: Johnny Depp, Isla Fisher, Ned Beatty, Bill Nighy, Alfred Molina
+ActorURIs: Johnny_Depp, Isla_Fisher, Ned_Beatty, Bill_Nighy, Alfred_Molina
+Companies: Paramount Pictures, Nickelodeon Movies, GK Films
+CompanyURIs: Paramount_Pictures, Nickelodeon_Movies, GK_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.
+----------------------------------------
+
+ID: 270946
+Title: Penguins of Madagascar
+Year: 2014
+Rating: 6.5
+Genres: Family, Animation, Adventure, Comedy
+GenreURIs: Family, Animation, Adventure, Comedy
+Director: Eric Darnell, Simon J. Smith
+DirectorURIs: Eric_Darnell, Simon_J_Smith
+Actors: Tom McGrath, Chris Miller, Christopher Knights, Conrad Vernon, John Malkovich
+ActorURIs: Tom_McGrath, Chris_Miller, Christopher_Knights, Conrad_Vernon, John_Malkovich
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.
+----------------------------------------
+
+ID: 2503
+Title: The Bourne Ultimatum
+Year: 2007
+Rating: 7.3
+Genres: Action, Drama, Mystery, Thriller
+GenreURIs: Action, Drama, Mystery, Thriller
+Director: Paul Greengrass
+DirectorURIs: Paul_Greengrass
+Actors: Matt Damon, Julia Stiles, David Strathairn, Scott Glenn, Paddy Considine
+ActorURIs: Matt_Damon, Julia_Stiles, David_Strathairn, Scott_Glenn, Paddy_Considine
+Companies: Universal Pictures, The Kennedy/Marshall Company, Ludlum Entertainment
+CompanyURIs: Universal_Pictures, The_KennedyMarshall_Company, Ludlum_Entertainment
+Countries: Germany, United States of America
+CountryURIs: Germany, United_States_of_America
+Plot: Bourne is brought out of hiding once again by reporter Simon Ross who is trying to unveil Operation Blackbriar, an upgrade to Project Treadstone, in a series of newspaper columns. Information from the reporter stirs a new set of memories, and Bourne must finally uncover his dark past while dodging The Company's best efforts to eradicate him.
+----------------------------------------
+
+ID: 9502
+Title: Kung Fu Panda
+Year: 2008
+Rating: 6.9
+Genres: Adventure, Animation, Family, Comedy
+GenreURIs: Adventure, Animation, Family, Comedy
+Director: Mark Osborne, John Stevenson
+DirectorURIs: Mark_Osborne, John_Stevenson
+Actors: Jack Black, Dustin Hoffman, Angelina Jolie, Jackie Chan, Lucy Liu
+ActorURIs: Jack_Black, Dustin_Hoffman, Angelina_Jolie, Jackie_Chan, Lucy_Liu
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the "chosen one" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.
+----------------------------------------
+
+ID: 102899
+Title: Ant-Man
+Year: 2015
+Rating: 7.0
+Genres: Science Fiction, Action, Adventure
+GenreURIs: Science_Fiction, Action, Adventure
+Director: Peyton Reed
+DirectorURIs: Peyton_Reed
+Actors: Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll, Bobby Cannavale
+ActorURIs: Paul_Rudd, Michael_Douglas, Evangeline_Lilly, Corey_Stoll, Bobby_Cannavale
+Companies: Marvel Studios
+CompanyURIs: Marvel_Studios
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.
+----------------------------------------
+
+ID: 101299
+Title: The Hunger Games: Catching Fire
+Year: 2013
+Rating: 7.4
+Genres: Adventure, Action, Science Fiction
+GenreURIs: Adventure, Action, Science_Fiction
+Director: Francis Lawrence
+DirectorURIs: Francis_Lawrence
+Actors: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks
+ActorURIs: Jennifer_Lawrence, Josh_Hutcherson, Liam_Hemsworth, Woody_Harrelson, Elizabeth_Banks
+Companies: Lionsgate, Color Force
+CompanyURIs: Lionsgate, Color_Force
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a "Victor's Tour" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.
+----------------------------------------
+
+ID: 228161
+Title: Home
+Year: 2015
+Rating: 6.8
+Genres: Fantasy, Comedy, Animation, Science Fiction, Family
+GenreURIs: Fantasy, Comedy, Animation, Science_Fiction, Family
+Director: Tim Johnson
+DirectorURIs: Tim_Johnson
+Actors: Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez, Matt Jones
+ActorURIs: Jim_Parsons, Rihanna, Steve_Martin, Jennifer_Lopez, Matt_Jones
+Companies: Twentieth Century Fox Film Corporation, DreamWorks Animation
+CompanyURIs: Twentieth_Century_Fox_Film_Corporation, DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: When Earth is taken over by the overly-confident Boov, an alien race in search of a new place to call home, all humans are promptly relocated, while all Boov get busy reorganizing the planet. But when one resourceful girl, Tip, manages to avoid capture, she finds herself the accidental accomplice of a banished Boov named Oh. The two fugitives realize theres a lot more at stake than intergalactic relations as they embark on the road trip of a lifetime.
+----------------------------------------
+
+ID: 74
+Title: War of the Worlds
+Year: 2005
+Rating: 6.2
+Genres: Adventure, Thriller, Science Fiction
+GenreURIs: Adventure, Thriller, Science_Fiction
+Director: Steven Spielberg
+DirectorURIs: Steven_Spielberg
+Actors: Tom Cruise, Dakota Fanning, Miranda Otto, Justin Chatwin, Tim Robbins
+ActorURIs: Tom_Cruise, Dakota_Fanning, Miranda_Otto, Justin_Chatwin, Tim_Robbins
+Companies: Paramount Pictures, DreamWorks SKG, Cruise/Wagner Productions
+CompanyURIs: Paramount_Pictures, DreamWorks_SKG, CruiseWagner_Productions
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop of his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.
+----------------------------------------
+
+ID: 8961
+Title: Bad Boys II
+Year: 2003
+Rating: 6.3
+Genres: Adventure, Action, Comedy, Thriller, Crime
+GenreURIs: Adventure, Action, Comedy, Thriller, Crime
+Director: Michael Bay
+DirectorURIs: Michael_Bay
+Actors: Martin Lawrence, Will Smith, Jordi Mollà, Gabrielle Union, Peter Stormare
+ActorURIs: Martin_Lawrence, Will_Smith, Jordi_Moll, Gabrielle_Union, Peter_Stormare
+Companies: Columbia Pictures Corporation, Don Simpson/Jerry Bruckheimer Films
+CompanyURIs: Columbia_Pictures_Corporation, Don_SimpsonJerry_Bruckheimer_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Out-of-control, trash-talking buddy cops Marcus Burnett and Mike Lowrey of the Miami Narcotics Task Force reunite, and bullets fly, cars crash and laughs explode as they pursue a whacked-out drug lord from the streets of Miami to the barrios of Cuba. But the real fireworks result when Marcus discovers that playboy Mike is secretly romancing Marcus sexy sister.
+----------------------------------------
+
+ID: 417859
+Title: Puss in Boots
+Year: 2011
+Rating: 6.4
+Genres: Action, Adventure, Animation, Family, Fantasy
+GenreURIs: Action, Adventure, Animation, Family, Fantasy
+Director: Chris Miller
+DirectorURIs: Chris_Miller
+Actors: Antonio Banderas, Salma Hayek, Zach Galifianakis, Billy Bob Thornton, Amy Sedaris
+ActorURIs: Antonio_Banderas, Salma_Hayek, Zach_Galifianakis, Billy_Bob_Thornton, Amy_Sedaris
+Companies: DreamWorks
+CompanyURIs: DreamWorks
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots.
+----------------------------------------
+
+ID: 27576
+Title: Salt
+Year: 2010
+Rating: 6.2
+Genres: Action, Mystery, Thriller
+GenreURIs: Action, Mystery, Thriller
+Director: Phillip Noyce
+DirectorURIs: Phillip_Noyce
+Actors: Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski, August Diehl
+ActorURIs: Angelina_Jolie, Liev_Schreiber, Chiwetel_Ejiofor, Daniel_Olbrychski, August_Diehl
+Companies: Columbia Pictures, Di Bonaventura Pictures, Relativity Media
+CompanyURIs: Columbia_Pictures, Di_Bonaventura_Pictures, Relativity_Media
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: As a CIA officer, Evelyn Salt swore an oath to duty, honor and country. Her loyalty will be tested when a defector accuses her of being a Russian spy. Salt goes on the run, using all her skills and years of experience as a covert operative to elude capture. Salt's efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: "Who is Salt?"
+----------------------------------------
+
+ID: 86834
+Title: Noah
+Year: 2014
+Rating: 5.6
+Genres: Drama, Adventure
+GenreURIs: Drama, Adventure
+Director: Darren Aronofsky
+DirectorURIs: Darren_Aronofsky
+Actors: Russell Crowe, Jennifer Connelly, Emma Watson, Logan Lerman, Anthony Hopkins
+ActorURIs: Russell_Crowe, Jennifer_Connelly, Emma_Watson, Logan_Lerman, Anthony_Hopkins
+Companies: Paramount Pictures, Regency Enterprises, Protozoa Pictures
+CompanyURIs: Paramount_Pictures, Regency_Enterprises, Protozoa_Pictures
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A man who suffers visions of an apocalyptic deluge takes measures to protect his family from the coming flood.
+----------------------------------------
+
+ID: 17578
+Title: The Adventures of Tintin
+Year: 2011
+Rating: 6.7
+Genres: Adventure, Animation, Mystery
+GenreURIs: Adventure, Animation, Mystery
+Director: Steven Spielberg
+DirectorURIs: Steven_Spielberg
+Actors: Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg
+ActorURIs: Jamie_Bell, Andy_Serkis, Daniel_Craig, Nick_Frost, Simon_Pegg
+Companies: Paramount Pictures, Columbia Pictures, WingNut Films
+CompanyURIs: Paramount_Pictures, Columbia_Pictures, WingNut_Films
+Countries: New Zealand, United States of America
+CountryURIs: New_Zealand, United_States_of_America
+Plot: Intrepid young reporter, Tintin and his loyal dog, Snowy are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson &amp; Thomson, travel half the world, one step ahead of their enemies as Tintin endeavors to find The Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse.
+----------------------------------------
+
+ID: 673
+Title: Harry Potter and the Prisoner of Azkaban
+Year: 2004
+Rating: 7.7
+Genres: Adventure, Fantasy, Family
+GenreURIs: Adventure, Fantasy, Family
+Director: Alfonso Cuarón
+DirectorURIs: Alfonso_Cuarn
+Actors: Daniel Radcliffe, Rupert Grint, Emma Watson, Gary Oldman, David Thewlis
+ActorURIs: Daniel_Radcliffe, Rupert_Grint, Emma_Watson, Gary_Oldman, David_Thewlis
+Companies: 1492 Pictures, Heyday films, Warner Bros.
+CompanyURIs: 1492_Pictures, Heyday_films, Warner_Bros
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black and turns to sympathetic Professor Lupin for help.
+----------------------------------------
+
+ID: 6972
+Title: Australia
+Year: 2008
+Rating: 6.3
+Genres: Drama
+GenreURIs: Drama
+Director: Baz Luhrmann
+DirectorURIs: Baz_Luhrmann
+Actors: Nicole Kidman, Hugh Jackman, Essie Davis, David Wenham, Bryan Brown
+ActorURIs: Nicole_Kidman, Hugh_Jackman, Essie_Davis, David_Wenham, Bryan_Brown
+Companies: Bazmark Films, Ingenious Film Partners, Twentieth Century Fox Film Corporation
+CompanyURIs: Bazmark_Films, Ingenious_Film_Partners, Twentieth_Century_Fox_Film_Corporation
+Countries: Australia, United States of America, United Kingdom
+CountryURIs: Australia, United_States_of_America, United_Kingdom
+Plot: Set in northern Australia before World War II, an English aristocrat who inherits a sprawling ranch reluctantly pacts with a stock-man in order to protect her new property from a takeover plot. As the pair drive 2,000 head of cattle over unforgiving landscape, they experience the bombing of Darwin, Australia, by Japanese forces firsthand.
+----------------------------------------
+
+ID: 82700
+Title: After Earth
+Year: 2013
+Rating: 5.0
+Genres: Science Fiction, Action, Adventure
+GenreURIs: Science_Fiction, Action, Adventure
+Director: M. Night Shyamalan
+DirectorURIs: M_Night_Shyamalan
+Actors: Jaden Smith, Will Smith, Sophie Okonedo, Zoë Kravitz, Glenn Morshower
+ActorURIs: Jaden_Smith, Will_Smith, Sophie_Okonedo, Zo_Kravitz, Glenn_Morshower
+Companies: Columbia Pictures, Blinding Edge Pictures, Overbrook Entertainment
+CompanyURIs: Columbia_Pictures, Blinding_Edge_Pictures, Overbrook_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: One thousand years after cataclysmic events forced humanity's escape from Earth, Nova Prime has become mankind's new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai's craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets
+----------------------------------------
+
+ID: 10567
+Title: Dinosaur
+Year: 2000
+Rating: 6.2
+Genres: Animation, Family
+GenreURIs: Animation, Family
+Director: Ralph Zondag, Eric Leighton
+DirectorURIs: Ralph_Zondag, Eric_Leighton
+Actors: D. B. Sweeney, Alfre Woodard, Ossie Davis, Max Casella, Hayden Panettiere
+ActorURIs: D_B_Sweeney, Alfre_Woodard, Ossie_Davis, Max_Casella, Hayden_Panettiere
+Companies: Walt Disney Pictures, Walt Disney Feature Animation
+CompanyURIs: Walt_Disney_Pictures, Walt_Disney_Feature_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home.
+----------------------------------------
+
+ID: 181533
+Title: Night at the Museum: Secret of the Tomb
+Year: 2014
+Rating: 6.1
+Genres: Adventure, Comedy, Fantasy, Family
+GenreURIs: Adventure, Comedy, Fantasy, Family
+Director: Shawn Levy
+DirectorURIs: Shawn_Levy
+Actors: Ben Stiller, Rami Malek, Rebel Wilson, Robin Williams, Owen Wilson
+ActorURIs: Ben_Stiller, Rami_Malek, Rebel_Wilson, Robin_Williams, Owen_Wilson
+Companies: Twentieth Century Fox Film Corporation, 1492 Pictures, 21 Laps Entertainment
+CompanyURIs: Twentieth_Century_Fox_Film_Corporation, 1492_Pictures, 21_Laps_Entertainment
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley (Ben Stiller) spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever.
+----------------------------------------
+
+ID: 38055
+Title: Megamind
+Year: 2010
+Rating: 6.7
+Genres: Animation, Action, Comedy, Family, Science Fiction
+GenreURIs: Animation, Action, Comedy, Family, Science_Fiction
+Director: Tom McGrath
+DirectorURIs: Tom_McGrath
+Actors: Will Ferrell, Brad Pitt, Tina Fey, Jonah Hill, David Cross
+ActorURIs: Will_Ferrell, Brad_Pitt, Tina_Fey, Jonah_Hill, David_Cross
+Companies: DreamWorks Animation
+CompanyURIs: DreamWorks_Animation
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Bumbling supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.
+----------------------------------------
+
+ID: 671
+Title: Harry Potter and the Philosopher's Stone
+Year: 2001
+Rating: 7.5
+Genres: Adventure, Fantasy, Family
+GenreURIs: Adventure, Fantasy, Family
+Director: Chris Columbus
+DirectorURIs: Chris_Columbus
+Actors: Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris, Tom Felton
+ActorURIs: Daniel_Radcliffe, Rupert_Grint, Emma_Watson, Richard_Harris, Tom_Felton
+Companies: 1492 Pictures, Warner Bros., Heyday Films
+CompanyURIs: 1492_Pictures, Warner_Bros, Heyday_Films
+Countries: United Kingdom, United States of America
+CountryURIs: United_Kingdom, United_States_of_America
+Plot: Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths -- and about the villain who's to blame.
+----------------------------------------
+
+ID: 49524
+Title: R.I.P.D.
+Year: 2013
+Rating: 5.4
+Genres: Fantasy, Action, Comedy, Crime
+GenreURIs: Fantasy, Action, Comedy, Crime
+Director: Robert Schwentke
+DirectorURIs: Robert_Schwentke
+Actors: Jeff Bridges, Ryan Reynolds, Kevin Bacon, Stephanie Szostak, Mary-Louise Parker
+ActorURIs: Jeff_Bridges, Ryan_Reynolds, Kevin_Bacon, Stephanie_Szostak, Mary_Louise_Parker
+Companies: Universal Pictures, Original Film, Dark Horse Entertainment
+CompanyURIs: Universal_Pictures, Original_Film, Dark_Horse_Entertainment
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him. Based on the comic by Peter M. Lenkov.
+----------------------------------------
+
+ID: 22
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+Year: 2003
+Rating: 7.5
+Genres: Adventure, Fantasy, Action
+GenreURIs: Adventure, Fantasy, Action
+Director: Gore Verbinski
+DirectorURIs: Gore_Verbinski
+Actors: Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley, Jack Davenport
+ActorURIs: Johnny_Depp, Geoffrey_Rush, Orlando_Bloom, Keira_Knightley, Jack_Davenport
+Companies: Walt Disney Pictures, Jerry Bruckheimer Films
+CompanyURIs: Walt_Disney_Pictures, Jerry_Bruckheimer_Films
+Countries: United States of America
+CountryURIs: United_States_of_America
+Plot: Jack Sparrow, a freewheeling 17th-century pirate who roams the Caribbean Sea, butts heads with a rival pirate bent on pillaging the village of Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her. But their seafaring mission is hardly simple.
+----------------------------------------
+
