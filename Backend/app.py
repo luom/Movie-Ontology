@@ -4,19 +4,15 @@ from rdflib import Graph, Literal
 from fuzzywuzzy import fuzz
 import re
 
-app = Flask(__name__)
-CORS(app)  ## Allow front end visit
-
-# ============================================
-# Load RDF data
-# ============================================
-print("Loading RDF data...")
 g = Graph()
+
+app = Flask(__name__)## Create a Flask application instance, __name__ is the name of the current module.
+CORS(app)  ## Staring CORS ,and it will allow front end to visit api
 g.parse("movie_ontology_rdf.ttl", format="turtle")
-print(f"Loaded {len(g)} triples")
+print(f"Loaded {len(g)} triples")## parse the rdf file(knowledge base)and print triple's length.
 
 # Cache for actor list
-_actors_cache = None
+_actors_cache = None## Underscores means private variables and  it for store all the actor list
 
 # ============================================
 # Helper functions
@@ -24,7 +20,7 @@ _actors_cache = None
 def get_all_actors():
     """Get list of all actor names (with caching)"""
     global _actors_cache
-    if _actors_cache is None:
+    if _actors_cache is None: ## check is the cache empty ?
         query = """
         PREFIX : <http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/>
         
@@ -34,30 +30,30 @@ def get_all_actors():
             ?actor :name ?actorName .
         }
         """
-        results = g.query(query)
-        _actors_cache = [str(row.actorName) for row in results]
+        results = g.query(query) ##Execute SPARQL query
+        _actors_cache = [str(row.actorName) for row in results]##Iterate through the result,converting each actorName to a string
         print(f"Cached {len(_actors_cache)} actors")
     return _actors_cache
 
-def find_similar_actors(input_name, threshold=0.5):
+def find_similar_actors(input_name, threshold=0.5):## recieve name and similar threshold euqals to 0.5
     """Find similar actors using fuzzywuzzy"""
     actors = get_all_actors()
-    input_lower = input_name.lower().strip()
+    input_lower = input_name.lower().strip()## covert capital letter to lower and delete space ' 'at head and tail
     
-    if len(input_lower) < 2:
+    if len(input_lower) < 2:## at least input 2 letter ,if not more than 2 letter,will return empty list
         return []
     
-    matches = []
-    for actor in actors:
+    matches = []## initalization the empty list to store match outcome
+    for actor in actors:## travesal all actor
         actor_lower = actor.lower()
         # fuzzywuzzy returns 0-100, divide by 100 to get 0-1
-        ratio = fuzz.ratio(input_lower, actor_lower) / 100
+        ratio = fuzz.ratio(input_lower, actor_lower) / 100## compute the similar
         
         if ratio > threshold:
-            matches.append((actor, ratio))
+            matches.append((actor, ratio))##If satisfy the condition,add (actor, ratio)array to list
     
     # Sort by similarity score
-    matches.sort(key=lambda x: x[1], reverse=True)
+    matches.sort(key=lambda x: x[1], reverse=True)## sort by similarity score
     return matches[:5]
 
 def format_movie_result(row):
@@ -70,14 +66,14 @@ def format_movie_result(row):
         'directorName': str(row.directorName) if hasattr(row, 'directorName') else None,
         'genreName': str(row.genreName) if hasattr(row, 'genreName') else None,
         'studioName': str(row.studioName) if hasattr(row, 'studioName') else None,
-    }
+    }## check row object has attribute or not ..eg :"if hasattr(row, 'title') else None "has 'title' attribute or not
     return {k: v for k, v in movie.items() if v is not None}
 
 # ============================================
 # API Routes
 # ============================================
 
-@app.route('/', methods=['GET'])
+@app.route('/', methods=['GET'])## only recieve the 'GET'request
 def home():
     """API home page"""
     return jsonify({
@@ -91,31 +87,31 @@ def home():
             '/search/studio?name=<name>': 'Search movies by studio',
             '/movie/<id>': 'Get movie details by ID',
             '/stats': 'Get database statistics'
-        }
+        }## convert dictionary to json response and return api information
     })
 
-@app.route('/search', methods=['GET'])
+@app.route('/search', methods=['GET'])## define a search router
 def universal_search():
     """Universal search across all fields"""
-    query_text = request.args.get('q', '').strip()
+    query_text = request.args.get('q', '').strip()## get url query parameter 
     
     if not query_text or len(query_text) < 2:
-        return jsonify({'error': 'Please provide at least 2 characters'}), 400
+        return jsonify({'error': 'Please provide at least 2 characters'}), 400## error request in search frame
     
     # Clean input
-    clean_input = re.sub(r'\s+', ' ', query_text.lower().strip())
+    clean_input = re.sub(r'\s+', ' ', query_text.lower().strip())## match the empty characters and replace single space
     keywords = [k for k in clean_input.split() if len(k) > 2]
     
     if not keywords:
-        return jsonify({'error': 'No valid keywords at least 2 letters'}), 400
+        return jsonify({'error': 'No valid keywords and at least 2 letters'}), 400
     
     # Build conditions for each keyword
     keyword_conditions = []
     for kw in keywords:
         keyword_conditions.append(f'CONTAINS(LCASE(?matchText), "{kw}")')
-    
+    ## check it has lcase match text or not 
     filter_text = ' && '.join(keyword_conditions)
-    
+    ## join():use '&&'connect all conditions
     query = f"""
     PREFIX : <http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/>
     
@@ -188,7 +184,7 @@ def universal_search():
     LIMIT 50
     """
     
-    results = g.query(query)
+    results = g.query(query)## execute query
     
     movies = []
     for row in results:
@@ -199,7 +195,7 @@ def universal_search():
             'matchField': str(row.matchField),
             'matchText': str(row.matchText)
         })
-    
+    ## traversal the result set ,create movie list
     # Remove duplicates (same movie might appear from different matches)
     seen = set()
     unique_movies = []
@@ -214,10 +210,10 @@ def universal_search():
         'results': unique_movies
     })
 
-@app.route('/search/actor', methods=['GET'])
+@app.route('/search/actor', methods=['GET'])## a router about search by actor 
 def search_by_actor():
     """Search movies by actor name (with fuzzy matching)"""
-    actor_name = request.args.get('name', '').strip()
+    actor_name = request.args.get('name', '').strip()## get actor name
     
     if not actor_name or len(actor_name) < 2:
         return jsonify({'error': 'Please provide at least 2 characters'}), 400
@@ -281,7 +277,7 @@ def search_by_actor():
         })
     
     # Use best match
-    best_match = similar[0][0]
+    best_match = similar[0][0]## get the similarest actor name
     suggestions = [{'name': a, 'similarity': s} for a, s in similar]
     
     query = f"""
@@ -301,7 +297,7 @@ def search_by_actor():
     ORDER BY DESC(?year)
     LIMIT 50
     """
-    
+    ## use the best match to research
     results = g.query(query)
     
     movies = []
@@ -321,7 +317,7 @@ def search_by_actor():
         'results': movies,
         'suggestions': suggestions
     })
-
+''''''
 @app.route('/search/director', methods=['GET'])
 def search_by_director():
     """Search movies by director name"""
