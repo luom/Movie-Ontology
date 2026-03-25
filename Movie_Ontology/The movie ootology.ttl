@@ -12,47 +12,36 @@
 #    Object Properties
 #################################################################
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#actedIn
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/actedIn
 :actedIn rdf:type owl:ObjectProperty ;
          owl:inverseOf :hasActor ;
          rdfs:domain <http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Actor(Actress)> ;
          rdfs:range :Movie .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#directedBy
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/directedBy
 :directedBy rdf:type owl:ObjectProperty ;
             rdfs:domain :Movie ;
             rdfs:range :Director .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#hasActor
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/hasActor
 :hasActor rdf:type owl:ObjectProperty .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#hasGenre
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/hasGenre
 :hasGenre rdf:type owl:ObjectProperty ;
           rdfs:domain :Movie ;
           rdfs:range :Genre .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#GenreName
-:GenreName rdf:type owl:DatatypeProperty ;
-           rdfs:domain :Genre ;
-           rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#CompanyName
-:CompanyName rdf:type owl:DatatypeProperty ;
-             rdfs:domain :Company ;        # 属于 Company 类
-             rdfs:range xsd:string .       # 值是字符串
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#producedBy
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/producedBy
 :producedBy rdf:type owl:ObjectProperty ;
             rdfs:domain :Movie ;
             rdfs:range :Company .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#producedIn
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/producedIn
 :producedIn rdf:type owl:ObjectProperty ;
             rdfs:domain :Movie ;
             rdfs:range :Country .
@@ -62,55 +51,67 @@
 #    Data properties
 #################################################################
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#birthDate
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/CompanyName
+:CompanyName rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Company ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/GenreName
+:GenreName rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Genre ;
+           rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/birthDate
 :birthDate rdf:type owl:DatatypeProperty ;
            rdfs:domain :Person ;
            rdfs:range xsd:dateTime .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#duration
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/duration
 :duration rdf:type owl:DatatypeProperty ;
           rdfs:domain :Movie ;
           rdfs:range xsd:integer .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#language
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/language
 :language rdf:type owl:DatatypeProperty ;
           rdfs:domain :Movie ;
           rdfs:range xsd:string .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#name
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/name
 :name rdf:type owl:DatatypeProperty ;
       rdfs:domain :Person ;
       rdfs:range xsd:string .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#plot
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/plot
 :plot rdf:type owl:DatatypeProperty ;
       rdfs:domain :Movie ;
       rdfs:range xsd:string .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#rating
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/rating
 :rating rdf:type owl:DatatypeProperty ;
         rdfs:domain :Movie ;
         rdfs:range xsd:float .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#releaseYear
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/releaseYear
 :releaseYear rdf:type owl:DatatypeProperty ;
              rdfs:domain :Movie ;
              rdfs:range xsd:integer .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#remark
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/remark
 :remark rdf:type owl:DatatypeProperty ;
         rdfs:domain :Movie ;
         rdfs:range xsd:string .
 
 
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#title
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/title
 :title rdf:type owl:DatatypeProperty ;
        rdfs:domain :Movie ;
        rdfs:range xsd:string .
@@ -120,40 +121,44 @@
 #    Classes
 #################################################################
 
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Campany
-:Company rdf:type owl:Class .
-
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Country
-:Country rdf:type owl:Class .
-
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Director
-:Director rdf:type owl:Class ;
-          rdfs:subClassOf :Person .
-
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Genre
-:Genre rdf:type owl:Class .
-
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Movie
-:Movie rdf:type owl:Class .
-
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Person
-:Person rdf:type owl:Class .
-
-
-###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Producer
-:Producer rdf:type owl:Class ;
-          rdfs:subClassOf :Person .
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#GenreName
+:GenreName rdf:type owl:Class ;
+           rdfs:subClassOf :Genre .
 
 
 ###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Actor(Actress)
 <http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5#Actor(Actress)> rdf:type owl:Class ;
                                                                                          rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/Company
+:Company rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/Country
+:Country rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/Director
+:Director rdf:type owl:Class ;
+          rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/Genre
+:Genre rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/Movie
+:Movie rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/Person
+:Person rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/legion/ontologies/2026/0/untitled-ontology-5/Producer
+:Producer rdf:type owl:Class ;
+          rdfs:subClassOf :Person .
 
 
 ###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

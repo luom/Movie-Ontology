@@ -119,7 +119,7 @@
             
         </div>
 
-        <!-- 结果区域 -->
+        
         <div id="results" class="results">
             <div class="loading">Enter a movie title to search...</div>
         </div>
@@ -128,13 +128,13 @@
     <script>
         const API_BASE = 'http://localhost:5000';
 
-        // 设置搜索框的值并搜索
+        // set the value of search frame then search
         function setSearch(title) {
             document.getElementById('searchInput').value = title;
             search();
         }
 
-        // 搜索函数
+        // search function
         async function search() {
             const query = document.getElementById('searchInput').value.trim();
             if (!query) {
@@ -142,11 +142,11 @@
                 return;
             }
 
-            // 显示加载状态
+            // display loading state
             document.getElementById('results').innerHTML = '<div class="loading">Searching...</div>';
 
             try {
-                // 调用API
+                //call api
                 const response = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`);
                 const data = await response.json();
 
@@ -161,7 +161,7 @@
             }
         }
 
-        // 显示统计信息
+        // display statistics information
         async function showStats() {
             document.getElementById('results').innerHTML = '<div class="loading">Loading stats...</div>';
 
@@ -186,7 +186,7 @@
             }
         }
 
-        // 显示搜索结果
+        // display results of query
         function displayResults(data) {
             if (!data.results || data.results.length === 0) {
                 document.getElementById('results').innerHTML = '<div class="loading">No movies found</div>';
@@ -208,12 +208,12 @@
             document.getElementById('results').innerHTML = html;
         }
 
-        // 显示错误
+        // display error
         function showError(message) {
             document.getElementById('results').innerHTML = `<div class="error">${message}</div>`;
         }
 
-        // 页面加载时自动搜索
+        // search between loading
         window.onload = function() {
             search();
         };

@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        input {
+            flex: 1;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            padding: 12px 25px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        .movie {
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            background: #fafafa;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .movie:hover {
+            transform: translateX(5px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            background: #fff;
+        }
+        .movie h3 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+        .movie p {
+            margin: 5px 0;
+            color: #666;
+        }
+        .loading {
+            text-align: center;
+            color: #666;
+            padding: 20px;
+        }
+        .error {
+            color: red;
+            padding: 10px;
+            background: #ffe6e6;
+            border-radius: 5px;
+        }
+        .stats {
+            background: #e9ecef;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .links {
+            margin-bottom: 15px;
+            font-size: 14px;
+        }
+        .links a {
+            color: #007bff;
+            text-decoration: none;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+        .back-button {
+            margin-bottom: 20px;
+            padding: 8px 15px;
+            background: #6c757d;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .back-button:hover {
+            background: #5a6268;
+        }
+        .detail-section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+        .detail-section h3 {
+            margin-top: 0;
+            color: #495057;
+            border-bottom: 2px solid #dee2e6;
+            padding-bottom: 8px;
+        }
+        .detail-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .detail-item {
+            background: #e9ecef;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+        .plot-text {
+            line-height: 1.6;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="app">
+        <div id="searchView">
+            <h1>Movie Search</h1>
+            
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Enter movie title..." value="">
+                <button onclick="search()">Search</button>
+            </div>
+            
+            <div class="links">
+                Examples: 
+                <a onclick="setSearch('inception')">Inception</a> |
+                <a onclick="setSearch('batman')">Batman</a> |
+                <a onclick="setSearch('avatar')">Avatar</a> |
+                <a onclick="setSearch('titanic')">Titanic</a> |
+                <a onclick="showStats()">Statistics</a>
+            </div>
+            
+            <div id="results" class="results">
+                <div class="loading">Enter a movie title to search...</div>
+            </div>
+        </div>
+        
+        <div id="detailView" style="display: none;">
+            <button class="back-button" onclick="backToSearch()">← Back to Search</button>
+            <div id="movieDetail"></div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:5000';
+        
+        function setSearch(title) {
+            document.getElementById('searchInput').value = title;
+            search();
+        }
+        
+        async function search() {
+            const query = document.getElementById('searchInput').value.trim();
+            if (!query) {
+                alert('Please enter a search term');
+                return;
+            }
+            
+            document.getElementById('results').innerHTML = '<div class="loading">Searching...</div>';
+            
+            try {
+                const response = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`);
+                const data = await response.json();
+                
+                if (data.error) {
+                    showError(data.error);
+                    return;
+                }
+                
+                displayResults(data);
+            } catch (error) {
+                showError('Cannot connect to server. Make sure the API is running.');
+            }
+        }
+        
+        function displayResults(data) {
+            if (!data.results || data.results.length === 0) {
+                document.getElementById('results').innerHTML = '<div class="loading">No movies found</div>';
+                return;
+            }
+            
+            let html = `<p>Found ${data.total} movies:</p>`;
+            
+            data.results.forEach(movie => {
+                html += `
+                    <div class="movie" onclick="viewMovieDetail('${escapeHtml(movie.title)}')">
+                        <h3>${escapeHtml(movie.title)} ${movie.year ? '(' + movie.year + ')' : ''}</h3>
+                        ${movie.rating ? `<p>Rating: ${movie.rating}/10</p>` : ''}
+                        ${movie.matchField ? `<p><small>Matched in: ${movie.matchField}</small></p>` : ''}
+                    </div>
+                `;
+            });
+            
+            document.getElementById('results').innerHTML = html;
+        }
+        
+        async function viewMovieDetail(title) {
+            document.getElementById('movieDetail').innerHTML = '<div class="loading">Loading movie details...</div>';
+            
+            document.getElementById('searchView').style.display = 'none';
+            document.getElementById('detailView').style.display = 'block';
+            
+            try {
+                const response = await fetch(`${API_BASE}/movie/details/${encodeURIComponent(title)}`);
+                const movie = await response.json();
+                
+                if (movie.error) {
+                    document.getElementById('movieDetail').innerHTML = `<div class="error">${movie.error}</div>`;
+                    return;
+                }
+                
+                displayMovieDetail(movie);
+            } catch (error) {
+                document.getElementById('movieDetail').innerHTML = '<div class="error">Failed to load movie details</div>';
+            }
+        }
+        
+        function displayMovieDetail(movie) {
+            
+            const uniqueActors = [...new Set(movie.actors || [])];
+            const uniqueDirectors = [...new Set(movie.directors || [])];
+            const uniqueGenres = [...new Set(movie.genres || [])];
+            const uniqueStudios = [...new Set(movie.studios || [])];
+            const uniqueCountries = [...new Set(movie.countries || [])];
+
+            let html = `
+                <div class="detail-section">
+                    <h2>${escapeHtml(movie.title)}</h2>
+                    ${movie.year ? `<p><strong>Year:</strong> ${movie.year}</p>` : ''}
+                    ${movie.rating ? `<p><strong>Rating:</strong> ${movie.rating}/10</p>` : ''}
+                </div>
+            `;
+            
+            if (movie.plot) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Plot</h3>
+                        <p class="plot-text">${escapeHtml(movie.plot)}</p>
+                    </div>
+                `;
+            }
+            
+            if (uniqueDirectors.length > 0) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Director${uniqueDirectors.length > 1 ? 's' : ''}</h3>
+                        <div class="detail-list">
+                            ${uniqueDirectors.map(d => `<span class="detail-item">${escapeHtml(d)}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            if (uniqueActors.length > 0) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Cast</h3>
+                        <div class="detail-list">
+                            ${uniqueActors.slice(0, 10).map(a => `<span class="detail-item">${escapeHtml(a)}</span>`).join('')}
+                            ${uniqueActors.length > 10 ? `<span class="detail-item">+${uniqueActors.length - 10} more</span>` : ''}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            if (uniqueGenres.length > 0) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Genres</h3>
+                        <div class="detail-list">
+                            ${uniqueGenres.map(g => `<span class="detail-item">${escapeHtml(g)}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            if (uniqueStudios.length > 0) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Production Companies</h3>
+                        <div class="detail-list">
+                            ${uniqueStudios.map(s => `<span class="detail-item">${escapeHtml(s)}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            if (uniqueCountries.length > 0) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Countries</h3>
+                        <div class="detail-list">
+                            ${uniqueCountries.map(c => `<span class="detail-item">${escapeHtml(c)}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            document.getElementById('movieDetail').innerHTML = html;
+        }
+        
+        function backToSearch() {
+            document.getElementById('searchView').style.display = 'block';
+            document.getElementById('detailView').style.display = 'none';
+        }
+        
+        async function showStats() {
+            document.getElementById('results').innerHTML = '<div class="loading">Loading stats...</div>';
+            
+            try {
+                const response = await fetch(`${API_BASE}/stats`);
+                const stats = await response.json();
+                
+                let html = '<div class="stats">';
+                html += '<h3>Database Statistics</h3>';
+                html += `<p>Movies: ${stats.movies || 0}</p>`;
+                html += `<p>Actors: ${stats.actors || 0}</p>`;
+                html += `<p>Directors: ${stats.directors || 0}</p>`;
+                html += `<p>Genres: ${stats.genres || 0}</p>`;
+                html += `<p>Studios: ${stats.companies || 0}</p>`;
+                html += `<p>Countries: ${stats.countries || 0}</p>`;
+                html += `<p>Total RDF Triples: ${stats.total_triples || 0}</p>`;
+                html += '</div>';
+                
+                document.getElementById('results').innerHTML = html;
+            } catch (error) {
+                showError('Cannot load statistics');
+            }
+        }
+        
+        function showError(message) {
+            document.getElementById('results').innerHTML = `<div class="error">${message}</div>`;
+        }
+        
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        window.onload = function() {
+            search();
+        };
+    </script>
+</body>
+</html>
